@@ -2,7 +2,7 @@
 title: Publications
 ref: publications
 permalink: /publications/
-description: "Publications by Sandra León: journal articles, books, book chapters and policy papers on decentralisation, federalism, economic voting and intergovernmental relations."
+description: "Publications by Sandra León: journal articles, books, book chapters and policy papers on decentralization, federalism, economic voting and intergovernmental relations."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
 [Journal articles](#journal-articles) · [Books](#books) · [Book chapters](#book-chapters) · [Policy papers](#policy-papers) · [Work in progress](#work-in-progress)

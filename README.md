@@ -3,7 +3,7 @@
 Academic website of Sandra León, published with GitHub Pages
 (https://sandraleonalfonso.github.io/Sandra-Leon/ until the .com domain is connected).
 
-## How it is organised
+## How it is organized
 
 - `index.html`, `research.md`, `publications.md`, `teaching.md`, `engagement.md`, `contact.md`: one page per section (English).
 - `_papers/`: one file per journal article; each becomes its own page under `/publications/`, with Google Scholar citation tags.

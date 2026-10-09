@@ -2,7 +2,7 @@
 title: Teaching
 ref: teaching
 permalink: /teaching/
-description: "Teaching by Sandra León at Universidad Autónoma de Madrid, Universidad Carlos III de Madrid and the University of York: elections, political behaviour, research methods and federalism."
+description: "Teaching by Sandra León at Universidad Autónoma de Madrid, Universidad Carlos III de Madrid and the University of York: elections, political behavior, research methods and federalism."
 ---
 My aim is to give students the knowledge and analytical tools to critically examine political events, and to show that social science research is a continuous process that embraces complexity and uncertainty.
 
