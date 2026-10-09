@@ -10,7 +10,7 @@ Mi investigación se centra en la descentralización y el federalismo, la polari
 <section class="strand" markdown="1">
 <p class="strand-num">Línea de investigación 1</p>
 
-## AI-GOV: Inteligencia artificial y gobernanza multinivel
+## AI-GOV: Inteligencia artificial, rendición de cuentas y gobernanza multinivel
 
 Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y la rendición de cuentas democrática.
 
