@@ -79,4 +79,5 @@ description: "Publications by Sandra León: journal articles, books, book chapte
 - How Disaster Divides and Unites along Territorial Lines (with A. Garmendia)
 - Territorial Affective Polarization (with A. Garmendia)
 - Testing the limits of partisan bias (with Ll. Orriols)
+- Losers' Consent: Foundations, Causes, and Consequences of an Elusive Concept (with I. Jurado). *Annual Review of Political Science*
 {: .pub-list}
