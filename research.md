@@ -4,7 +4,7 @@ ref: research
 permalink: /research/
 description: "Research projects led by Sandra León: FEDCRISIS on federalism under crisis, polarization and populism; polarization and cooperation experiments; and REACCT on climate policy backlash in Spain."
 ---
-My research examines decentralisation and federalism, economic voting, and intergovernmental relations. I adopt a comparative perspective and employ quantitative methods to study the interaction between political institutions and electoral behaviour.
+My research examines decentralisation and federalism, affective polarization, and intergovernmental relations. I adopt a comparative perspective and employ quantitative methods to study the interaction between political institutions and electoral behaviour.
 
 ## FEDCRISIS: Federalism Under Challenge: Crisis, Polarization and Populism
 
