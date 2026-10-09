@@ -1,0 +1,16 @@
+{%- comment -%}EN | ES switch. Links to this page's translation when it exists.{%- endcomment -%}
+{%- assign t = site.data.i18n[page.lang] -%}
+<ul class="lang-switch" aria-label="Language / Idioma">
+  {%- for l in site.languages -%}
+  {%- assign other = translations | where: "lang", l | first -%}
+  <li>
+    {%- if l == page.lang -%}
+    <span aria-current="true" lang="{{ l }}">{{ l | upcase }}</span>
+    {%- elsif other -%}
+    <a href="{{ other.url | relative_url }}" lang="{{ l }}" hreflang="{{ l }}" title="{{ site.data.i18n[l].lang_name }}">{{ l | upcase }}</a>
+    {%- else -%}
+    <span class="unavailable" title="{{ t.lang_unavailable }}" lang="{{ l }}">{{ l | upcase }}</span>
+    {%- endif -%}
+  </li>
+  {%- endfor -%}
+</ul>

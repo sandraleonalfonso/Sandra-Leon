@@ -1,0 +1,47 @@
+---
+title: Sandra León
+ref: home
+permalink: /
+description: "Sandra León is a political scientist and Tenured Research Scientist at the Institute of Public Goods and Policies (IPP), Spanish National Research Council (CSIC). Research on decentralisation and federalism, economic voting and intergovernmental relations."
+hide_title: true
+---
+<section class="intro">
+  <picture class="portrait">
+    <img src="{{ '/assets/img/sandra-leon-320.jpg' | relative_url }}"
+         srcset="{{ '/assets/img/sandra-leon-320.jpg' | relative_url }} 320w, {{ '/assets/img/sandra-leon-640.jpg' | relative_url }} 640w"
+         sizes="(min-width: 40rem) 13rem, 10rem"
+         width="320" height="345" alt="Portrait of Sandra León">
+  </picture>
+  <div>
+    <h1>Sandra León</h1>
+    <p class="subtitle">Political Scientist<br>
+      Tenured Research Scientist, <a href="https://ipp.csic.es/">Institute of Public Goods and Policies (IPP)</a>, Spanish National Research Council (CSIC)</p>
+    <ul class="profile-links">
+      <li><a href="mailto:sandra.leon@csic.es">Email</a></li>
+      {%- for p in site.author.profiles %}
+      <li><a href="{{ p.url }}" rel="me">{{ p.name }}</a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<p>Welcome to my homepage!</p>
+
+<p>I am a political scientist working as a Tenured Research Scientist at the Institute of Public Goods and Policies, Spanish National Research Council (CSIC). My research examines decentralisation and federalism, economic voting, and intergovernmental relations. I adopt a comparative perspective and employ quantitative methods to study the interaction between political institutions and electoral behaviour.</p>
+
+<h2>Research interests</h2>
+<ul>
+  <li>Decentralisation and federalism</li>
+  <li>Economic voting</li>
+  <li>Intergovernmental relations</li>
+  <li>Political institutions and electoral behaviour</li>
+</ul>
+
+<h2>Recent publications</h2>
+{%- assign recent = site.papers | where: "lang", page.lang | sort: "order" %}
+<ul class="pub-list">
+  {%- for p in recent limit: 4 %}
+  <li>{% include pub-item.html paper=p %}</li>
+  {%- endfor %}
+</ul>
+<p><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>

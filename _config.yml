@@ -1,0 +1,53 @@
+# Site settings. When the .com domain is connected, set `url` to it
+# (for example https://www.sandraleon.com) and `baseurl` to "".
+title: Sandra León
+url: https://sandraleonalfonso.github.io
+baseurl: /Sandra-Leon
+
+author:
+  name: Sandra León
+  job_title: Tenured Research Scientist
+  affiliation: Institute of Public Goods and Policies (IPP), Spanish National Research Council (CSIC)
+  affiliation_url: https://ipp.csic.es/
+  email: sandra.leon@csic.es
+  photo: /assets/img/sandra-leon-640.jpg
+  profiles:
+    - name: Google Scholar
+      url: https://scholar.google.com/citations?user=NykxDSoAAAAJ&hl=en
+    - name: ORCID
+      url: https://orcid.org/0000-0002-4268-0302
+    - name: CSIC / IPP
+      url: https://ipp.csic.es/es/personal/sandra-leon-alfonso
+    - name: LinkedIn
+      url: https://www.linkedin.com/in/sandraleon-prof
+
+# Languages. English lives at the site root, Spanish under /es/.
+# Every page has a `lang` and a `ref`; pages that share a `ref` are
+# translations of each other, which drives the EN | ES switch,
+# the hreflang tags and the sitemap.
+languages: [en, es]
+default_lang: en
+
+collections:
+  papers:
+    output: true
+
+defaults:
+  - scope: { path: "" }
+    values: { layout: page, lang: en }
+  - scope: { path: "", type: papers }
+    values: { layout: paper, lang: en }
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Use no GitHub Pages theme; the site has its own layouts and styles.
+theme: null

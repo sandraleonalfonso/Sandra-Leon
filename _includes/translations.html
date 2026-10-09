@@ -1,0 +1,7 @@
+{%- comment -%}Sets `translations`: every page or paper sharing this page's ref (this page included).{%- endcomment -%}
+{%- assign all_docs = site.pages | concat: site.papers -%}
+{%- if page.ref -%}
+  {%- assign translations = all_docs | where: "ref", page.ref -%}
+{%- else -%}
+  {%- assign translations = "" | split: "" -%}
+{%- endif -%}

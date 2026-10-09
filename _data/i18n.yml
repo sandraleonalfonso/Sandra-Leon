@@ -1,0 +1,43 @@
+# Interface text in each language. Page content lives in the pages.
+en:
+  nav:
+    - { ref: home, label: Home }
+    - { ref: research, label: Research }
+    - { ref: publications, label: Publications }
+    - { ref: teaching, label: Teaching }
+    - { ref: engagement, label: Public engagement }
+    - { ref: contact, label: Contact }
+  skip: Skip to content
+  menu: Menu
+  lang_name: English
+  lang_unavailable: Spanish version coming soon
+  journal_articles: Journal articles
+  back_to_publications: All publications
+  published_in: Published in
+  coauthors: With
+  doi: DOI
+  read_article: Read the article
+  find_scholar: Find on Google Scholar
+  cite: How to cite
+  footer_profiles: Profiles
+es:
+  nav:
+    - { ref: home, label: Inicio }
+    - { ref: research, label: Investigación }
+    - { ref: publications, label: Publicaciones }
+    - { ref: teaching, label: Docencia }
+    - { ref: engagement, label: Divulgación }
+    - { ref: contact, label: Contacto }
+  skip: Saltar al contenido
+  menu: Menú
+  lang_name: Español
+  lang_unavailable: English version not available
+  journal_articles: Artículos en revistas
+  back_to_publications: Todas las publicaciones
+  published_in: Publicado en
+  coauthors: Con
+  doi: DOI
+  read_article: Leer el artículo
+  find_scholar: Buscar en Google Scholar
+  cite: Cómo citar
+  footer_profiles: Perfiles
