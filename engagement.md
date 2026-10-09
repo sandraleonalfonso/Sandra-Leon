@@ -12,7 +12,7 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 
 <dl class="timeline">
   <dt>2026</dt>
-  <dd><span class="tl-role">Expert evidence, inquiry into fiscal devolution in England</span><span class="tl-org">House of Lords Economic Affairs Committee (16 June)</span></dd>
+  <dd><span class="tl-role">Expert evidence, inquiry into fiscal devolution in England</span><span class="tl-org">Economic Affairs Committee, House of Lords, UK Parliament (Westminster), 16 June</span></dd>
   <dt>2024</dt>
   <dd><span class="tl-role">Climate change and the Spanish electorate (with Ll. Orriols)</span><span class="tl-org">Harmon Consulting</span></dd>
   <dt>2020</dt>
