@@ -21,19 +21,28 @@ I study the impact of artificial intelligence on multilevel governance and democ
 
 ## Affective polarization and democracy
 
-**Territorial affective polarization.** With Amuitz Garmendia, we explore territorial affective polarization from a comparative perspective in six countries: Germany, Italy, Belgium, Spain, the United States and the United Kingdom.
+<div class="substrand" markdown="1">
+### Territorial affective polarization
 
-**Polarization and cooperation.** With Ignacio Jurado and Albert Falcó, I run large-scale behavioral experiments in Spain, Brazil and the United States to test whether affective polarization weakens everyday cooperation. People help less, and with lower quality, when the beneficiary backs their most disliked party. Out-group animosity matters more than in-group affection, personal rewards raise cooperation more than public-good incentives, and political tasks reduce cooperation. Polarization spills over even into minimal, impersonal cooperation.
+With Amuitz Garmendia, we explore territorial affective polarization from a comparative perspective in six countries: Germany, Italy, Belgium, Spain, the United States and the United Kingdom.
 
-**Losers' consent.** I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studies why electoral losers accept being governed by the winners, and when that acceptance breaks down, using surveys, experiments and qualitative methods across more than 20 democracies.
+*Territorial Affective Polarization: Concept, Prevalence, and Impact* (with A. Garmendia), in progress
+{: .strand-paper}
+</div>
 
-<p class="strand-funding">Project: CONSENT, ERC Consolidator Grant led by Ignacio Jurado at IPP-CSIC (grant agreement No. 101170551).</p>
+<div class="substrand" markdown="1">
+### Polarization and cooperation
 
-<div class="strand-papers" markdown="1">
-<h3>Papers</h3>
+With Ignacio Jurado and Albert Falcó, I run large-scale behavioral experiments in Spain, Brazil and the United States to test whether affective polarization weakens everyday cooperation. People help less, and with lower quality, when the beneficiary backs their most disliked party. Out-group animosity matters more than in-group affection, personal rewards raise cooperation more than public-good incentives, and political tasks reduce cooperation. Polarization spills over even into minimal, impersonal cooperation.
 
 *Partisan animosity and cooperation: A Behavioral Experiment* (with I. Jurado and A. Falcó), in progress
 {: .strand-paper}
+</div>
+
+<div class="substrand" markdown="1">
+### Losers' consent
+
+I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studies why electoral losers accept being governed by the winners, and when that acceptance breaks down, using surveys, experiments and qualitative methods across more than 20 democracies. CONSENT is an ERC Consolidator Grant led by Ignacio Jurado at IPP-CSIC (grant agreement No. 101170551).
 
 *Losers' Consent: Foundations, Causes, and Consequences of an Elusive Concept* (with I. Jurado), *Annual Review of Political Science*, in progress
 {: .strand-paper}

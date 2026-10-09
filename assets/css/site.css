@@ -126,3 +126,8 @@ span.pub-title { color: var(--text); }
 .press-item { margin: 0; padding: 0.6rem 0; border-top: 1px solid var(--line); }
 .press-meta { display: block; font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
 .press-outlet { color: var(--accent); font-variant: small-caps; letter-spacing: 0.05em; font-size: 1.05rem; }
+.substrand { margin: 1.1rem 0 0; padding-top: 0.9rem; border-top: 1px solid var(--line); }
+.substrand:first-of-type { border-top: 0; padding-top: 0; }
+.substrand h3 { font-size: 1.1rem; font-style: normal; font-weight: 600; margin: 0 0 0.4rem; }
+.substrand p { margin: 0 0 0.6rem; }
+.substrand .strand-paper { padding-left: 0.9rem; border-left: 2px solid var(--accent); color: var(--text); }
