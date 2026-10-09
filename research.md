@@ -66,11 +66,5 @@ I study how crises and disasters shape citizens' trust, their views on who shoul
 
 *How Disaster Divides and Unites along Territorial Lines* (with A. Garmendia), in progress
 {: .strand-paper}
-
-[Crisis and Centralization: How the Pandemic Reshaped Territorial Preferences in Spain]({{ '/publications/2026-crisis-centralization-how-pandemic-reshaped-territorial/' | relative_url }}) (with A. Garmendia), *South European Society and Politics*, forthcoming
-{: .strand-paper}
-
-[Crisis management and territorial preferences: Experimental evidence during the pandemic]({{ '/publications/2025-crisis-management-territorial-preferences-experimental-evidence/' | relative_url }}) (with A. Garmendia), *European Journal of Political Research*, 2025
-{: .strand-paper}
 </div>
 </section>
