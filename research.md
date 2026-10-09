@@ -9,7 +9,7 @@ My research examines decentralisation and federalism, affective polarization, an
 <section class="strand" markdown="1">
 <p class="strand-num">Research line 1</p>
 
-## Artificial intelligence and multilevel governance
+## AI-GOV: Artificial intelligence and multilevel governance
 
 I study the impact of artificial intelligence on multilevel governance and democratic accountability.
 
