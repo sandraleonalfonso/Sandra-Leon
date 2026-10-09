@@ -66,7 +66,7 @@ Quoted in:
 - *The Economist*, 16/04/2020: Nasty Politics Returns to Spain
 - *Financial Times*, 07/01/2020: Pedro Sánchez Prepares to Dig In as Spain's Prime Minister
 - *Financial Times*, 11/11/2019: Vox Breaks Out of Spain's Political Wilderness
-- *infoLibre*, 10/06/2018: [El cambio político rompe la inercia victoriosa de Ciudadanos](https://www.infolibre.es/politica/cambio-politico-rompe-inercia-victoriosa-ciudadanos_1_1159395.html)
+- *InfoLibre*, 10/06/2018: [El cambio político rompe la inercia victoriosa de Ciudadanos](https://www.infolibre.es/politica/cambio-politico-rompe-inercia-victoriosa-ciudadanos_1_1159395.html)
 - *The Economist*, 10/02/2018: Spain's Centrist Ciudadanos Are on the March
 - *The New York Times*, 22/12/2017: [Catalonia's Election Yields a Crisis That Is Here to Stay](https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html)
 - *Politico Europe*, 15/11/2017: [Spanish regions to Catalonia: Up yours](https://www.politico.eu/article/spain-regional-conundrum-catalan-independence/)
@@ -75,7 +75,7 @@ Quoted in:
 ## Op-eds
 
 - [Author page at *El País*](http://elpais.com/autor/sandra_leon/a/)
-- *Tintalibre* (Infolibre), 20/12/2015: ¿Quién teme a las coaliciones?
+- *Tintalibre* (InfoLibre), 20/12/2015: ¿Quién teme a las coaliciones?
 - *Ahorasemanal*, 20/11/2015: Balance de legislatura: deterioro institucional
 - *CNN.com*, 12/06/2012: How the indignados motivated Spain
 - *Claves de Razón Práctica*, 2010: La competición electoral en España (with L. Orriols)
