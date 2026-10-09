@@ -56,6 +56,7 @@ Quoted in:
 - *El País*, 18/03/2026: [Efecto Trump, voto útil, pleamar electoral: en busca del porqué del éxito a medias de Vox este 15-M](https://elpais.com/espana/2026-03-18/efecto-trump-voto-util-pleamar-electoral-en-busca-del-porque-del-exito-a-medias-de-vox-este-15-m.html)
 - *The Guardian*, 15/02/2024: [What Will Spain Look Like When It Runs Out of Water?](https://www.theguardian.com/commentisfree/2024/feb/15/spain-water-barcelona-farmers-tourism-catalonia-drought)
 - *The New York Times*, 19/06/2023: Once Scorned, Far Right Secures Foothold in Spanish Cities
+- *La Vanguardia*, 27/01/2023: [Irritación](https://www.lavanguardia.com/opinion/20230127/8711907/irritacion.html) (column by Màrius Carol)
 - *Financial Times*, 07/05/2021: Isabel Díaz Ayuso: The Spanish Right's Saviour
 - *Financial Times*, 05/05/2021: Iglesias Exits Political Stage as Spanish Left Licks Its Wounds
 - *El País*, 23/04/2021: [La demonización del rival en política: por qué las campañas negativas son más eficaces](https://elpais.com/ciencia/2021-04-23/la-demonizacion-del-rival-en-politica.html)
