@@ -1,4 +1,5 @@
 {%- assign p = include.paper -%}
+{%- assign t = site.data.i18n[page.lang] -%}
 {%- assign co = p.authors | where_exp: "a", "a != site.author.name" -%}
 <a class="pub-title" href="{{ p.url | relative_url }}">{{ p.title }}</a>
-<span class="pub-meta">{% if include.show_year %}{{ p.year }} · {% endif %}{% if co.size > 0 %}with {{ co | join: ", " }} · {% endif %}<em>{{ p.journal }}</em>{% if p.volume %}, {{ p.volume }}{% if p.issue %}({{ p.issue }}){% endif %}{% endif %}{% if p.first_page %}, {{ p.first_page }}–{{ p.last_page }}{% endif %}{% if p.status %} · {{ p.status }}{% endif %}</span>
+<span class="pub-meta">{% if include.show_year %}{{ p.year }} · {% endif %}{% if co.size > 0 %}{{ t.with }} {{ co | join: ", " }} · {% endif %}<em>{{ p.journal }}</em>{% if p.volume %}, {{ p.volume }}{% if p.issue %}({{ p.issue }}){% endif %}{% endif %}{% if p.first_page %}, {{ p.first_page }}–{{ p.last_page }}{% endif %}{% if p.status %} · {{ t.status[p.status] | default: p.status }}{% endif %}</span>

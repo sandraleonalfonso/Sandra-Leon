@@ -11,7 +11,7 @@ description: "Publications by Sandra León: journal articles, books, book chapte
 ## Journal articles (selected)
 {: #journal-articles}
 
-{% assign articles = site.papers | where: "lang", page.lang | sort: "order" %}
+{% assign articles = site.papers | sort: "order" %}
 {% assign years = articles | group_by: "year" %}
 <div class="by-year">
 {%- for y in years %}

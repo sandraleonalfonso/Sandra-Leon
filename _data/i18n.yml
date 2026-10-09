@@ -10,7 +10,7 @@ en:
   skip: Skip to content
   menu: Menu
   lang_name: English
-  lang_unavailable: Spanish version coming soon
+  lang_unavailable: Not available in Spanish
   journal_articles: Journal articles
   back_to_publications: All publications
   published_in: Published in
@@ -20,6 +20,9 @@ en:
   find_scholar: Find on Google Scholar
   cite: How to cite
   footer_profiles: Profiles
+  with: with
+  affiliation: Institute of Public Goods and Policies (IPP), Spanish National Research Council (CSIC)
+  status: {}
 es:
   nav:
     - { ref: home, label: Inicio }
@@ -41,3 +44,8 @@ es:
   find_scholar: Buscar en Google Scholar
   cite: Cómo citar
   footer_profiles: Perfiles
+  with: con
+  affiliation: Instituto de Políticas y Bienes Públicos (IPP), Consejo Superior de Investigaciones Científicas (CSIC)
+  status:
+    Published online: Publicado online
+    Forthcoming: En prensa

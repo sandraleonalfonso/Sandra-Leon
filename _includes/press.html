@@ -1,0 +1,9 @@
+{%- comment -%}Press list from _data/press.yml. Usage: include press.html items=site.data.press.media{%- endcomment -%}
+<div class="press">
+{%- for it in include.items %}
+<p class="press-item"><span class="press-meta"><span class="press-outlet">{{ it.outlet }}</span> · {{ it.date }}</span>
+{% if it.url %}<a href="{{ it.url }}">{{ it.title }}</a>{% else %}{{ it.title }}{% endif %}
+{%- assign note = it.note -%}{%- if page.lang == "es" and it.note_es %}{% assign note = it.note_es %}{% endif -%}
+{%- if note %} ({{ note }}){% endif %}</p>
+{%- endfor %}
+</div>

@@ -34,7 +34,7 @@ hide_title: true
 </ul>
 
 <h2>Recent publications</h2>
-{%- assign recent = site.papers | where: "lang", page.lang | sort: "order" %}
+{%- assign recent = site.papers | sort: "order" %}
 <ul class="pub-list plain">
   {%- for p in recent limit: 4 %}
   <li>{% include pub-item.html paper=p show_year=true %}</li>

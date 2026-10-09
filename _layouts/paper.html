@@ -9,7 +9,7 @@ section: publications
   <h1>{{ page.title }}</h1>
   <p class="paper-authors">{{ page.authors | join: ", " }}</p>
   <p class="paper-venue">
-    <em>{{ page.journal }}</em>{% if page.volume %}, {{ page.volume }}{% if page.issue %}({{ page.issue }}){% endif %}{% endif %}{% if page.first_page %}, {{ page.first_page }}{% if page.last_page %}–{{ page.last_page }}{% endif %}{% endif %} · {{ page.year }}{% if page.status %} · {{ page.status }}{% endif %}
+    <em>{{ page.journal }}</em>{% if page.volume %}, {{ page.volume }}{% if page.issue %}({{ page.issue }}){% endif %}{% endif %}{% if page.first_page %}, {{ page.first_page }}{% if page.last_page %}–{{ page.last_page }}{% endif %}{% endif %} · {{ page.year }}{% if page.status %} · {{ t.status[page.status] | default: page.status }}{% endif %}
   </p>
 
   {%- if page.abstract %}
