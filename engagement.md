@@ -18,11 +18,11 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
   <dt>2020</dt>
   <dd><span class="tl-role">Policy Advisor, Support for Managing Fiscal Federalism in Nepal</span><span class="tl-org">Forum of Federations, with UK DFID and The Asia Foundation</span></dd>
   <dt>2019</dt>
-  <dd><span class="tl-role">Expert evidence</span><span class="tl-org">House of Commons Scottish Affairs Committee (25 January)</span></dd>
+  <dd><span class="tl-role">Expert evidence</span><span class="tl-org">Scottish Affairs Committee, House of Commons, UK Parliament (Westminster), 25 January</span></dd>
   <dt>2015–2016</dt>
   <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">LGiU (Local Government Information Unit)</span></dd>
   <dt>2015</dt>
-  <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">Scottish Parliament Devolution (Further Powers) Committee (27 August)</span></dd>
+  <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">Devolution (Further Powers) Committee, Scottish Parliament (Holyrood), 27 August</span></dd>
   <dt>2003–2004</dt>
   <dd><span class="tl-role">Expert Group</span><span class="tl-org">Observatorio del Sistema Nacional de Salud, Ministry of Health</span></dd>
   <dt>2001–2002</dt>
@@ -43,7 +43,7 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
   <dt>2018–2019</dt>
   <dd><span class="tl-role">Director-General, Office of the High Commissioner to Fight Against Child Poverty</span><span class="tl-org">Ministry of the Presidency, Government of Spain (Oct 2018–Jun 2019)</span></dd>
   <dt>2017</dt>
-  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament</span></dd>
+  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament (Holyrood)</span></dd>
   <dt>2010–present</dt>
   <dd><span class="tl-role">Member, External Review Committee</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
 </dl>
