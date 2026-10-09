@@ -75,13 +75,65 @@ Colaboradora habitual de [*Piedras de Papel*](https://www.eldiario.es/piedrasdep
 ## Radio, televisión y pódcast
 {: #radio-tv}
 
+### Radio
+
 <dl class="timeline">
-  <dt>Televisión</dt>
-  <dd>Analista en las noches electorales de los especiales de <em>Al Rojo Vivo</em> en laSexta: elecciones generales de 2023, autonómicas y municipales de 2023, Castilla y León 2022, Madrid 2021, y Galicia y País Vasco 2020.</dd>
-  <dt>Tertulias</dt>
-  <dd>laSexta (<em>El Objetivo</em>, <em>La Sexta Noche</em>, <em>Al Rojo Vivo</em>, <em>Noticias</em>), TV3 (referéndum del 1-O de 2017, especiales electorales de 2016), Cuatro (2015), CNN+ (2009).</dd>
-  <dt>Radio</dt>
-  <dd>Analista habitual en <em>Hoy por Hoy</em> de la Cadena SER (2011–2012, verano de 2022); entrevistas en <em>El Faro</em>, <em>A vivir que son dos días</em> y <em>Hora 25</em> (2014–2023).</dd>
-  <dt>Pódcast</dt>
-  <dd>Invitada en <em>Pausa</em> (El Confidencial), con Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a> (7 de septiembre de 2022).</dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Entrevista sobre los votantes indecisos</span><span class="tl-org">Cadena SER, <em>El Faro</em>, 23 de enero</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Analista política, temporada de verano</span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, julio–agosto</span></dd>
+  <dt>2020</dt>
+  <dd><span class="tl-role">Entrevista sobre los partidos políticos</span><span class="tl-org">Cadena SER, <em>El Faro</em>, 21 de octubre</span></dd>
+  <dt>2020</dt>
+  <dd><span class="tl-role">Entrevista sobre la COVID y las relaciones intergubernamentales</span><span class="tl-org">Cadena SER, <em>A vivir que son dos días</em>, 30 de agosto</span></dd>
+  <dt>2017</dt>
+  <dd><span class="tl-role">Entrevista sobre la aplicación del artículo 155 de la Constitución en Cataluña</span><span class="tl-org">Cadena SER, <em>A vivir que son dos días</em>, 22 de octubre</span></dd>
+  <dt>2017</dt>
+  <dd><span class="tl-role">Entrevista sobre las elecciones presidenciales francesas</span><span class="tl-org">Cadena SER, <em>A vivir que son dos días</em>, 12 de julio</span></dd>
+  <dt>2016</dt>
+  <dd><span class="tl-role">Entrevista sobre política española</span><span class="tl-org">Cadena SER, <em>Hora 25</em>, 29 de noviembre</span></dd>
+  <dt>2016</dt>
+  <dd><span class="tl-role">Entrevista sobre política española</span><span class="tl-org">Cadena SER, <em>Hora 25</em>, 10 de mayo</span></dd>
+  <dt>2016</dt>
+  <dd><span class="tl-role">Entrevista sobre la votación de investidura</span><span class="tl-org">Cadena SER, <em>Hora 25</em>, 4 de marzo</span></dd>
+  <dt>2016</dt>
+  <dd><span class="tl-role">Entrevista sobre la formación de gobierno</span><span class="tl-org">Cadena SER, <em>Hora 25</em>, 19 de febrero</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Entrevista sobre las elecciones generales</span><span class="tl-org">Cadena SER, <em>Hora 25</em>, 18 de diciembre</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Entrevista para presentar el libro <em>Aragón es nuestro Ohio</em></span><span class="tl-org">Cadena SER, <em>A vivir que son dos días</em>, 5 de septiembre</span></dd>
+  <dt>2014</dt>
+  <dd><span class="tl-role">Entrevista sobre los sistemas universitarios español y británico</span><span class="tl-org">Cadena SER, <em>A vivir que son dos días</em>, 27 de julio</span></dd>
+  <dt>2011–2012</dt>
+  <dd><span class="tl-role">Analista política habitual (y ocasionalmente desde entonces)</span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, junio de 2011–septiembre de 2012</span></dd>
+</dl>
+
+### Televisión
+
+<dl class="timeline">
+  <dt>2015–actualidad</dt>
+  <dd><span class="tl-role">Analista política</span><span class="tl-org">laSexta, <em>Al Rojo Vivo</em>, incluidos los especiales de noches electorales: generales de 2023, autonómicas y municipales de 2023, Castilla y León 2022, Madrid 2021, y Galicia y País Vasco 2020</span></dd>
+  <dt>2017</dt>
+  <dd><span class="tl-role">Analista sobre el control parlamentario</span><span class="tl-org">laSexta, <em>El Objetivo</em>, 28 de noviembre</span></dd>
+  <dt>2016–2017</dt>
+  <dd><span class="tl-role">Analista, programa especial sobre el referéndum del 1-O</span><span class="tl-org">TV3, 23 de diciembre de 2016, 1 de octubre de 2017 y 21 de diciembre de 2017</span></dd>
+  <dt>2016</dt>
+  <dd><span class="tl-role">Analista, programa especial sobre las elecciones generales de 2016</span><span class="tl-org">TV3, 9 de junio</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Entrevista sobre los votantes indecisos</span><span class="tl-org">laSexta, <em>laSexta Noticias</em>, 18 de diciembre</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Entrevista</span><span class="tl-org">laSexta, <em>El Objetivo</em>, 18 de octubre</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Entrevista sobre el papel de los indecisos en las elecciones autonómicas y municipales del 24 de mayo</span><span class="tl-org">laSexta, <em>laSexta Noche</em>, 29 de mayo</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Análisis de las elecciones autonómicas y municipales</span><span class="tl-org">Cuatro, informativos, 19 de mayo</span></dd>
+  <dt>2009</dt>
+  <dd><span class="tl-role">Analista</span><span class="tl-org">CNN+, <em>A debate</em>, 24 de junio</span></dd>
+</dl>
+
+### Pódcast
+
+<dl class="timeline">
+  <dt>2022</dt>
+  <dd><span class="tl-role">Invitada, con Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 de septiembre</span></dd>
 </dl>
