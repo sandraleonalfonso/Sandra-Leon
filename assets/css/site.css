@@ -131,3 +131,5 @@ span.pub-title { color: var(--text); }
 .substrand h3 { font-size: 1.1rem; font-style: normal; font-weight: 600; margin: 0 0 0.4rem; }
 .substrand p { margin: 0 0 0.6rem; }
 .substrand .strand-paper { padding-left: 0.9rem; border-left: 2px solid var(--accent); color: var(--text); }
+.course-tags { margin: 0.35rem 0 0.6rem; }
+.course-tags li { font-size: 0.85rem; color: var(--text); }
