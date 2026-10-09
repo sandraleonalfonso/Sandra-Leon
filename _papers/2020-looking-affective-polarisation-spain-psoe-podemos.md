@@ -11,6 +11,7 @@ volume: 25
 issue: 3–4
 first_page: 351
 last_page: 379
+doi: 10.1080/13608746.2021.1911440
 description: 'Looking for affective polarisation in Spain: PSOE and Podemos from conflict to coalition. Sandra León and Lluís Orriols. South European Society and Politics, 2020.'
 permalink: /publications/2020-looking-affective-polarisation-spain-psoe-podemos/
 order: 6

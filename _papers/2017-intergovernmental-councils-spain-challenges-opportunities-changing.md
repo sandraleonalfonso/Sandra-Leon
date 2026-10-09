@@ -10,6 +10,7 @@ volume: 27
 issue: 5
 first_page: 645
 last_page: 665
+doi: 10.1080/13597566.2017.1354850
 description: 'Intergovernmental councils in Spain: Challenges and opportunities in a changing political context. Sandra León. Regional & Federal Studies, 2017.'
 permalink: /publications/2017-intergovernmental-councils-spain-challenges-opportunities-changing/
 order: 11

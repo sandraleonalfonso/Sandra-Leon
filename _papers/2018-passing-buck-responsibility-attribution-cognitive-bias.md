@@ -12,6 +12,7 @@ volume: 41
 issue: 3
 first_page: 660
 last_page: 682
+doi: 10.1080/01402382.2017.1405325
 description: Passing the buck? Responsibility attribution and cognitive bias in multilevel democracies. Sandra León, Ignacio Jurado and Amuitz Garmendia. West European Politics, 2018.
 permalink: /publications/2018-passing-buck-responsibility-attribution-cognitive-bias/
 order: 9

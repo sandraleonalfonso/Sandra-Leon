@@ -18,6 +18,7 @@ volume: 86
 issue: 4
 first_page: 1162
 last_page: 1176
+doi: 10.1086/729962
 description: 'Government Performance and Democracy: Survey Experimental Evidence from 12 Countries during COVID-19. Sandra León et al.. Journal of Politics, 2024.'
 permalink: /publications/2024-government-performance-democracy-survey-experimental-evidence/
 order: 2
