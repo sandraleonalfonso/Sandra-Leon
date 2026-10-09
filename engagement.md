@@ -58,7 +58,7 @@ Quoted in:
 - *The New York Times*, 19/06/2023: Once Scorned, Far Right Secures Foothold in Spanish Cities
 - *Financial Times*, 07/05/2021: Isabel Díaz Ayuso: The Spanish Right's Saviour
 - *Financial Times*, 05/05/2021: Iglesias Exits Political Stage as Spanish Left Licks Its Wounds
-- *El País*, 23/04/2021: La demonización del rival en política: por qué las campañas negativas son más eficaces
+- *El País*, 23/04/2021: [La demonización del rival en política: por qué las campañas negativas son más eficaces](https://elpais.com/ciencia/2021-04-23/la-demonizacion-del-rival-en-politica.html)
 - *The Economist*, 25/03/2021: Madrid's Snap Election Shakes Up Spanish Politics
 - *Financial Times*, 26/02/2021: Spain's Exiled King Juan Carlos Pays €4.4m in Back Taxes
 - *The New York Times*, 20/02/2021: [Spain Hoped Catalonia's Separatists Would Fade](https://www.nytimes.com/2021/02/19/world/europe/spain-catalonia-independence.html)
