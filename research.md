@@ -21,6 +21,8 @@ I study the impact of artificial intelligence on multilevel governance and democ
 
 ## Affective polarization and democracy
 
+**Territorial affective polarization.** With Amuitz Garmendia, I explore territorial affective polarization from a comparative perspective in six countries: Germany, Italy, Belgium, Spain, the United States and the United Kingdom.
+
 **Polarization and cooperation.** With Ignacio Jurado and Albert Falcó, I run large-scale behavioral experiments in Spain, Brazil and the United States to test whether affective polarization weakens everyday cooperation. People help less, and with lower quality, when the beneficiary backs their most disliked party. Out-group animosity matters more than in-group affection, personal rewards raise cooperation more than public-good incentives, and political tasks reduce cooperation. Polarization spills over even into minimal, impersonal cooperation.
 
 **Losers' consent.** I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studies why electoral losers accept being governed by the winners, and when that acceptance breaks down, using surveys, experiments and qualitative methods across more than 20 democracies.
