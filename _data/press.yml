@@ -71,6 +71,12 @@ media:
   title: 'Así es el indignado: universitario, de 33 años y muy de izquierdas'
   url: https://elpais.com/politica/2012/05/14/actualidad/1337005195_251451.html
 opeds:
+- outlet: elDiario.es, Alerta Democrática (magazine)
+  outlet_es: elDiario.es, revista Alerta Democrática
+  date: 09/2026
+  title: El mal perder
+  note: with I. Jurado
+  note_es: con I. Jurado
 - outlet: Letras Libres
   date: 01/03/2020
   title: De ideología y territorio
