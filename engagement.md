@@ -10,24 +10,43 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 
 ## External appointments
 
-- **2020–present.** Member, Advisory Board (Patronato), Fundación Alternativas
-- **2020–present.** Senior Analyst, EsadeEcPol (ESADE Center for Economic Policy and Political Economy)
-- **2019–present.** Member, Advisory Board, EsadeEcPol
-- **Oct 2018–Jun 2019.** Director-General, Office of the High Commissioner to Fight Against Child Poverty, Ministry of the Presidency, Government of Spain
-- **2017.** Member, External Expert Panel, Scottish Parliament
-- **2010–present.** Member, External Review Committee, *Informe sobre la Democracia en España*, Fundación Alternativas
+<dl class="timeline">
+  <dt>2020–present</dt>
+  <dd><span class="tl-role">Member, Advisory Board (Patronato)</span><span class="tl-org">Fundación Alternativas</span></dd>
+  <dt>2020–present</dt>
+  <dd><span class="tl-role">Senior Analyst</span><span class="tl-org">EsadeEcPol, ESADE Center for Economic Policy and Political Economy</span></dd>
+  <dt>2019–present</dt>
+  <dd><span class="tl-role">Member, Advisory Board</span><span class="tl-org">EsadeEcPol</span></dd>
+  <dt>2018–2019</dt>
+  <dd><span class="tl-role">Director-General, Office of the High Commissioner to Fight Against Child Poverty</span><span class="tl-org">Ministry of the Presidency, Government of Spain (Oct 2018–Jun 2019)</span></dd>
+  <dt>2017</dt>
+  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament</span></dd>
+  <dt>2010–present</dt>
+  <dd><span class="tl-role">Member, External Review Committee</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
+</dl>
 
 ## Policy advice
 
-- **2026.** Expert evidence, House of Lords Economic Affairs Committee, inquiry into fiscal devolution in England (16 June)
-- **2024.** Harmon Consulting: climate change and the Spanish electorate (with Ll. Orriols)
-- **2020.** Policy Advisor, Forum of Federations: Support for Managing Fiscal Federalism in Nepal (with UK DFID and The Asia Foundation)
-- **2019.** Expert evidence, House of Commons Scottish Affairs Committee (25 January)
-- **2015–2016.** Academic Advisor, LGiU (Local Government Information Unit)
-- **2015.** Academic Advisor, Scottish Parliament Devolution (Further Powers) Committee (27 August)
-- **2003–2004.** Expert Group, Observatorio del Sistema Nacional de Salud (Ministry of Health)
-- **2001–2002.** Consultant, WHO European Observatory on Health Care Systems
-- **2001–2002.** Consultant, Oxford Analytica: *European Social Trends: Policy Responses and Business Opportunities*
+<dl class="timeline">
+  <dt>2026</dt>
+  <dd><span class="tl-role">Expert evidence, inquiry into fiscal devolution in England</span><span class="tl-org">House of Lords Economic Affairs Committee (16 June)</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">Climate change and the Spanish electorate (with Ll. Orriols)</span><span class="tl-org">Harmon Consulting</span></dd>
+  <dt>2020</dt>
+  <dd><span class="tl-role">Policy Advisor, Support for Managing Fiscal Federalism in Nepal</span><span class="tl-org">Forum of Federations, with UK DFID and The Asia Foundation</span></dd>
+  <dt>2019</dt>
+  <dd><span class="tl-role">Expert evidence</span><span class="tl-org">House of Commons Scottish Affairs Committee (25 January)</span></dd>
+  <dt>2015–2016</dt>
+  <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">LGiU (Local Government Information Unit)</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">Scottish Parliament Devolution (Further Powers) Committee (27 August)</span></dd>
+  <dt>2003–2004</dt>
+  <dd><span class="tl-role">Expert Group</span><span class="tl-org">Observatorio del Sistema Nacional de Salud, Ministry of Health</span></dd>
+  <dt>2001–2002</dt>
+  <dd><span class="tl-role">Consultant</span><span class="tl-org">WHO European Observatory on Health Care Systems</span></dd>
+  <dt>2001–2002</dt>
+  <dd><span class="tl-role">Consultant, <em>European Social Trends: Policy Responses and Business Opportunities</em></span><span class="tl-org">Oxford Analytica</span></dd>
+</dl>
 
 ## Media commentary
 

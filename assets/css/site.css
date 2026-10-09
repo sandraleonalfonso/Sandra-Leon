@@ -99,3 +99,14 @@ span.pub-title { color: var(--text); }
 /* Footer */
 .site-footer { border-top: 3px double var(--line); margin-top: 3rem; padding: 1.25rem 0 2rem; color: var(--muted); font-size: 0.9rem; text-align: center; }
 .site-footer p { margin: 0.25rem 0; }
+
+/* Timeline (appointments, policy advice) */
+.timeline { display: grid; grid-template-columns: 7.5rem 1fr; gap: 0; margin: 0.5rem 0 1.5rem; }
+.timeline dt, .timeline dd { margin: 0; padding: 0.6rem 0; border-top: 1px solid var(--line); }
+.timeline dt { color: var(--accent); font-variant-numeric: tabular-nums; font-size: 0.95rem; padding-right: 1rem; }
+.timeline .tl-role { display: block; font-weight: 600; }
+.timeline .tl-org { display: block; color: var(--muted); font-size: 0.95rem; }
+@media (max-width: 30rem) {
+  .timeline { grid-template-columns: 1fr; }
+  .timeline dd { border-top: 0; padding-top: 0; }
+}
