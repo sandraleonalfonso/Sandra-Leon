@@ -15,6 +15,9 @@ books:
   venue: Institut d'Estudis Autonòmics, Barcelona
   note: 'Review: Santiago Lago (2007), *Administración y Ciudadanía*, 2(1), 151–154 (in Spanish).'
 chapters:
+- year: 2025
+  title: 'Cataluña y la financiación singular: del acuerdo político al (todavía incierto) encaje institucional'
+  venue: '*Informe de la Democracia en España 2024*. Fundación Alternativas'
 - year: 2024
   title: 'La articulación de la gobernanza autonómica: financiación y relaciones intergubernamentales'
   venue: In *Una nueva gobernanza para el siglo XXI*, eds. Pajares, Salvador and Herrera. CEPC
@@ -66,9 +69,27 @@ chapters:
 - year: 2012
   title: Las relaciones intergubernamentales en el Estado Autonómico
   venue: In *Foro de Estructura Territorial*. CEPC, Madrid
+- year: 2011
+  title: El año más difícil
+  with: with R. Ruiz-Rufino and L. Orriols
+  venue: '*Informe sobre la Democracia en España 2011*. Fundación Alternativas'
 - year: 2010
   title: Spanish Fiscal Federalism
   venue: In *The Political Economy of Regional Fiscal Flows*, eds. N. Bosch, M. Espasa and A. Solé. Edward Elgar
+- year: 2010
+  title: Las estrategias políticas del gobierno y la oposición
+  with: with R. Ruiz-Rufino and I. Urquizu
+  venue: '*Informe sobre la Democracia en España 2009*. Fundación Alternativas'
+- year: 2009
+  title: El sistema de financiación autonómica
+  venue: '*Informe sobre la Democracia en España 2009*. Fundación Alternativas'
+- year: 2008
+  title: Cuatro Años de Gobierno Socialista
+  with: with R. Ruiz-Rufino and I. Urquizu
+  venue: '*Informe sobre la Democracia en España 2008*. Fundación Alternativas'
+- year: 2007
+  title: Relaciones intergubernamentales en el Estado Autonómico
+  venue: '*Informe sobre la Democracia en España 2007*. Fundación Alternativas'
 - year: 2005
   title: El Gobierno de la Sanidad. Descentralización Sanitaria y Estructura Organizativa
   with: co-authored
@@ -78,9 +99,6 @@ chapters:
   with: with A. Rico
   venue: 'In *Health Care Systems in Eight Countries: Trends and Challenges*, eds. A. Dixon and E. Mossialos, 93–102. European Observatory on Health Care Systems'
 policy:
-- year: 2025
-  title: 'Cataluña y la financiación singular: del acuerdo político al (todavía incierto) encaje institucional'
-  venue: '*Informe de la Democracia en España 2024*. Fundación Alternativas'
 - year: 2023
   title: Claves sobre la estructura y la negociación de la financiación autonómica
   venue: Policy Papers 178, Fundació Rafael Campalans
@@ -107,31 +125,10 @@ policy:
 - year: 2013
   title: La descentralización y el control de los gobiernos
   venue: Colección Política Comparada, Fundación Alternativas
-- year: 2012
-  title: Algunos déficits de la democracia en España
-  venue: Informe sobre la Democracia en España 2012, Fundación Alternativas
 - year: 2011
   title: ¿Nos cambia la crisis?
   with: with L. Orriols
   venue: Zoom Político 2011(1), Fundación Alternativas
-- year: 2011
-  title: El año más difícil
-  with: with R. Ruiz-Rufino and L. Orriols
-  venue: Informe sobre la Democracia en España 2011, Fundación Alternativas
-- year: 2010
-  title: Las estrategias políticas del gobierno y la oposición
-  with: with R. Ruiz-Rufino and I. Urquizu
-  venue: Informe sobre la Democracia en España 2009, Fundación Alternativas
-- year: 2009
-  title: El sistema de financiación autonómica
-  venue: Informe sobre la Democracia en España 2009, Fundación Alternativas
-- year: 2008
-  title: Cuatro Años de Gobierno Socialista
-  with: with R. Ruiz-Rufino and I. Urquizu
-  venue: Informe sobre la Democracia en España 2008, Fundación Alternativas
-- year: 2007
-  title: Relaciones intergubernamentales en el Estado Autonómico
-  venue: Informe sobre la Democracia en España 2007, Fundación Alternativas
 wip:
 - title: Preferences for territorial reforms in Spain and Catalonia. Evidence of a conjoint analysis
   with: with I. Jurado
