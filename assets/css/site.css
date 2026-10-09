@@ -120,3 +120,9 @@ span.pub-title { color: var(--text); }
 .strand-papers h3 { font-size: 0.95rem; font-variant: small-caps; letter-spacing: 0.06em; color: var(--muted); font-style: normal; margin: 1rem 0 0.4rem; }
 .strand-paper { margin: 0 0 0.55rem; }
 @media (max-width: 30rem) { .strand { padding: 1rem 1rem 0.9rem; } }
+
+/* Press entries (media, op-eds, blogs) */
+.press { margin: 0.5rem 0 1.5rem; }
+.press-item { margin: 0; padding: 0.6rem 0; border-top: 1px solid var(--line); }
+.press-meta { display: block; font-size: 0.85rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.press-outlet { color: var(--accent); font-variant: small-caps; letter-spacing: 0.05em; font-size: 1.05rem; }

@@ -52,51 +52,166 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 
 Quoted in:
 
-- *elDiario.es*, 06/10/2026: [Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones](https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html)
-- *El País*, 18/03/2026: [Efecto Trump, voto útil, pleamar electoral: en busca del porqué del éxito a medias de Vox este 15-M](https://elpais.com/espana/2026-03-18/efecto-trump-voto-util-pleamar-electoral-en-busca-del-porque-del-exito-a-medias-de-vox-este-15-m.html)
-- *The Guardian*, 15/02/2024: [What Will Spain Look Like When It Runs Out of Water?](https://www.theguardian.com/commentisfree/2024/feb/15/spain-water-barcelona-farmers-tourism-catalonia-drought)
-- *The New York Times*, 19/06/2023: Once Scorned, Far Right Secures Foothold in Spanish Cities
-- *La Vanguardia*, 27/01/2023: [La era de la irritación](https://www.lavanguardia.com/opinion/20230127/8711907/irritacion.html) (column by Màrius Carol)
-- *Financial Times*, 07/05/2021: Isabel Díaz Ayuso: The Spanish Right's Saviour
-- *Financial Times*, 05/05/2021: Iglesias Exits Political Stage as Spanish Left Licks Its Wounds
-- *El País*, 23/04/2021: [La demonización del rival en política: por qué las campañas negativas son más eficaces](https://elpais.com/ciencia/2021-04-23/la-demonizacion-del-rival-en-politica.html)
-- *The Economist*, 25/03/2021: Madrid's Snap Election Shakes Up Spanish Politics
-- *Financial Times*, 26/02/2021: Spain's Exiled King Juan Carlos Pays €4.4m in Back Taxes
-- *The New York Times*, 20/02/2021: [Spain Hoped Catalonia's Separatists Would Fade](https://www.nytimes.com/2021/02/19/world/europe/spain-catalonia-independence.html)
-- *The Economist*, 16/04/2020: Nasty Politics Returns to Spain
-- *Financial Times*, 07/01/2020: Pedro Sánchez Prepares to Dig In as Spain's Prime Minister
-- *Financial Times*, 11/11/2019: Vox Breaks Out of Spain's Political Wilderness
-- *InfoLibre*, 10/06/2018: [El cambio político rompe la inercia victoriosa de Ciudadanos](https://www.infolibre.es/politica/cambio-politico-rompe-inercia-victoriosa-ciudadanos_1_1159395.html)
-- *The Economist*, 10/02/2018: Spain's Centrist Ciudadanos Are on the March
-- *The New York Times*, 22/12/2017: [Catalonia's Election Yields a Crisis That Is Here to Stay](https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html)
-- *Politico Europe*, 15/11/2017: [Spanish regions to Catalonia: Up yours](https://www.politico.eu/article/spain-regional-conundrum-catalan-independence/)
-- *El País*, 15/05/2012: [Así es el indignado: universitario, de 33 años y muy de izquierdas](https://elpais.com/politica/2012/05/14/actualidad/1337005195_251451.html)
+<div class="press" markdown="1">
+<span class="press-meta"><span class="press-outlet">elDiario.es</span> · 06/10/2026</span>
+[Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones](https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">El País</span> · 18/03/2026</span>
+[Efecto Trump, voto útil, pleamar electoral: en busca del porqué del éxito a medias de Vox este 15-M](https://elpais.com/espana/2026-03-18/efecto-trump-voto-util-pleamar-electoral-en-busca-del-porque-del-exito-a-medias-de-vox-este-15-m.html)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The Guardian</span> · 15/02/2024</span>
+[What Will Spain Look Like When It Runs Out of Water?](https://www.theguardian.com/commentisfree/2024/feb/15/spain-water-barcelona-farmers-tourism-catalonia-drought)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The New York Times</span> · 19/06/2023</span>
+Once Scorned, Far Right Secures Foothold in Spanish Cities
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">La Vanguardia</span> · 27/01/2023</span>
+[La era de la irritación](https://www.lavanguardia.com/opinion/20230127/8711907/irritacion.html) (column by Màrius Carol)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Financial Times</span> · 07/05/2021</span>
+Isabel Díaz Ayuso: The Spanish Right's Saviour
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Financial Times</span> · 05/05/2021</span>
+Iglesias Exits Political Stage as Spanish Left Licks Its Wounds
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">El País</span> · 23/04/2021</span>
+[La demonización del rival en política: por qué las campañas negativas son más eficaces](https://elpais.com/ciencia/2021-04-23/la-demonizacion-del-rival-en-politica.html)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The Economist</span> · 25/03/2021</span>
+Madrid's Snap Election Shakes Up Spanish Politics
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Financial Times</span> · 26/02/2021</span>
+Spain's Exiled King Juan Carlos Pays €4.4m in Back Taxes
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The New York Times</span> · 20/02/2021</span>
+[Spain Hoped Catalonia's Separatists Would Fade](https://www.nytimes.com/2021/02/19/world/europe/spain-catalonia-independence.html)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The Economist</span> · 16/04/2020</span>
+Nasty Politics Returns to Spain
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Financial Times</span> · 07/01/2020</span>
+Pedro Sánchez Prepares to Dig In as Spain's Prime Minister
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Financial Times</span> · 11/11/2019</span>
+Vox Breaks Out of Spain's Political Wilderness
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">InfoLibre</span> · 10/06/2018</span>
+[El cambio político rompe la inercia victoriosa de Ciudadanos](https://www.infolibre.es/politica/cambio-politico-rompe-inercia-victoriosa-ciudadanos_1_1159395.html)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The Economist</span> · 10/02/2018</span>
+Spain's Centrist Ciudadanos Are on the March
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">The New York Times</span> · 22/12/2017</span>
+[Catalonia's Election Yields a Crisis That Is Here to Stay](https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Politico Europe</span> · 15/11/2017</span>
+[Spanish regions to Catalonia: Up yours](https://www.politico.eu/article/spain-regional-conundrum-catalan-independence/)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">El País</span> · 15/05/2012</span>
+[Así es el indignado: universitario, de 33 años y muy de izquierdas](https://elpais.com/politica/2012/05/14/actualidad/1337005195_251451.html)
+{: .press-item}
+
+</div>
 
 ## Op-eds
 
-- [Author page at *El País*](http://elpais.com/autor/sandra_leon/a/)
-- *Tintalibre* (InfoLibre), 20/12/2015: ¿Quién teme a las coaliciones?
-- *Ahorasemanal*, 20/11/2015: Balance de legislatura: deterioro institucional
-- *CNN.com*, 12/06/2012: How the indignados motivated Spain
-- *Claves de Razón Práctica*, 2010: La competición electoral en España (with L. Orriols)
-- *Claves de Razón Práctica*, 2009: El bumerán de la financiación autonómica
-- *Público*, 25/06/2009: Financiación sin modelo
-- *Público*, 24/06/2008: ¿Por qué el debate permanecerá en la agenda? (with I. Jurado)
-- *El País*, 04/07/2003: La selección adversa en los partidos políticos (co-authored)
+My op-eds in *El País* are collected on my [author page](http://elpais.com/autor/sandra_leon/a/). Other op-eds:
+
+<div class="press" markdown="1">
+<span class="press-meta"><span class="press-outlet">Tintalibre (InfoLibre)</span> · 20/12/2015</span>
+¿Quién teme a las coaliciones?
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Ahorasemanal</span> · 20/11/2015</span>
+Balance de legislatura: deterioro institucional
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">CNN.com</span> · 12/06/2012</span>
+How the indignados motivated Spain
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Claves de Razón Práctica</span> · 2010</span>
+La competición electoral en España (with L. Orriols)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Claves de Razón Práctica</span> · 2009</span>
+El bumerán de la financiación autonómica
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Público</span> · 25/06/2009</span>
+Financiación sin modelo
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Público</span> · 24/06/2008</span>
+¿Por qué el debate permanecerá en la agenda? (with I. Jurado)
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">El País</span> · 04/07/2003</span>
+La selección adversa en los partidos políticos (co-authored)
+{: .press-item}
+
+</div>
 
 ## Blogs
 
-- [*Piedras de Papel*](https://www.eldiario.es/piedrasdepapel/) (eldiario.es), regular contributor
-- *Expansión*, "De fueros y huevos", 08/03/2016: Cómo controlar a los políticos
-- *Expansión*, "De fueros y huevos", 12/01/2016: Las grietas sociales en el Estado del Bienestar
-- *FEPS*, 17/12/2015: PSOE's strengths and challenges facing the Spanish general election
-- *Policy Network*, 13/11/2015: A crowded left: the reconfiguration of Spain's party system
-- *Expansión*, "De fueros y huevos", 03/11/2015: Parlamentarios, financiación autonómica y división interna en los partidos
-- *Centre on Constitutional Change*, 02/10/2015: The curse of polarised politics in Catalonia
-- *LSE Politics and Policy*, 25/09/2014: The programme of post-referendum constitutional reform must not be by the elites for the elites
+Regular contributor to [*Piedras de Papel*](https://www.eldiario.es/piedrasdepapel/) (eldiario.es). Other blog posts:
+
+<div class="press" markdown="1">
+<span class="press-meta"><span class="press-outlet">Expansión, "De fueros y huevos"</span> · 08/03/2016</span>
+Cómo controlar a los políticos
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Expansión, "De fueros y huevos"</span> · 12/01/2016</span>
+Las grietas sociales en el Estado del Bienestar
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">FEPS</span> · 17/12/2015</span>
+PSOE's strengths and challenges facing the Spanish general election
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Policy Network</span> · 13/11/2015</span>
+A crowded left: the reconfiguration of Spain's party system
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Expansión, "De fueros y huevos"</span> · 03/11/2015</span>
+Parlamentarios, financiación autonómica y división interna en los partidos
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">Centre on Constitutional Change</span> · 02/10/2015</span>
+The curse of polarised politics in Catalonia
+{: .press-item}
+
+<span class="press-meta"><span class="press-outlet">LSE Politics and Policy</span> · 25/09/2014</span>
+The programme of post-referendum constitutional reform must not be by the elites for the elites
+{: .press-item}
+
+</div>
 
 ## Radio and TV
 
-- **Television.** Election-night analyst on laSexta's *Al Rojo Vivo* specials: 2023 general election, 2023 regional and municipal elections, 2022 Castilla y León, 2021 Madrid, and 2020 Galicia and Basque Country.
-- **TV commentary.** laSexta (*El Objetivo*, *La Sexta Noche*, *Al Rojo Vivo*, *Noticias*), TV3 (1-O referendum 2017, 2016 election specials), Cuatro (2015), CNN+ (2009).
-- **Radio.** Regular analyst on Cadena SER's *Hoy por Hoy* (2011–2012, summer 2022); interviews on *El Faro*, *A Vivir que son dos días* and *Hora 25* (2014–2023).
+<dl class="timeline">
+  <dt>Television</dt>
+  <dd>Election-night analyst on laSexta's <em>Al Rojo Vivo</em> specials: 2023 general election, 2023 regional and municipal elections, 2022 Castilla y León, 2021 Madrid, and 2020 Galicia and Basque Country.</dd>
+  <dt>TV commentary</dt>
+  <dd>laSexta (<em>El Objetivo</em>, <em>La Sexta Noche</em>, <em>Al Rojo Vivo</em>, <em>Noticias</em>), TV3 (1-O referendum 2017, 2016 election specials), Cuatro (2015), CNN+ (2009).</dd>
+  <dt>Radio</dt>
+  <dd>Regular analyst on Cadena SER's <em>Hoy por Hoy</em> (2011–2012, summer 2022); interviews on <em>El Faro</em>, <em>A Vivir que son dos días</em> and <em>Hora 25</em> (2014–2023).</dd>
+</dl>
