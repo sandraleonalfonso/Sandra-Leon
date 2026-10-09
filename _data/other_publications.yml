@@ -15,9 +15,6 @@ books:
   venue: Institut d'Estudis Autonòmics, Barcelona
   note: 'Review: Santiago Lago (2007), *Administración y Ciudadanía*, 2(1), 151–154 (in Spanish).'
 chapters:
-- year: 2025
-  title: 'Cataluña y la financiación singular: del acuerdo político al (todavía incierto) encaje institucional'
-  venue: '*Informe de la Democracia en España 2024*. Fundación Alternativas'
 - year: 2024
   title: 'La articulación de la gobernanza autonómica: financiación y relaciones intergubernamentales'
   venue: In *Una nueva gobernanza para el siglo XXI*, eds. Pajares, Salvador and Herrera. CEPC
@@ -81,6 +78,9 @@ chapters:
   with: with A. Rico
   venue: 'In *Health Care Systems in Eight Countries: Trends and Challenges*, eds. A. Dixon and E. Mossialos, 93–102. European Observatory on Health Care Systems'
 policy:
+- year: 2025
+  title: 'Cataluña y la financiación singular: del acuerdo político al (todavía incierto) encaje institucional'
+  venue: '*Informe de la Democracia en España 2024*. Fundación Alternativas'
 - year: 2023
   title: Claves sobre la estructura y la negociación de la financiación autonómica
   venue: Policy Papers 178, Fundació Rafael Campalans
