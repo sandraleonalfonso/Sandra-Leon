@@ -1,8 +1,7 @@
-# Site settings. When the .com domain is connected, set `url` to it
-# (for example https://www.sandraleon.com) and `baseurl` to "".
+# Site settings. The site is served at https://sandraleon.eu (see CNAME).
 title: Sandra León
-url: https://sandraleonalfonso.github.io
-baseurl: /Sandra-Leon
+url: https://sandraleon.eu
+baseurl: ""
 
 author:
   name: Sandra León

@@ -1,7 +1,7 @@
 # Sandra León: personal website
 
 Academic website of Sandra León, published with GitHub Pages
-(https://sandraleonalfonso.github.io/Sandra-Leon/ until the .com domain is connected).
+(https://sandraleon.eu).
 
 ## How it is organized
 
@@ -17,10 +17,12 @@ Spanish pages go under `es/` with `lang: es` and the same `ref` as their English
 for example `es/publicaciones.md` with `ref: publications` and `permalink: /es/publicaciones/`.
 The EN | ES switch, the hreflang tags and `sitemap.xml` pick them up automatically.
 
-## Connecting the .com domain
+## Domain
 
-In `_config.yml` set `url` to the domain (for example `https://www.example.com`) and `baseurl` to `""`,
-then add the domain under Settings → Pages → Custom domain.
+The site is served at https://sandraleon.eu. The `CNAME` file tells GitHub Pages the domain;
+`url` in `_config.yml` must match it. DNS at Namecheap: four `A` records for `@`
+(185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153) and a `CNAME`
+record for `www` pointing to `sandraleonalfonso.github.io`.
 
 ## Preview locally (optional)
 
