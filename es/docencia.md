@@ -15,7 +15,9 @@ Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analí
   <dt>2013–2018</dt>
   <dd><span class="tl-role">Universidad de York, Reino Unido (Senior Lecturer)</span><span class="tl-org">Grado</span><ul class="tags course-tags"><li>Political Enquiry</li><li>Citizens, Elections and Parties</li><li>Introduction to Democratic Politics</li></ul><span class="tl-org">Posgrado</span><ul class="tags course-tags"><li>Understanding Governance</li><li>Public Management and Delivery</li><li>Comparative Institutions and Public Policy</li><li>Quantitative Methods and Data Analysis</li></ul></dd>
   <dt>2011–2012</dt>
-  <dd><span class="tl-role">Universidad Complutense de Madrid</span></dd>
+  <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Teoría y Práctica de las Democracias I</li><li>Teoría y Práctica de las Democracias II</li></ul></dd>
+  <dt>2008–2009</dt>
+  <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Sistemas Políticos Comparados</li></ul></dd>
 </dl>
 
 ## Docencia como profesora invitada
