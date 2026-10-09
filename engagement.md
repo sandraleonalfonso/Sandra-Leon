@@ -19,6 +19,7 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 
 ## Policy advice
 
+- **2026.** Expert evidence, House of Lords Economic Affairs Committee, inquiry into fiscal devolution in England (16 June)
 - **2024.** Harmon Consulting: climate change and the Spanish electorate (with Ll. Orriols)
 - **2020.** Policy Advisor, Forum of Federations: Support for Managing Fiscal Federalism in Nepal (with UK DFID and The Asia Foundation)
 - **2019.** Expert evidence, House of Commons Scottish Affairs Committee (25 January)
@@ -33,18 +34,19 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 Quoted in:
 
 - *elDiario.es*, 06/10/2026: [Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones](https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html)
-- *The Guardian*, 15/02/2024: What Will Spain Look Like When It Runs Out of Water?
+- *El País*, 18/03/2026: [Efecto Trump, voto útil, pleamar electoral: en busca del porqué del éxito a medias de Vox este 15-M](https://elpais.com/espana/2026-03-18/efecto-trump-voto-util-pleamar-electoral-en-busca-del-porque-del-exito-a-medias-de-vox-este-15-m.html)
+- *The Guardian*, 15/02/2024: [What Will Spain Look Like When It Runs Out of Water?](https://www.theguardian.com/commentisfree/2024/feb/15/spain-water-barcelona-farmers-tourism-catalonia-drought)
 - *The New York Times*, 19/06/2023: Once Scorned, Far Right Secures Foothold in Spanish Cities
 - *Financial Times*, 07/05/2021: Isabel Díaz Ayuso: The Spanish Right's Saviour
 - *Financial Times*, 05/05/2021: Iglesias Exits Political Stage as Spanish Left Licks Its Wounds
 - *The Economist*, 25/03/2021: Madrid's Snap Election Shakes Up Spanish Politics
 - *Financial Times*, 26/02/2021: Spain's Exiled King Juan Carlos Pays €4.4m in Back Taxes
-- *The New York Times*, 20/02/2021: Spain Hoped Catalonia's Separatists Would Fade
+- *The New York Times*, 20/02/2021: [Spain Hoped Catalonia's Separatists Would Fade](https://www.nytimes.com/2021/02/19/world/europe/spain-catalonia-independence.html)
 - *The Economist*, 16/04/2020: Nasty Politics Returns to Spain
 - *Financial Times*, 07/01/2020: Pedro Sánchez Prepares to Dig In as Spain's Prime Minister
 - *Financial Times*, 11/11/2019: Vox Breaks Out of Spain's Political Wilderness
 - *The Economist*, 10/02/2018: Spain's Centrist Ciudadanos Are on the March
-- *The New York Times*, 22/12/2017: Catalonia's Election Yields a Crisis That Is Here to Stay
+- *The New York Times*, 22/12/2017: [Catalonia's Election Yields a Crisis That Is Here to Stay](https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html)
 
 ## Op-eds
 
