@@ -8,7 +8,8 @@ description: "Publications by Sandra León: journal articles, books, book chapte
 [Journal articles](#journal-articles) · [Books](#books) · [Book chapters](#book-chapters) · [Policy papers](#policy-papers) · [Work in progress](#work-in-progress)
 </nav>
 
-## Journal articles
+## Journal articles (selected)
+{: #journal-articles}
 
 {% assign articles = site.papers | where: "lang", page.lang | sort: "order" %}
 {% assign years = articles | group_by: "year" %}
