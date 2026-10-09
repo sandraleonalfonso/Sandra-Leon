@@ -5,7 +5,7 @@ permalink: /engagement/
 description: "Sandra León's public engagement: advisory roles, policy advice, media commentary in the Financial Times, The Economist, The New York Times and The Guardian, op-eds, blogs, radio and TV."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Blogs](#blogs) · [Radio and TV](#radio-and-tv)
+[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Blogs](#blogs) · [Radio, TV and podcasts](#radio-tv-and-podcasts)
 </nav>
 
 ## Policy advice
@@ -205,7 +205,7 @@ The programme of post-referendum constitutional reform must not be by the elites
 
 </div>
 
-## Radio and TV
+## Radio, TV and podcasts
 
 <dl class="timeline">
   <dt>Television</dt>
@@ -214,4 +214,6 @@ The programme of post-referendum constitutional reform must not be by the elites
   <dd>laSexta (<em>El Objetivo</em>, <em>La Sexta Noche</em>, <em>Al Rojo Vivo</em>, <em>Noticias</em>), TV3 (1-O referendum 2017, 2016 election specials), Cuatro (2015), CNN+ (2009).</dd>
   <dt>Radio</dt>
   <dd>Regular analyst on Cadena SER's <em>Hoy por Hoy</em> (2011–2012, summer 2022); interviews on <em>El Faro</em>, <em>A Vivir que son dos días</em> and <em>Hora 25</em> (2014–2023).</dd>
+  <dt>Podcast</dt>
+  <dd>Guest on <em>Pausa</em> (El Confidencial), with Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a> (7 September 2022).</dd>
 </dl>
