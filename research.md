@@ -13,7 +13,7 @@ My research examines decentralization and federalism, affective polarization, an
 
 I study the impact of artificial intelligence on multilevel governance and democratic accountability.
 
-<p class="strand-funding">Project: AI-GOV (PID2025-174631NB-I00), funded by the Spanish National Research Agency (AEI).</p>
+<p class="strand-funding">Project: AI-GOV (PID2025-174631NB-I00), 2026–2029, funded by the Spanish National Research Agency (AEI).</p>
 </section>
 
 <section class="strand" markdown="1">
@@ -56,7 +56,7 @@ I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studi
 
 With Amuitz Garmendia, we study how crises and disasters shape citizens' trust, their views on who should hold power, and territorial divides.
 
-<p class="strand-funding">Part of this research was funded by FEDCRISIS, <em>Federalism Under Challenge: Crisis, Polarization and Populism</em> (Spanish National Research Agency, PID2021-128287NB-I00), with Amuitz Garmendia (UC3M).</p>
+<p class="strand-funding">Part of this research was funded by FEDCRISIS, <em>Federalism Under Challenge: Crisis, Polarization and Populism</em> (Spanish National Research Agency, PID2021-128287NB-I00), with Amuitz Garmendia (UC3M). It was also funded by the Fundación Ramón Areces through a Visiting Fellowship at the European Studies Centre, St Antony’s College, University of Oxford (academic year 2025–2026).</p>
 
 <div class="strand-papers" markdown="1">
 <h3>Papers</h3>

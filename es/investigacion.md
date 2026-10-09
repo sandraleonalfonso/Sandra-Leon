@@ -14,7 +14,7 @@ Mi investigación se centra en la descentralización y el federalismo, la polari
 
 Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y la rendición de cuentas democrática.
 
-<p class="strand-funding">Proyecto: AI-GOV (PID2025-174631NB-I00), financiado por la Agencia Estatal de Investigación (AEI).</p>
+<p class="strand-funding">Proyecto: AI-GOV (PID2025-174631NB-I00), 2026–2029, financiado por la Agencia Estatal de Investigación (AEI).</p>
 </section>
 
 <section class="strand" markdown="1">
@@ -57,7 +57,7 @@ Colaboro en [CONSENT](https://ignaciojurado.com/consent), que estudia por qué q
 
 Con Amuitz Garmendia, estudiamos cómo las crisis y los desastres influyen en la confianza de la ciudadanía, en sus preferencias sobre quién debe ejercer el poder y en las divisiones territoriales.
 
-<p class="strand-funding">Parte de esta investigación se financió con el proyecto FEDCRISIS, <em>El federalismo ante sus desafíos: crisis, polarización y populismo</em> (Agencia Estatal de Investigación, PID2021-128287NB-I00), con Amuitz Garmendia (UC3M).</p>
+<p class="strand-funding">Parte de esta investigación se financió con el proyecto FEDCRISIS, <em>El federalismo ante sus desafíos: crisis, polarización y populismo</em> (Agencia Estatal de Investigación, PID2021-128287NB-I00), con Amuitz Garmendia (UC3M). También la financió la Fundación Ramón Areces mediante una Visiting Fellowship en el European Studies Centre, St Antony’s College, Universidad de Oxford (curso 2025–2026).</p>
 
 <div class="strand-papers" markdown="1">
 <h3>Artículos</h3>
