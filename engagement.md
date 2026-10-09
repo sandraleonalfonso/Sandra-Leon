@@ -69,6 +69,7 @@ Quoted in:
 - *infoLibre*, 10/06/2018: [El cambio político rompe la inercia victoriosa de Ciudadanos](https://www.infolibre.es/politica/cambio-politico-rompe-inercia-victoriosa-ciudadanos_1_1159395.html)
 - *The Economist*, 10/02/2018: Spain's Centrist Ciudadanos Are on the March
 - *The New York Times*, 22/12/2017: [Catalonia's Election Yields a Crisis That Is Here to Stay](https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html)
+- *Politico Europe*, 15/11/2017: [Spanish regions to Catalonia: Up yours](https://www.politico.eu/article/spain-regional-conundrum-catalan-independence/)
 - *El País*, 15/05/2012: [Así es el indignado: universitario, de 33 años y muy de izquierdas](https://elpais.com/politica/2012/05/14/actualidad/1337005195_251451.html)
 
 ## Op-eds
