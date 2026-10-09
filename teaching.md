@@ -8,9 +8,9 @@ My aim is to give students the knowledge and analytical tools to critically exam
 
 <dl class="timeline">
   <dt>2024–2025</dt>
-  <dd><span class="tl-role">Universidad Autónoma de Madrid</span><span class="tl-org">MA and undergraduate</span><ul class="tags course-tags"><li>Voting in Modern Democracies</li><li>Research Methods in Political Science</li><li>Elections and Political Behavior</li><li>Intergovernmental Relations and Federalism</li></ul></dd>
+  <dd><span class="tl-role">Universidad Autónoma de Madrid</span><span class="tl-org">MA</span><ul class="tags course-tags"><li>Voting in Modern Democracies</li></ul><span class="tl-org">Undergraduate</span><ul class="tags course-tags"><li>Métodos de Investigación en Ciencia Política</li><li>Elecciones y Comportamiento Político</li><li>Relaciones Intergubernamentales y Federalismo</li></ul></dd>
   <dt>2019–2024</dt>
-  <dd><span class="tl-role">Universidad Carlos III de Madrid</span><span class="tl-org">Undergraduate</span><ul class="tags course-tags"><li>Spanish Political System</li><li>Topics in Comparative Politics</li></ul><span class="tl-org">Postgraduate</span><ul class="tags course-tags"><li>Research Project Development</li><li>Elections and Political Change in Europe</li></ul></dd>
+  <dd><span class="tl-role">Universidad Carlos III de Madrid</span><span class="tl-org">Undergraduate</span><ul class="tags course-tags"><li>Sistema Político Español</li><li>Política Comparada</li></ul><span class="tl-org">MA</span><ul class="tags course-tags"><li>Research in Progress</li><li>Elecciones y Cambio Político en Europa</li></ul></dd>
   <dt>2013–2018</dt>
   <dd><span class="tl-role">University of York, UK (Senior Lecturer)</span><span class="tl-org">Undergraduate</span><ul class="tags course-tags"><li>Political Enquiry</li><li>Citizens, Elections and Parties</li><li>Introduction to Democratic Politics</li></ul><span class="tl-org">Postgraduate</span><ul class="tags course-tags"><li>Understanding Governance</li><li>Public Management and Delivery</li><li>Comparative Institutions and Public Policy</li><li>Quantitative Methods and Data Analysis</li></ul></dd>
   <dt>2011–2012</dt>
