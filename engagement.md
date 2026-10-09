@@ -32,6 +32,7 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 
 Quoted in:
 
+- *elDiario.es*, 06/10/2026: [Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones](https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html)
 - *The Guardian*, 15/02/2024: What Will Spain Look Like When It Runs Out of Water?
 - *The New York Times*, 19/06/2023: Once Scorned, Far Right Secures Foothold in Spanish Cities
 - *Financial Times*, 07/05/2021: Isabel Díaz Ayuso: The Spanish Right's Saviour
