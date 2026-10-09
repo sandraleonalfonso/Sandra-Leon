@@ -16,7 +16,7 @@ hide_title: true
     <h1>Sandra León</h1>
     <p class="subtitle">Political Scientist<br>
       Tenured Research Scientist, <a href="https://ipp.csic.es/">Institute of Public Goods and Policies (IPP)</a>, Spanish National Research Council (CSIC)</p>
-    <ul class="profile-links">
+    <ul class="profile-links pills">
       <li><a href="mailto:sandra.leon@csic.es">Email</a></li>
       {%- for p in site.author.profiles %}
       <li><a href="{{ p.url }}" rel="me">{{ p.name }}</a></li>
@@ -25,23 +25,17 @@ hide_title: true
   </div>
 </section>
 
-<p>Welcome to my homepage!</p>
-
 <p>I am a political scientist working as a Tenured Research Scientist at the Institute of Public Goods and Policies, Spanish National Research Council (CSIC). My research examines decentralisation and federalism, economic voting, and intergovernmental relations. I adopt a comparative perspective and employ quantitative methods to study the interaction between political institutions and electoral behaviour.</p>
 
-<h2>Research interests</h2>
-<ul>
-  <li>Decentralisation and federalism</li>
-  <li>Economic voting</li>
-  <li>Intergovernmental relations</li>
-  <li>Political institutions and electoral behaviour</li>
+<ul class="tags" aria-label="Research interests">
+  <li>Decentralisation</li><li>Federalism</li><li>Economic voting</li><li>Intergovernmental relations</li><li>Electoral behaviour</li><li>Polarization</li>
 </ul>
 
 <h2>Recent publications</h2>
 {%- assign recent = site.papers | where: "lang", page.lang | sort: "order" %}
-<ul class="pub-list">
+<ul class="pub-list plain">
   {%- for p in recent limit: 4 %}
-  <li>{% include pub-item.html paper=p %}</li>
+  <li>{% include pub-item.html paper=p show_year=true %}</li>
   {%- endfor %}
 </ul>
 <p><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>

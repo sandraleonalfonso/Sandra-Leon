@@ -11,11 +11,17 @@ description: "Publications by Sandra León: journal articles, books, book chapte
 ## Journal articles
 
 {% assign articles = site.papers | where: "lang", page.lang | sort: "order" %}
-<ol class="pub-list" reversed>
-{%- for p in articles %}
+{% assign years = articles | group_by: "year" %}
+<div class="by-year">
+{%- for y in years %}
+<h3 class="year">{{ y.name }}</h3>
+<ul class="pub-list plain">
+{%- for p in y.items %}
   <li>{% include pub-item.html paper=p %}</li>
 {%- endfor %}
-</ol>
+</ul>
+{%- endfor %}
+</div>
 
 ## Books
 
