@@ -27,3 +27,20 @@ My aim is to give students the knowledge and analytical tools to critically exam
   <dt>Germany</dt>
   <dd><span class="tl-role">University of Cologne</span><span class="tl-org">PhD and MA</span></dd>
 </dl>
+
+## Administrative roles
+
+<dl class="timeline">
+  <dt>2021–2024</dt>
+  <dd><span class="tl-role">Director, Carlos III-Juan March Institute</span><span class="tl-org">Universidad Carlos III de Madrid, September 2021–October 2024</span></dd>
+  <dt>2021–2024</dt>
+  <dd><span class="tl-role">Director, MA in Social Sciences</span><span class="tl-org">Carlos III-Juan March Institute, September 2021–October 2024</span></dd>
+  <dt>2021–2024</dt>
+  <dd><span class="tl-role">Deputy Director of Research</span><span class="tl-org">Department of Social Sciences, Universidad Carlos III de Madrid, September 2021–October 2024</span></dd>
+  <dt>2016–2018</dt>
+  <dd><span class="tl-role">Director of the Postgraduate Office</span><span class="tl-org">Department of Politics, University of York</span></dd>
+  <dt>2015–2016</dt>
+  <dd><span class="tl-role">Chair of the Board of Examiners</span><span class="tl-org">Department of Politics, University of York</span></dd>
+  <dt>2013–2014</dt>
+  <dd><span class="tl-role">Dean of Students</span><span class="tl-org">Department of Politics, University of York</span></dd>
+</dl>
