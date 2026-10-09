@@ -6,7 +6,7 @@ permalink: /es/divulgacion/
 description: "Divulgación y asesoramiento de Sandra León: comparecencias parlamentarias, cargos de asesoramiento, citas en el Financial Times, The Economist, The New York Times, The Guardian y El País, artículos de opinión, blogs, radio, televisión y pódcast."
 ---
 <nav class="toc" aria-label="En esta página" markdown="1">
-[Asesoramiento](#asesoramiento) · [Cargos](#cargos) · [Medios](#medios) · [Opinión](#opinion) · [Blogs](#blogs) · [Radio, televisión y pódcast](#radio-tv)
+[Asesoramiento](#asesoramiento) · [Cargos](#cargos) · [Medios](#medios) · [Opinión](#opinion) · [Radio, televisión y pódcast](#radio-tv) · [Blogs](#blogs)
 </nav>
 
 ## Asesoramiento en políticas públicas
@@ -65,13 +65,6 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
 
 {% include press.html items=site.data.press.opeds %}
 
-## Blogs
-{: #blogs}
-
-Colaboradora habitual de [*Piedras de Papel*](https://www.eldiario.es/piedrasdepapel/) (eldiario.es). Otras entradas:
-
-{% include press.html items=site.data.press.blogs %}
-
 ## Radio, televisión y pódcast
 {: #radio-tv}
 
@@ -112,7 +105,7 @@ Colaboradora habitual de [*Piedras de Papel*](https://www.eldiario.es/piedrasdep
 
 <dl class="timeline">
   <dt>2015–actualidad</dt>
-  <dd><span class="tl-role">Analista política</span><span class="tl-org">laSexta, <em>Al Rojo Vivo</em>, incluidos los especiales de noches electorales: generales de 2023, autonómicas y municipales de 2023, Castilla y León 2022, Madrid 2021, y Galicia y País Vasco 2020</span></dd>
+  <dd><span class="tl-role">Analista política</span><span class="tl-org">laSexta, <em>Al Rojo Vivo</em>, incluidos los especiales de noches electorales: Andalucía, Castilla y León y Aragón 2026, generales de 2023, autonómicas y municipales de 2023, Castilla y León 2022, Madrid 2021, y Galicia y País Vasco 2020</span></dd>
   <dt>2017</dt>
   <dd><span class="tl-role">Analista sobre el control parlamentario</span><span class="tl-org">laSexta, <em>El Objetivo</em>, 28 de noviembre</span></dd>
   <dt>2016–2017</dt>
@@ -137,3 +130,10 @@ Colaboradora habitual de [*Piedras de Papel*](https://www.eldiario.es/piedrasdep
   <dt>2022</dt>
   <dd><span class="tl-role">Invitada, con Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 de septiembre</span></dd>
 </dl>
+
+## Blogs
+{: #blogs}
+
+Colaboradora habitual de [*Piedras de Papel*](https://www.eldiario.es/piedrasdepapel/) (eldiario.es). Otras entradas:
+
+{% include press.html items=site.data.press.blogs %}
