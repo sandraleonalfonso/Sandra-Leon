@@ -1,0 +1,9 @@
+{%- assign p = include.p -%}
+{%- capture meta -%}
+{%- if p.role %}{{ p.role }} · {% endif -%}
+{%- if p.with %}{{ p.with }}{% if p.venue %} · {% endif %}{% endif -%}
+{%- if p.venue %}{{ p.venue | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif -%}
+{%- if p.note %} · {{ p.note | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif -%}
+{%- endcapture -%}
+<span class="pub-title">{{ p.title }}</span>
+{%- if meta != "" %}<span class="pub-meta">{{ meta }}</span>{% endif -%}

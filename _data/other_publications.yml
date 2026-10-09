@@ -1,0 +1,150 @@
+# Books, chapters, policy papers and work in progress (journal articles live in _papers/).
+# `venue` accepts Markdown, e.g. *Book title* in italics.
+books:
+- year: 2015
+  title: 'La financiación autonómica: Claves para comprender un (interminable) debate'
+  role: ed.
+  venue: Alianza Editorial
+  note: 'Review: Alain Cuenca, *Revista de Libros*, 29/06/2015 (in Spanish).'
+- year: 2015
+  title: 'Aragón es nuestro Ohio: Así votan los españoles'
+  role: Piedras de Papel, eds.
+  venue: Malpaso
+- year: 2007
+  title: The Political Economy of Fiscal Decentralization. Bringing Politics to the Study of Intergovernmental Transfers
+  venue: Institut d'Estudis Autonòmics, Barcelona
+  note: 'Review: Santiago Lago (2007), *Administración y Ciudadanía*, 2(1), 151–154 (in Spanish).'
+chapters:
+- year: 2025
+  title: 'Cataluña y la financiación singular: del acuerdo político al (todavía incierto) encaje institucional'
+  venue: '*Informe de la Democracia en España 2024*. Fundación Alternativas'
+- year: 2024
+  title: 'La articulación de la gobernanza autonómica: financiación y relaciones intergubernamentales'
+  venue: In *Una nueva gobernanza para el siglo XXI*, eds. Pajares, Salvador and Herrera. CEPC
+- year: 2023
+  title: Cómo ampliar el espacio político para las reformas navegando la polarización
+  with: with L. Miller
+  venue: In *Un país posible. Manual de reformas políticamente viables*, ed. Teresa Raigada et al. Deusto
+- year: 2022
+  title: Alternativas institucionales al encaje de Cataluña en España
+  with: with I. Jurado
+  venue: '*Informe de la Democracia en España 2022*. Fundación Alternativas'
+- year: 2021
+  title: Attributions of responsibility in multilevel states
+  with: with I. Jurado
+  venue: In *The Edward Elgar Handbook on Decentralization*, ed. Ignacio Lago-Peñas. Edward Elgar
+- year: 2020
+  title: ¿El fin del consenso territorial?
+  with: with A. Garmendia
+  venue: '*Informe de la Democracia en España 2019*. Fundación Alternativas'
+- year: 2019
+  title: Multi-level governance in Spain
+  with: with I. Jurado
+  venue: In *The Oxford Handbook of Spanish Politics*, eds. Diego Muro and Ignacio Lago-Peñas. Oxford University Press
+- year: 2019
+  title: 'Descentralización y control electoral: la atribución de responsabilidades en el Estado autonómico'
+  with: with I. Jurado
+  venue: 'In *El sector público español: reformas pendientes*, eds. Alain Cuenca and Santiago Lago Peñas. FUNCAS'
+- year: 2018
+  title: ¿Por qué culpamos a Europa?
+  with: with Ll. Orriols
+  venue: 'In *Los españoles ante Europa: Crisis económica y social, crisis institucional y ciudadanía en España en 2014-15*, ed. Mariano Torcal'
+- year: 2016
+  title: ¿España vertebrada? Ideología, representación y territorio en el Estado Autonómico
+  with: with F. Mota and M. Salvador
+  venue: 'In *El poder político en España: Parlamentarios y ciudadanía*. CIS'
+- year: 2015
+  title: Federalism
+  with: with P. Beramendi
+  venue: In *Routledge Handbook of Comparative Political Institutions*, eds. Jennifer Gandhi and Rubén Ruiz-Rufino. Routledge
+- year: 2013
+  title: Economic crisis and the State of Autonomies
+  venue: In *Report on Fiscal Federalism 2012*. Barcelona Economic Institute
+- year: 2012
+  title: Democracia, atribución de responsabilidades y voto económico
+  venue: In *Democracia y Socialdemocracia*, eds. A. Przeworski and I. Sánchez-Cuenca. CEPC, Madrid
+- year: 2012
+  title: Algunos déficits de la democracia en España
+  venue: '*Informe sobre la Democracia en España 2012*. Fundación Alternativas'
+- year: 2012
+  title: Las relaciones intergubernamentales en el Estado Autonómico
+  venue: In *Foro de Estructura Territorial*. CEPC, Madrid
+- year: 2010
+  title: Spanish Fiscal Federalism
+  venue: In *The Political Economy of Regional Fiscal Flows*, eds. N. Bosch, M. Espasa and A. Solé. Edward Elgar
+- year: 2005
+  title: El Gobierno de la Sanidad. Descentralización Sanitaria y Estructura Organizativa
+  with: co-authored
+  venue: In *Informe Anual del Sistema Nacional de Salud 2003*. Observatory of the National Health System, Ministry of Health
+- year: 2002
+  title: Sweden
+  with: with A. Rico
+  venue: 'In *Health Care Systems in Eight Countries: Trends and Challenges*, eds. A. Dixon and E. Mossialos, 93–102. European Observatory on Health Care Systems'
+policy:
+- year: 2023
+  title: Claves sobre la estructura y la negociación de la financiación autonómica
+  venue: Policy Papers 178, Fundació Rafael Campalans
+- year: 2022
+  title: 'Comparative practices in fiscal management between governments: Experiences for Philippines'
+  venue: Forum of Federations
+- year: 2022
+  title: Polarización y convivencia en España 2021. El papel de lo territorial
+  with: with A. Garmendia
+  venue: Policy Insight, EsadeEcPol and ICIP
+- year: 2022
+  title: Study on Spanish society's divisions and consensus on climate change
+  with: with others
+  venue: EsadeEcPol
+- year: 2020
+  title: 'De gestión centralizada a gestión autonómica de la pandemia: desafíos y oportunidades'
+  venue: EsadeEcPol Insight 14
+- year: 2020
+  title: Intergovernmental Relations in Spain. Lessons to be drawn for Nepal
+  venue: Forum of Federations
+- year: 2020
+  title: Fiscal Federalism in Spain. Lessons to be drawn for Nepal
+  venue: Forum of Federations
+- year: 2013
+  title: La descentralización y el control de los gobiernos
+  venue: Colección Política Comparada, Fundación Alternativas
+- year: 2012
+  title: Algunos déficits de la democracia en España
+  venue: Informe sobre la Democracia en España 2012, Fundación Alternativas
+- year: 2011
+  title: ¿Nos cambia la crisis?
+  with: with L. Orriols
+  venue: Zoom Político 2011(1), Fundación Alternativas
+- year: 2011
+  title: El año más difícil
+  with: with R. Ruiz-Rufino and L. Orriols
+  venue: Informe sobre la Democracia en España 2011, Fundación Alternativas
+- year: 2010
+  title: Las estrategias políticas del gobierno y la oposición
+  with: with R. Ruiz-Rufino and I. Urquizu
+  venue: Informe sobre la Democracia en España 2009, Fundación Alternativas
+- year: 2009
+  title: El sistema de financiación autonómica
+  venue: Informe sobre la Democracia en España 2009, Fundación Alternativas
+- year: 2008
+  title: Cuatro Años de Gobierno Socialista
+  with: with R. Ruiz-Rufino and I. Urquizu
+  venue: Informe sobre la Democracia en España 2008, Fundación Alternativas
+- year: 2007
+  title: Relaciones intergubernamentales en el Estado Autonómico
+  venue: Informe sobre la Democracia en España 2007, Fundación Alternativas
+wip:
+- title: Preferences for territorial reforms in Spain and Catalonia. Evidence of a conjoint analysis
+  with: with I. Jurado
+- title: 'Partisan animosity and cooperation: A Behavioral Experiment'
+  with: with I. Jurado and A. Falcó
+- title: 'Disaster in a Distrustful Democracy: Public Reactions to the DANA Crisis in Spain'
+  with: with A. Garmendia
+- title: How Disaster Divides and Unites along Territorial Lines
+  with: with A. Garmendia
+- title: Territorial Affective Polarization
+  with: with A. Garmendia
+- title: Testing the limits of partisan bias
+  with: with Ll. Orriols
+- title: 'Losers'' Consent: Foundations, Causes, and Consequences of an Elusive Concept'
+  with: with I. Jurado
+  venue: Annual Review of Political Science
