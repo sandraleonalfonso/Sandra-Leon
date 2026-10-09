@@ -5,25 +5,8 @@ permalink: /engagement/
 description: "Sandra León's public engagement: advisory roles, policy advice, media commentary in the Financial Times, The Economist, The New York Times and The Guardian, op-eds, blogs, radio and TV."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[Appointments](#external-appointments) · [Policy advice](#policy-advice) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Blogs](#blogs) · [Radio and TV](#radio-and-tv)
+[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Blogs](#blogs) · [Radio and TV](#radio-and-tv)
 </nav>
-
-## External appointments
-
-<dl class="timeline">
-  <dt>2020–present</dt>
-  <dd><span class="tl-role">Member, Advisory Board (Patronato)</span><span class="tl-org">Fundación Alternativas</span></dd>
-  <dt>2020–present</dt>
-  <dd><span class="tl-role">Senior Analyst</span><span class="tl-org">EsadeEcPol, ESADE Center for Economic Policy and Political Economy</span></dd>
-  <dt>2019–present</dt>
-  <dd><span class="tl-role">Member, Advisory Board</span><span class="tl-org">EsadeEcPol</span></dd>
-  <dt>2018–2019</dt>
-  <dd><span class="tl-role">Director-General, Office of the High Commissioner to Fight Against Child Poverty</span><span class="tl-org">Ministry of the Presidency, Government of Spain (Oct 2018–Jun 2019)</span></dd>
-  <dt>2017</dt>
-  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament</span></dd>
-  <dt>2010–present</dt>
-  <dd><span class="tl-role">Member, External Review Committee</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
-</dl>
 
 ## Policy advice
 
@@ -46,6 +29,23 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
   <dd><span class="tl-role">Consultant</span><span class="tl-org">WHO European Observatory on Health Care Systems</span></dd>
   <dt>2001–2002</dt>
   <dd><span class="tl-role">Consultant, <em>European Social Trends: Policy Responses and Business Opportunities</em></span><span class="tl-org">Oxford Analytica</span></dd>
+</dl>
+
+## External appointments
+
+<dl class="timeline">
+  <dt>2020–present</dt>
+  <dd><span class="tl-role">Member, Advisory Board (Patronato)</span><span class="tl-org">Fundación Alternativas</span></dd>
+  <dt>2020–present</dt>
+  <dd><span class="tl-role">Senior Analyst</span><span class="tl-org">EsadeEcPol, ESADE Center for Economic Policy and Political Economy</span></dd>
+  <dt>2019–present</dt>
+  <dd><span class="tl-role">Member, Advisory Board</span><span class="tl-org">EsadeEcPol</span></dd>
+  <dt>2018–2019</dt>
+  <dd><span class="tl-role">Director-General, Office of the High Commissioner to Fight Against Child Poverty</span><span class="tl-org">Ministry of the Presidency, Government of Spain (Oct 2018–Jun 2019)</span></dd>
+  <dt>2017</dt>
+  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament</span></dd>
+  <dt>2010–present</dt>
+  <dd><span class="tl-role">Member, External Review Committee</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
 </dl>
 
 ## Media commentary
