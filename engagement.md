@@ -133,7 +133,7 @@ Spain's Centrist Ciudadanos Are on the March
 
 ## Op-eds
 
-My op-eds in *El País* are collected on my [author page](http://elpais.com/autor/sandra_leon/a/). Other op-eds:
+My op-eds in *El País* are collected on my [author page](http://elpais.com/autor/sandra_leon/a/). I have also written for [*Letras Libres*](https://letraslibres.com/author/sandra-len/). Other op-eds:
 
 <div class="press" markdown="1">
 <span class="press-meta"><span class="press-outlet">Tintalibre (InfoLibre)</span> · 20/12/2015</span>
