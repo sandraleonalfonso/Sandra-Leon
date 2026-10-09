@@ -5,7 +5,7 @@ permalink: /engagement/
 description: "Sandra León's public engagement: advisory roles, policy advice, media commentary in the Financial Times, The Economist, The New York Times and The Guardian, op-eds, blogs, radio and TV."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Blogs](#blogs) · [Radio, TV and podcasts](#radio-tv-and-podcasts)
+[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Radio, TV and podcasts](#radio-tv-and-podcasts) · [Blogs](#blogs)
 </nav>
 
 ## Policy advice
@@ -60,12 +60,6 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
 
 {% include press.html items=site.data.press.opeds %}
 
-## Blogs
-
-Regular contributor to [*Piedras de Papel*](https://www.eldiario.es/piedrasdepapel/) (eldiario.es). Other blog posts:
-
-{% include press.html items=site.data.press.blogs %}
-
 ## Radio, TV and podcasts
 
 ### Radio
@@ -105,7 +99,7 @@ Regular contributor to [*Piedras de Papel*](https://www.eldiario.es/piedrasdepap
 
 <dl class="timeline">
   <dt>2015–present</dt>
-  <dd><span class="tl-role">Political analyst</span><span class="tl-org">laSexta, <em>Al Rojo Vivo</em>, including election-night specials: 2023 general election, 2023 regional and municipal elections, 2022 Castilla y León, 2021 Madrid, and 2020 Galicia and Basque Country</span></dd>
+  <dd><span class="tl-role">Political analyst</span><span class="tl-org">laSexta, <em>Al Rojo Vivo</em>, including election-night specials: 2026 Andalusia, Castilla y León and Aragón, 2023 general election, 2023 regional and municipal elections, 2022 Castilla y León, 2021 Madrid, and 2020 Galicia and Basque Country</span></dd>
   <dt>2017</dt>
   <dd><span class="tl-role">Analyst on parliamentary control</span><span class="tl-org">laSexta, <em>El Objetivo</em>, 28 November</span></dd>
   <dt>2016–2017</dt>
@@ -130,3 +124,9 @@ Regular contributor to [*Piedras de Papel*](https://www.eldiario.es/piedrasdepap
   <dt>2022</dt>
   <dd><span class="tl-role">Guest, with Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 September</span></dd>
 </dl>
+
+## Blogs
+
+Regular contributor to [*Piedras de Papel*](https://www.eldiario.es/piedrasdepapel/) (eldiario.es). Other blog posts:
+
+{% include press.html items=site.data.press.blogs %}
