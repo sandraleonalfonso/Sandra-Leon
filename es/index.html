@@ -1,0 +1,44 @@
+---
+title: Sandra León
+ref: home
+lang: es
+permalink: /es/
+description: "Sandra León es politóloga y Científica Titular en el Instituto de Políticas y Bienes Públicos (IPP) del Consejo Superior de Investigaciones Científicas (CSIC). Investiga sobre descentralización y federalismo, polarización afectiva y relaciones intergubernamentales."
+hide_title: true
+---
+<section class="intro">
+  <picture class="portrait">
+    <img src="{{ '/assets/img/sandra-leon-320.jpg' | relative_url }}"
+         srcset="{{ '/assets/img/sandra-leon-320.jpg' | relative_url }} 320w, {{ '/assets/img/sandra-leon-640.jpg' | relative_url }} 640w"
+         sizes="(min-width: 40rem) 13rem, 10rem"
+         width="320" height="345" alt="Retrato de Sandra León">
+  </picture>
+  <div>
+    <h1>Sandra León</h1>
+    <p class="subtitle">Politóloga<br>
+      Científica Titular, <a href="https://ipp.csic.es/">Instituto de Políticas y Bienes Públicos (IPP)</a>, Consejo Superior de Investigaciones Científicas (CSIC)</p>
+    <ul class="profile-links pills">
+      <li><a href="mailto:sandra.leon@csic.es">Correo</a></li>
+      {%- for p in site.author.profiles %}
+      <li><a href="{{ p.url }}" rel="me">{{ p.name }}</a></li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+
+<p>Soy politóloga y Científica Titular en el Instituto de Políticas y Bienes Públicos del Consejo Superior de Investigaciones Científicas (CSIC), y estoy acreditada como Catedrática de Universidad por la ANECA.</p>
+
+<p>Mi investigación se centra en la descentralización y el federalismo, la polarización afectiva y las relaciones intergubernamentales. Adopto una perspectiva comparada y utilizo métodos cuantitativos para estudiar la interacción entre las instituciones políticas y el comportamiento electoral. Actualmente me interesa analizar el impacto de la inteligencia artificial en la gobernanza multinivel y la rendición de cuentas democrática, en el marco del proyecto AI-GOV (PID2025-174631NB-I00), financiado por la Agencia Estatal de Investigación (AEI).</p>
+
+<ul class="tags" aria-label="Temas de investigación">
+  <li>Descentralización</li><li>Federalismo</li><li>Polarización afectiva</li><li>Relaciones intergubernamentales</li><li>Comportamiento electoral</li><li>Inteligencia artificial</li>
+</ul>
+
+<h2>Publicaciones recientes</h2>
+{%- assign recent = site.papers | sort: "order" %}
+<ul class="pub-list plain">
+  {%- for p in recent limit: 4 %}
+  <li>{% include pub-item.html paper=p show_year=true %}</li>
+  {%- endfor %}
+</ul>
+<p><a href="{{ '/es/publicaciones/' | relative_url }}">Todas las publicaciones →</a></p>

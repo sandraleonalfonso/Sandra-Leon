@@ -1,0 +1,29 @@
+{%- comment -%}Google Scholar / Highwire Press citation tags for a paper page.{%- endcomment -%}
+<meta name="citation_title" content="{{ page.title | escape }}">
+{%- for a in page.authors %}
+<meta name="citation_author" content="{{ a | escape }}">
+{%- endfor %}
+<meta name="citation_publication_date" content="{{ page.year }}">
+{%- if page.journal %}
+<meta name="citation_journal_title" content="{{ page.journal | escape }}">
+{%- endif -%}
+{%- if page.volume %}
+<meta name="citation_volume" content="{{ page.volume }}">
+{%- endif -%}
+{%- if page.issue %}
+<meta name="citation_issue" content="{{ page.issue }}">
+{%- endif -%}
+{%- if page.first_page %}
+<meta name="citation_firstpage" content="{{ page.first_page }}">
+{%- endif -%}
+{%- if page.last_page %}
+<meta name="citation_lastpage" content="{{ page.last_page }}">
+{%- endif -%}
+{%- if page.doi %}
+<meta name="citation_doi" content="{{ page.doi }}">
+{%- endif -%}
+{%- if page.pdf %}
+<meta name="citation_pdf_url" content="{{ page.pdf | absolute_url }}">
+{%- endif %}
+<meta name="citation_abstract_html_url" content="{{ page.url | absolute_url }}">
+<meta name="citation_language" content="{{ page.paper_lang | default: 'en' }}">

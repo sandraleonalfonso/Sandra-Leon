@@ -1,0 +1,20 @@
+{%- comment -%}Renders a list from _data/other_publications.yml, grouped by year unless `grouped=false`.{%- endcomment -%}
+{%- if include.grouped == false -%}
+<ul class="pub-list plain">
+{%- for p in include.items %}
+  <li>{% include other-pub-item.html p=p %}</li>
+{%- endfor %}
+</ul>
+{%- else -%}
+{%- assign years = include.items | group_by: "year" -%}
+<div class="by-year">
+{%- for y in years %}
+<h3 class="year">{{ y.name }}</h3>
+<ul class="pub-list plain">
+{%- for p in y.items %}
+  <li>{% include other-pub-item.html p=p %}</li>
+{%- endfor %}
+</ul>
+{%- endfor %}
+</div>
+{%- endif -%}

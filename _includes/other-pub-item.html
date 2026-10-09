@@ -1,0 +1,17 @@
+{%- assign p = include.p -%}
+{%- assign with = p.with -%}
+{%- assign venue = p.venue -%}
+{%- assign note = p.note -%}
+{%- if page.lang == "es" -%}
+  {%- if with %}{% assign with = with | replace: "with others", "con otros autores" | replace: "co-authored", "en coautoría" | replace_first: "with ", "con " | replace: " and ", " y " %}{% endif -%}
+  {%- if venue %}{% assign first3 = venue | slice: 0, 3 %}{% if first3 == "In " %}{% assign venue = venue | replace_first: "In ", "En " %}{% endif %}{% endif -%}
+  {%- if note %}{% assign note = note | replace: "Review:", "Reseña:" | replace: " (in Spanish)", "" %}{% endif -%}
+{%- endif -%}
+{%- capture meta -%}
+{%- if p.role %}{{ p.role }} · {% endif -%}
+{%- if with %}{{ with }}{% if venue %} · {% endif %}{% endif -%}
+{%- if venue %}{{ venue | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif -%}
+{%- if note %} · {{ note | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif -%}
+{%- endcapture -%}
+<span class="pub-title">{{ p.title }}</span>
+{%- if meta != "" %}<span class="pub-meta">{{ meta }}</span>{% endif -%}

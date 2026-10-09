@@ -1,0 +1,38 @@
+---
+layout: default
+section: publications
+---
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- assign pubs = site.pages | where: "ref", "publications" | where: "lang", page.lang | first -%}
+<article class="paper">
+  <p class="breadcrumb"><a href="{{ pubs.url | relative_url }}">← {{ t.back_to_publications }}</a></p>
+  <h1>{{ page.title }}</h1>
+  <p class="paper-authors">{{ page.authors | join: ", " }}</p>
+  <p class="paper-venue">
+    <em>{{ page.journal }}</em>{% if page.volume %}, {{ page.volume }}{% if page.issue %}({{ page.issue }}){% endif %}{% endif %}{% if page.first_page %}, {{ page.first_page }}{% if page.last_page %}–{{ page.last_page }}{% endif %}{% endif %} · {{ page.year }}{% if page.status %} · {{ t.status[page.status] | default: page.status }}{% endif %}
+  </p>
+
+  {%- if page.abstract %}
+  <section class="abstract">
+    <h2>Abstract</h2>
+    {{ page.abstract | markdownify }}
+  </section>
+  {%- endif %}
+
+  {{ content }}
+
+  <ul class="paper-links">
+    {%- if page.doi %}
+    <li><a class="button" href="https://doi.org/{{ page.doi }}">{{ t.read_article }}</a></li>
+    {%- endif %}
+    {%- if page.pdf %}
+    <li><a class="button" href="{{ page.pdf | relative_url }}">PDF</a></li>
+    {%- endif %}
+    <li><a class="button secondary" href="https://scholar.google.com/scholar?q={{ page.title | prepend: 'allintitle: ' | url_encode }}">{{ t.find_scholar }}</a></li>
+  </ul>
+
+  <section class="cite">
+    <h2>{{ t.cite }}</h2>
+    <p>{% include citation.html paper=page %}</p>
+  </section>
+</article>

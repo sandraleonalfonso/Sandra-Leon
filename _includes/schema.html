@@ -1,0 +1,82 @@
+{%- comment -%}schema.org structured data: the person on every page, plus the article on paper pages.{%- endcomment -%}
+{%- capture person_id %}{{ '/' | absolute_url }}#person{% endcapture -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": {{ site.author.name | jsonify }},
+      "givenName": "Sandra",
+      "familyName": "León",
+      "jobTitle": {{ site.author.job_title | jsonify }},
+      "description": "Political scientist",
+      "url": {{ '/' | absolute_url | jsonify }},
+      "image": {{ site.author.photo | absolute_url | jsonify }},
+      "email": {{ site.author.email | prepend: "mailto:" | jsonify }},
+      "affiliation": {
+        "@type": "ResearchOrganization",
+        "name": "Institute of Public Goods and Policies (IPP)",
+        "url": {{ site.author.affiliation_url | jsonify }},
+        "parentOrganization": {
+          "@type": "GovernmentOrganization",
+          "name": "Spanish National Research Council (CSIC)",
+          "url": "https://www.csic.es/"
+        }
+      },
+      "knowsAbout": ["Decentralization", "Federalism", "Affective polarization", "Intergovernmental relations", "Electoral behavior", "Political institutions", "Artificial intelligence"],
+      "sameAs": [{% for p in site.author.profiles %}{{ p.url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %}]
+    }
+    {%- if page.collection == "papers" -%},
+    {
+      "@type": "ScholarlyArticle",
+      "@id": {{ page.url | absolute_url | append: "#article" | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "datePublished": {{ page.year | append: "" | jsonify }},
+      "inLanguage": {{ page.paper_lang | default: "en" | jsonify }},
+      "author": [
+        {%- for a in page.authors -%}
+        {%- if a == site.author.name -%}
+        { "@id": {{ person_id | jsonify }} }
+        {%- else -%}
+        { "@type": "Person", "name": {{ a | jsonify }} }
+        {%- endif -%}
+        {%- unless forloop.last %}, {% endunless -%}
+        {%- endfor -%}
+      ],
+      {%- if page.doi %}
+      "sameAs": {{ page.doi | prepend: "https://doi.org/" | jsonify }},
+      "identifier": { "@type": "PropertyValue", "propertyID": "DOI", "value": {{ page.doi | jsonify }} },
+      {%- endif %}
+      {%- if page.first_page %}
+      "pageStart": {{ page.first_page | append: "" | jsonify }},
+      {%- endif -%}
+      {%- if page.last_page %}
+      "pageEnd": {{ page.last_page | append: "" | jsonify }},
+      {%- endif %}
+      "isPartOf": {
+        {%- if page.issue %}
+        "@type": "PublicationIssue",
+        "issueNumber": {{ page.issue | append: "" | jsonify }},
+        "isPartOf": {
+        {%- endif %}
+          {%- if page.volume %}
+          "@type": "PublicationVolume",
+          "volumeNumber": {{ page.volume | append: "" | jsonify }},
+          "isPartOf": { "@type": "Periodical", "name": {{ page.journal | jsonify }} }
+          {%- else %}
+          "@type": "Periodical",
+          "name": {{ page.journal | jsonify }}
+          {%- endif %}
+        {%- if page.issue %}
+        }
+        {%- endif %}
+      }
+    }
+    {%- endif %}
+  ]
+}
+</script>

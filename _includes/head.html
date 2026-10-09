@@ -1,0 +1,34 @@
+{%- include translations.html -%}
+{%- assign t = site.data.i18n[page.lang] -%}
+{%- if page.ref == "home" -%}
+  {%- assign full_title = site.title | append: " · " | append: site.author.job_title -%}
+{%- else -%}
+  {%- assign full_title = page.title | append: " · " | append: site.title -%}
+{%- endif -%}
+{%- assign description = page.description | default: site.description | strip_html | normalize_whitespace | truncate: 200 -%}
+{%- assign canonical = page.url | absolute_url -%}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ full_title | escape }}</title>
+<meta name="description" content="{{ description | escape }}">
+<link rel="canonical" href="{{ canonical }}">
+{%- for doc in translations %}
+<link rel="alternate" hreflang="{{ doc.lang }}" href="{{ doc.url | absolute_url }}">
+{%- if doc.lang == site.default_lang %}
+<link rel="alternate" hreflang="x-default" href="{{ doc.url | absolute_url }}">
+{%- endif -%}
+{%- endfor %}
+<meta property="og:type" content="{% if page.collection == 'papers' %}article{% else %}profile{% endif %}">
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ description | escape }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:locale" content="{% if page.lang == 'es' %}es_ES{% else %}en_US{% endif %}">
+<meta property="og:image" content="{{ site.author.photo | absolute_url }}">
+<meta name="twitter:card" content="summary">
+<link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+<link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
+{%- if page.collection == "papers" %}
+{% include scholar-meta.html %}
+{%- endif %}
+{% include schema.html %}

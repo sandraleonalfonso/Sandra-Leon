@@ -1,0 +1,25 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- assign all_docs = site.pages | concat: site.papers -%}
+{%- for doc in all_docs -%}
+{%- if doc.ref and doc.sitemap != false %}
+  <url>
+    <loc>{{ doc.url | absolute_url }}</loc>
+    {%- assign translations = all_docs | where: "ref", doc.ref -%}
+    {%- if translations.size > 1 -%}
+    {%- for tr in translations %}
+    <xhtml:link rel="alternate" hreflang="{{ tr.lang }}" href="{{ tr.url | absolute_url }}"/>
+    {%- if tr.lang == site.default_lang %}
+    <xhtml:link rel="alternate" hreflang="x-default" href="{{ tr.url | absolute_url }}"/>
+    {%- endif -%}
+    {%- endfor -%}
+    {%- endif %}
+  </url>
+{%- endif -%}
+{%- endfor %}
+</urlset>

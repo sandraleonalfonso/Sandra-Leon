@@ -1,0 +1,129 @@
+# Press items for the Public engagement page (both languages).
+# note: optional text shown after the title, e.g. co-author. Use note_es for the Spanish page.
+media:
+- outlet: elDiario.es
+  date: 06/10/2026
+  title: Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones
+  url: https://www.eldiario.es/internacional/ayuso-abascal-tiran-manual-ultraderecha-cuestionar-elecciones_1_13567145.html
+- outlet: El País
+  date: 18/03/2026
+  title: 'Efecto Trump, voto útil, pleamar electoral: en busca del porqué del éxito a medias de Vox este 15-M'
+  url: https://elpais.com/espana/2026-03-18/efecto-trump-voto-util-pleamar-electoral-en-busca-del-porque-del-exito-a-medias-de-vox-este-15-m.html
+- outlet: The Guardian
+  date: 15/02/2024
+  title: What Will Spain Look Like When It Runs Out of Water?
+  url: https://www.theguardian.com/commentisfree/2024/feb/15/spain-water-barcelona-farmers-tourism-catalonia-drought
+- outlet: The New York Times
+  date: 19/06/2023
+  title: Once Scorned, Far Right Secures Foothold in Spanish Cities
+- outlet: La Vanguardia
+  date: 27/01/2023
+  title: La era de la irritación
+  url: https://www.lavanguardia.com/opinion/20230127/8711907/irritacion.html
+  note: column by Màrius Carol
+  note_es: columna de Màrius Carol
+- outlet: Financial Times
+  date: 07/05/2021
+  title: 'Isabel Díaz Ayuso: The Spanish Right''s Saviour'
+- outlet: Financial Times
+  date: 05/05/2021
+  title: Iglesias Exits Political Stage as Spanish Left Licks Its Wounds
+- outlet: El País
+  date: 23/04/2021
+  title: 'La demonización del rival en política: por qué las campañas negativas son más eficaces'
+  url: https://elpais.com/ciencia/2021-04-23/la-demonizacion-del-rival-en-politica.html
+- outlet: The Economist
+  date: 25/03/2021
+  title: Madrid's Snap Election Shakes Up Spanish Politics
+- outlet: Financial Times
+  date: 26/02/2021
+  title: Spain's Exiled King Juan Carlos Pays €4.4m in Back Taxes
+- outlet: The New York Times
+  date: 20/02/2021
+  title: Spain Hoped Catalonia's Separatists Would Fade
+  url: https://www.nytimes.com/2021/02/19/world/europe/spain-catalonia-independence.html
+- outlet: The Economist
+  date: 16/04/2020
+  title: Nasty Politics Returns to Spain
+- outlet: Financial Times
+  date: 07/01/2020
+  title: Pedro Sánchez Prepares to Dig In as Spain's Prime Minister
+- outlet: Financial Times
+  date: 11/11/2019
+  title: Vox Breaks Out of Spain's Political Wilderness
+- outlet: InfoLibre
+  date: 10/06/2018
+  title: El cambio político rompe la inercia victoriosa de Ciudadanos
+  url: https://www.infolibre.es/politica/cambio-politico-rompe-inercia-victoriosa-ciudadanos_1_1159395.html
+- outlet: The Economist
+  date: 10/02/2018
+  title: Spain's Centrist Ciudadanos Are on the March
+- outlet: The New York Times
+  date: 22/12/2017
+  title: Catalonia's Election Yields a Crisis That Is Here to Stay
+  url: https://www.nytimes.com/2017/12/22/world/europe/catalonia-election-spain.html
+- outlet: Politico Europe
+  date: 15/11/2017
+  title: 'Spanish regions to Catalonia: Up yours'
+  url: https://www.politico.eu/article/spain-regional-conundrum-catalan-independence/
+- outlet: El País
+  date: 15/05/2012
+  title: 'Así es el indignado: universitario, de 33 años y muy de izquierdas'
+  url: https://elpais.com/politica/2012/05/14/actualidad/1337005195_251451.html
+opeds:
+- outlet: Letras Libres
+  date: 01/03/2020
+  title: De ideología y territorio
+  url: https://letraslibres.com/revista/de-ideologia-y-territorio/
+- outlet: Tintalibre (InfoLibre)
+  date: 20/12/2015
+  title: ¿Quién teme a las coaliciones?
+- outlet: Ahorasemanal
+  date: 20/11/2015
+  title: 'Balance de legislatura: deterioro institucional'
+- outlet: CNN.com
+  date: 12/06/2012
+  title: How the indignados motivated Spain
+- outlet: Claves de Razón Práctica
+  date: '2010'
+  title: La competición electoral en España
+  note: with L. Orriols
+  note_es: con L. Orriols
+- outlet: Claves de Razón Práctica
+  date: '2009'
+  title: El bumerán de la financiación autonómica
+- outlet: Público
+  date: 25/06/2009
+  title: Financiación sin modelo
+- outlet: Público
+  date: 24/06/2008
+  title: ¿Por qué el debate permanecerá en la agenda?
+  note: with I. Jurado
+  note_es: con I. Jurado
+- outlet: El País
+  date: 04/07/2003
+  title: La selección adversa en los partidos políticos
+  note: co-authored
+  note_es: en coautoría
+blogs:
+- outlet: Expansión, "De fueros y huevos"
+  date: 08/03/2016
+  title: Cómo controlar a los políticos
+- outlet: Expansión, "De fueros y huevos"
+  date: 12/01/2016
+  title: Las grietas sociales en el Estado del Bienestar
+- outlet: FEPS
+  date: 17/12/2015
+  title: PSOE's strengths and challenges facing the Spanish general election
+- outlet: Policy Network
+  date: 13/11/2015
+  title: 'A crowded left: the reconfiguration of Spain''s party system'
+- outlet: Expansión, "De fueros y huevos"
+  date: 03/11/2015
+  title: Parlamentarios, financiación autonómica y división interna en los partidos
+- outlet: Centre on Constitutional Change
+  date: 02/10/2015
+  title: The curse of polarised politics in Catalonia
+- outlet: LSE Politics and Policy
+  date: 25/09/2014
+  title: The programme of post-referendum constitutional reform must not be by the elites for the elites

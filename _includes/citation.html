@@ -1,0 +1,9 @@
+{%- assign p = include.paper -%}
+{%- assign n = p.authors | size -%}
+{%- capture names -%}
+{%- for a in p.authors -%}
+{%- if forloop.last and n > 1 %} and {% elsif forloop.first == false %}, {% endif -%}
+{{ a }}
+{%- endfor -%}
+{%- endcapture -%}
+{{ names }} ({{ p.year }}). {{ p.title }}. <em>{{ p.journal }}</em>{% if p.volume %}, {{ p.volume }}{% if p.issue %}({{ p.issue }}){% endif %}{% endif %}{% if p.first_page %}, {{ p.first_page }}{% if p.last_page %}–{{ p.last_page }}{% endif %}{% endif %}.{% if p.doi %} <a href="https://doi.org/{{ p.doi }}">https://doi.org/{{ p.doi }}</a>{% endif %}
