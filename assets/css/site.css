@@ -110,3 +110,13 @@ span.pub-title { color: var(--text); }
   .timeline { grid-template-columns: 1fr; }
   .timeline dd { border-top: 0; padding-top: 0; }
 }
+
+/* Research lines */
+.strand { background: var(--soft); border-left: 4px solid var(--accent); padding: 1.25rem 1.5rem 1.1rem; margin: 2rem 0; }
+.strand-num { margin: 0; color: var(--accent); font-variant: small-caps; letter-spacing: 0.06em; font-size: 0.95rem; }
+.strand h2 { margin: 0.15rem 0 0.9rem; font-size: 1.6rem; }
+.strand h2::after { display: none; }
+.strand-funding { color: var(--muted); font-size: 0.95rem; border-top: 1px solid var(--line); padding-top: 0.7rem; margin-top: 1rem; }
+.strand-papers h3 { font-size: 0.95rem; font-variant: small-caps; letter-spacing: 0.06em; color: var(--muted); font-style: normal; margin: 1rem 0 0.4rem; }
+.strand-paper { margin: 0 0 0.55rem; }
+@media (max-width: 30rem) { .strand { padding: 1rem 1rem 0.9rem; } }
