@@ -33,7 +33,7 @@ With Amuitz Garmendia, we explore territorial affective polarization from a comp
 <div class="substrand" markdown="1">
 ### Polarization and cooperation
 
-With Ignacio Jurado and Albert Falcó, I run large-scale behavioral experiments in Spain, Brazil and the United States to test whether affective polarization weakens everyday cooperation. People help less, and with lower quality, when the beneficiary backs their most disliked party. Out-group animosity matters more than in-group affection, personal rewards raise cooperation more than public-good incentives, and political tasks reduce cooperation. Polarization spills over even into minimal, impersonal cooperation.
+With Ignacio Jurado and Albert Falcó, we run large-scale behavioral experiments in Spain, Brazil and the United States to test whether affective polarization weakens everyday cooperation. People help less, and with lower quality, when the beneficiary backs their most disliked party. Out-group animosity matters more than in-group affection, personal rewards raise cooperation more than public-good incentives, and political tasks reduce cooperation. Polarization spills over even into minimal, impersonal cooperation.
 
 *Partisan animosity and cooperation: A Behavioral Experiment* (with I. Jurado and A. Falcó), in progress
 {: .strand-paper}
@@ -54,7 +54,7 @@ I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studi
 
 ## The political impact of crises
 
-I study how crises and disasters shape citizens' trust, their views on who should hold power, and territorial divides.
+With Amuitz Garmendia, we study how crises and disasters shape citizens' trust, their views on who should hold power, and territorial divides.
 
 <p class="strand-funding">Part of this research was funded by FEDCRISIS, <em>Federalism Under Challenge: Crisis, Polarization and Populism</em> (Spanish National Research Agency, PID2021-128287NB-I00), with Amuitz Garmendia (UC3M).</p>
 
