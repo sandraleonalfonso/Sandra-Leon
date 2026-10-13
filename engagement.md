@@ -23,6 +23,8 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
   <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">LGiU (Local Government Information Unit)</span></dd>
   <dt>2015</dt>
   <dd><span class="tl-role">Academic Advisor</span><span class="tl-org">Devolution (Further Powers) Committee, Scottish Parliament (Holyrood), 27 August</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Briefing report on intergovernmental relations in Spain, ahead of the Committee’s visit to the Parliament of Andalusia</span><span class="tl-org">Devolution (Further Powers) Committee, Scottish Parliament, December</span></dd>
   <dt>2003–2004</dt>
   <dd><span class="tl-role">Expert Group</span><span class="tl-org">Observatorio del Sistema Nacional de Salud, Ministry of Health</span></dd>
   <dt>2001–2002</dt>
@@ -35,17 +37,17 @@ description: "Sandra León's public engagement: advisory roles, policy advice, m
 
 <dl class="timeline">
   <dt>2020–present</dt>
-  <dd><span class="tl-role">Member, Advisory Board (Patronato)</span><span class="tl-org">Fundación Alternativas</span></dd>
+  <dd><span class="tl-role">Member, Board of Trustees (Patronato)</span><span class="tl-org">Fundación Alternativas</span></dd>
   <dt>2020–present</dt>
   <dd><span class="tl-role">Senior Analyst</span><span class="tl-org">EsadeEcPol, ESADE Center for Economic Policy and Political Economy</span></dd>
   <dt>2019–present</dt>
   <dd><span class="tl-role">Member, Advisory Board</span><span class="tl-org">EsadeEcPol</span></dd>
   <dt>2018–2019</dt>
   <dd><span class="tl-role">Director-General, Office of the High Commissioner to Fight Against Child Poverty</span><span class="tl-org">Ministry of the Presidency, Government of Spain (Oct 2018–Jun 2019)</span></dd>
-  <dt>2017</dt>
-  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament (Holyrood)</span></dd>
-  <dt>2010–present</dt>
-  <dd><span class="tl-role">Member, External Review Committee</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
+  <dt>2017–2018</dt>
+  <dd><span class="tl-role">Member, External Expert Panel</span><span class="tl-org">Scottish Parliament (Holyrood), June 2017–July 2018</span></dd>
+  <dt>2008–present</dt>
+  <dd><span class="tl-role">Member, Advisory Council (Consejo Asesor)</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
 </dl>
 
 ## Media commentary
@@ -130,21 +132,21 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
 
 <dl class="timeline">
   <dt>2026</dt>
-  <dd><span class="tl-role">Roundtable at the presentation of the magazine <em>Alerta Democrática</em>, with the newspaper’s members</span><span class="tl-org">elDiario.es, Gran Vía, Madrid · 17 September 2026</span></dd>
+  <dd><span class="tl-role">Roundtable at the presentation of the magazine <em>Alerta Democrática</em>, with members (socios) of the newspaper</span><span class="tl-org">elDiario.es headquarters, Gran Vía, Madrid · 17 September 2026</span></dd>
   <dt>2025</dt>
   <dd><span class="tl-role">“Diálogo sobre la reforma de la financiación autonómica”</span><span class="tl-org">Agrupación Europeísta Cuidar el Futuro, Ateneo de Madrid and Economistas frente a la Crisis. Ateneo de Madrid · 13 January 2025</span></dd>
   <dt>2024</dt>
   <dd><span class="tl-role">“Elecciones europeas: Agenda y retos de futuro para la UE”</span><span class="tl-org">CIDOB, Sofia Corradi Summer Course on the European Union, Barcelona · 8 July 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Economic inequality and political inequality”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 February 2024</span></dd>
+  <dd><span class="tl-role">“Desigualdad económica y desigualdad política”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 February 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">Presentation of the policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 25 January 2024</span></dd>
+  <dd><span class="tl-role">Presentation of the policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Col·legi de Periodistes de Catalunya, Barcelona · 25 January 2024</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">“La política en España: Dinámicas y perspectiva comparada”</span><span class="tl-org">Stanford University, Madrid Center · 25 November 2023</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">Conference “La ruptura del contrato social”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 31 May 2023</span></dd>
   <dt>2023</dt>
-  <dd><span class="tl-role">Presentation of Mariano Torcal’s book <em>De votantes a hooligans</em></span><span class="tl-org">Blanquerna bookshop, Madrid · 2 March 2023</span></dd>
+  <dd><span class="tl-role">Introduction to the presentation of Mariano Torcal’s book <em>De votantes a hooligans</em></span><span class="tl-org">Blanquerna bookshop, Madrid · 2 March 2023</span></dd>
   <dt>2022</dt>
   <dd><span class="tl-role">Conference “La millora de l’autogovern de Catalunya”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 16 September 2022</span></dd>
   <dt>2022</dt>

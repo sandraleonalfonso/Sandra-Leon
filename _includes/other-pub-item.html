@@ -4,6 +4,8 @@
 {%- assign note = p.note -%}
 {%- if page.lang == "es" -%}
   {%- if with %}{% assign with = with | replace: "with others", "con otros autores" | replace: "co-authored", "en coautoría" | replace_first: "with ", "con " | replace: " and ", " y " %}{% endif -%}
+  {%- if venue %}{% assign venue = venue | replace: ", edited by ", ", ed. " | replace: ", directed by ", ", dir. " | replace: ", coordinated by ", ", coord. " %}{% endif -%}
+  {%- if venue contains "*" %}{% assign vparts = venue | split: "*" %}{% capture venue %}{% for vp in vparts %}{% if forloop.index0 > 0 %}*{% endif %}{% assign odd = forloop.index0 | modulo: 2 %}{% if odd == 0 %}{{ vp | replace: " and ", " y " }}{% else %}{{ vp }}{% endif %}{% endfor %}{% endcapture %}{% endif -%}
   {%- if venue %}{% assign first3 = venue | slice: 0, 3 %}{% if first3 == "In " %}{% assign venue = venue | replace_first: "In ", "En " %}{% endif %}{% endif -%}
   {%- if p.note_es %}{% assign note = p.note_es %}{% elsif note %}{% assign note = note | replace: "Review:", "Reseña:" | replace: " (in Spanish)", "" | replace: "Forthcoming", "En prensa" %}{% endif -%}
 {%- endif -%}

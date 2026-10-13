@@ -25,9 +25,9 @@ Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y l
 <div class="substrand" markdown="1">
 ### Polarización afectiva territorial
 
-Con Amuitz Garmendia, estudiamos la polarización afectiva territorial desde una perspectiva comparada en seis países: Alemania, Italia, Bélgica, España, Estados Unidos y Reino Unido.
+Con Amuitz Garmendia-Madariaga, estudiamos la polarización afectiva territorial desde una perspectiva comparada en seis países: Alemania, Italia, Bélgica, España, Estados Unidos y Reino Unido.
 
-*Territorial Affective Polarization: Concept, Prevalence, and Impact* (con A. Garmendia), en curso
+*Territorial Affective Polarization: Concept, Prevalence, and Impact* (con A. Garmendia-Madariaga), en curso
 {: .strand-paper}
 </div>
 
@@ -55,17 +55,17 @@ Colaboro en [CONSENT](https://ignaciojurado.com/consent), que estudia por qué q
 
 ## El impacto político de las crisis
 
-Con Amuitz Garmendia, estudiamos cómo las crisis y los desastres influyen en la confianza de la ciudadanía, en sus preferencias sobre quién debe ejercer el poder y en las divisiones territoriales.
+Con Amuitz Garmendia-Madariaga, estudiamos cómo las crisis y los desastres influyen en la confianza de la ciudadanía, en sus preferencias sobre quién debe ejercer el poder y en las divisiones territoriales.
 
-<p class="strand-funding">Parte de esta investigación se financió con el proyecto FEDCRISIS, <em>El federalismo ante sus desafíos: crisis, polarización y populismo</em> (Agencia Estatal de Investigación, PID2021-128287NB-I00), con Amuitz Garmendia (UC3M). También la financió la Fundación Ramón Areces mediante una Visiting Fellowship en el European Studies Centre, St Antony’s College, Universidad de Oxford (curso 2025–2026).</p>
+<p class="strand-funding">Parte de esta investigación se financió con el proyecto FEDCRISIS, <em>El federalismo ante sus desafíos: crisis, polarización y populismo</em> (Agencia Estatal de Investigación, PID2021-128287NB-I00), con Amuitz Garmendia-Madariaga (UC3M). También la financió la Fundación Ramón Areces mediante una Visiting Fellowship en el European Studies Centre, St Antony’s College, Universidad de Oxford (curso 2025–2026).</p>
 
 <div class="strand-papers" markdown="1">
 <h3>Artículos</h3>
 
-*Disaster in a Distrustful Democracy: Public Reactions to the DANA Crisis in Spain* (con A. Garmendia), en curso
+*Disaster in a Distrustful Democracy: Public Reactions to the DANA Crisis in Spain* (con A. Garmendia-Madariaga), en curso
 {: .strand-paper}
 
-*How Disaster Divides and Unites along Territorial Lines* (con A. Garmendia), en curso
+*How Disaster Divides and Unites along Territorial Lines* (con A. Garmendia-Madariaga), en curso
 {: .strand-paper}
 </div>
 </section>
