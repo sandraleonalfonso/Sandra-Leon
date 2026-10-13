@@ -1,23 +1,22 @@
 # Books, chapters, policy papers and work in progress (journal articles live in _papers/).
 # `venue` accepts Markdown, e.g. *Book title* in italics.
 books:
+- year: 2009
+  title: A cooperación intergubernamental no Estado autonómico
+  with: with Mónica Ferrín
+  venue: Escola Galega de Administración Pública, Santiago de Compostela. ISBN 978-84-453-4813-0
+- year: 2007
+  title: 'The Political Economy of Fiscal Decentralization: Bringing Politics to the Study of Intergovernmental Transfers'
+  venue: Col·lecció Con(Textos)A 6. Institut d'Estudis Autonòmics, Barcelona. ISBN 978-84-393-7467
+edited_books:
 - year: 2015
   title: 'La financiación autonómica: Claves para comprender un (interminable) debate'
   role: ed.
-  venue: Alianza Editorial
-  note: 'Review: Alain Cuenca, *Revista de Libros*, 29/06/2015 (in Spanish).'
+  venue: Alianza Editorial, Madrid
 - year: 2015
   title: 'Aragón es nuestro Ohio: Así votan los españoles'
-  role: Piedras de Papel, eds.
-  venue: Malpaso
-- year: 2009
-  title: A cooperación intergubernamental no Estado autonómico
-  with: with M. Ferrín
-  venue: Escola Galega de Administración Pública, Santiago de Compostela
-- year: 2007
-  title: The Political Economy of Fiscal Decentralization. Bringing Politics to the Study of Intergovernmental Transfers
-  venue: Institut d'Estudis Autonòmics, Barcelona
-  note: 'Review: Santiago Lago (2007), *Administración y Ciudadanía*, 2(1), 151–154 (in Spanish).'
+  with: José Fernández-Albertos, Amparo González-Ferrer, Ignacio Jurado, Víctor Lapuente, Sebastián Lavezzolo, Sandra León, Ferran Martínez i Coma, Lluís Orriols, Alberto Penadés, Marta Romero and Ignacio Urquizu (Piedras de Papel)
+  venue: Malpaso, Barcelona
 chapters:
 - year: 2026
   title: El impacto de la Unión Europea en el Estado Autonómico
