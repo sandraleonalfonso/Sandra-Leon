@@ -9,14 +9,18 @@ books:
   title: 'Aragón es nuestro Ohio: Así votan los españoles'
   role: Edited book
   with: José Fernández-Albertos, Amparo González-Ferrer, Ignacio Jurado, Víctor Lapuente, Sebastián Lavezzolo, Sandra León, Ferran Martínez i Coma, Lluís Orriols, Alberto Penadés, Marta Romero and Ignacio Urquizu (Piedras de Papel)
-  venue: Malpaso, Barcelona
+  venue: El Hombre del Tres, Madrid. ISBN 978-84-941749-2-6
 - year: 2009
   title: A cooperación intergubernamental no Estado autonómico
   with: with Mónica Ferrín
   venue: Escola Galega de Administración Pública, Santiago de Compostela. ISBN 978-84-453-4813-0
+  note: 'Spanish edition: *La cooperación intergubernamental en el Estado autonómico*. ISBN 978-84-453-4823-9'
+  note_es: 'Edición en castellano: *La cooperación intergubernamental en el Estado autonómico*. ISBN 978-84-453-4823-9'
 - year: 2007
   title: 'The Political Economy of Fiscal Decentralization: Bringing Politics to the Study of Intergovernmental Transfers'
-  venue: Col·lecció Con(Textos)A 6. Institut d'Estudis Autonòmics, Barcelona. ISBN 978-84-393-7467
+  venue: Col·lecció Con(Textos)A 6. Institut d'Estudis Autonòmics, Barcelona. ISBN 978-84-393-7467-1
+  note: 'Catalan edition: *L’economia política de la descentralització fiscal: Introducció de la política en l’estudi de les transferències intergovernamentals*. Institut d’Estudis Autonòmics, Barcelona, 2008. ISBN 978-84-393-7915-7'
+  note_es: 'Edición en catalán: *L’economia política de la descentralització fiscal: Introducció de la política en l’estudi de les transferències intergovernamentals*. Institut d’Estudis Autonòmics, Barcelona, 2008. ISBN 978-84-393-7915-7'
 chapters:
 - year: 2026
   title: El impacto de la Unión Europea en el Estado Autonómico

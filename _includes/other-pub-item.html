@@ -5,7 +5,7 @@
 {%- if page.lang == "es" -%}
   {%- if with %}{% assign with = with | replace: "with others", "con otros autores" | replace: "co-authored", "en coautoría" | replace_first: "with ", "con " | replace: " and ", " y " %}{% endif -%}
   {%- if venue %}{% assign first3 = venue | slice: 0, 3 %}{% if first3 == "In " %}{% assign venue = venue | replace_first: "In ", "En " %}{% endif %}{% endif -%}
-  {%- if note %}{% assign note = note | replace: "Review:", "Reseña:" | replace: " (in Spanish)", "" | replace: "Forthcoming", "En prensa" %}{% endif -%}
+  {%- if p.note_es %}{% assign note = p.note_es %}{% elsif note %}{% assign note = note | replace: "Review:", "Reseña:" | replace: " (in Spanish)", "" | replace: "Forthcoming", "En prensa" %}{% endif -%}
 {%- endif -%}
 {%- capture meta -%}
 {%- if p.role %}{% if page.lang == "es" %}{{ p.role | replace: "Edited book", "Libro editado" }}{% else %}{{ p.role }}{% endif %} · {% endif -%}
