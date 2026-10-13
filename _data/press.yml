@@ -16,6 +16,10 @@ media:
 - outlet: The New York Times
   date: 19/06/2023
   title: Once Scorned, Far Right Secures Foothold in Spanish Cities
+- outlet: France 24
+  date: 29/05/2023
+  title: 'España: Pedro Sánchez llama a comicios anticipados tras debacle electoral del PSOE'
+  url: https://www.france24.com/es/europa/20230529-españa-pedro-sánchez-llama-a-comicios-anticipados-tras-debacle-electoral-del-psoe
 - outlet: La Vanguardia
   date: 27/01/2023
   title: La era de la irritación
