@@ -69,6 +69,34 @@ With Amuitz Garmendia, we study how crises and disasters shape citizens' trust, 
 </div>
 </section>
 
+## Invited talks (2022–2026)
+{: #invited-talks}
+
+<dl class="timeline">
+  <dt>2025</dt>
+  <dd><span class="tl-role">“Polarization and cooperation”</span><span class="tl-org">Department of Politics and International Relations, University of Oxford · 30 May 2025</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Crisis management and (de)centralization: Evidence from climate change mitigation agreements”</span><span class="tl-org">Department of Political Science (IPZ), University of Zurich · 18 November 2024</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Polarization and cooperation”</span><span class="tl-org">CSIC, Madrid · 13 March 2024</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Testing the boundaries of cognitive bias”</span><span class="tl-org">Workshop “Territoriality and dynamics of regional and local voting”, University of Bergen · 18 January 2024</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Seminar “A new governance for the 21st century”</span><span class="tl-org">Centro de Estudios Políticos y Constitucionales, Madrid · 28 March 2023</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">“Crisis, inefficiencies, and preferences for authority distribution: Comparative public opinion evidence from the COVID-19 pandemic”</span><span class="tl-org">European University Institute, Florence · 16 February 2023</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Brownbag Seminar</span><span class="tl-org">IE University · 2 December 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Research seminar</span><span class="tl-org">University of Bergen · 14 September 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Research seminar</span><span class="tl-org">University of Oslo · 13 September 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Workshop “Federalism, polarization and conflict”</span><span class="tl-org">University of York · 9–11 July 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Summer course “Los retos de la política en una España en cambio permanente”</span><span class="tl-org">UNED, Dénia · 8 July 2022</span></dd>
+</dl>
+
 ## Research grants (as principal investigator)
 {: #grants}
 

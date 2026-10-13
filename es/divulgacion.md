@@ -6,7 +6,7 @@ permalink: /es/divulgacion/
 description: "Divulgación y asesoramiento de Sandra León: comparecencias parlamentarias, cargos de asesoramiento, citas en el Financial Times, The Economist, The New York Times, The Guardian y El País, artículos de opinión, blogs, radio, televisión y pódcast."
 ---
 <nav class="toc" aria-label="En esta página" markdown="1">
-[Asesoramiento](#asesoramiento) · [Cargos](#cargos) · [Medios](#medios) · [Opinión](#opinion) · [Radio, televisión y pódcast](#radio-tv) · [Blogs](#blogs)
+[Asesoramiento](#asesoramiento) · [Cargos](#cargos) · [Medios](#medios) · [Opinión](#opinion) · [Radio, televisión y pódcast](#radio-tv) · [Charlas](#talks) · [Blogs](#blogs)
 </nav>
 
 ## Asesoramiento en políticas públicas
@@ -129,6 +129,32 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
 <dl class="timeline">
   <dt>2022</dt>
   <dd><span class="tl-role">Invitada, con Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 de septiembre</span></dd>
+</dl>
+
+## Charlas y conferencias (2022–2026)
+{: #talks}
+
+<dl class="timeline">
+  <dt>2025</dt>
+  <dd><span class="tl-role">“Diálogo sobre la reforma de la financiación autonómica”</span><span class="tl-org">Agrupación Europeísta Cuidar el Futuro, Ateneo de Madrid y Economistas frente a la Crisis. Ateneo de Madrid · 13 de enero de 2025</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Elecciones europeas: Agenda y retos de futuro para la UE”</span><span class="tl-org">CIDOB, curso de verano Sofia Corradi sobre la Unión Europea, Barcelona · 8 de julio de 2024</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Economic inequality and political inequality”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 de febrero de 2024</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">Presentación del policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 25 de enero de 2024</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">“La política en España: Dinámicas y perspectiva comparada”</span><span class="tl-org">Stanford University, Madrid Center · 25 de noviembre de 2023</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Conferencia “La ruptura del contrato social”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 31 de mayo de 2023</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Presentación del libro de Mariano Torcal <em>De votantes a hooligans</em></span><span class="tl-org">Librería Blanquerna, Madrid · 2 de marzo de 2023</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Conferencia “La millora de l’autogovern de Catalunya”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 16 de septiembre de 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Seminario “Nuevos y viejos desafíos del Estado autonómico tras la pandemia”</span><span class="tl-org">UIMP, Santander · 12 de julio de 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Presentación del <em>Informe sobre la Democracia en España: El país frente al espejo</em></span><span class="tl-org">Fundación Alternativas. Congreso de los Diputados, Sala Campoamor · 28 de junio de 2022</span></dd>
 </dl>
 
 ## Blogs

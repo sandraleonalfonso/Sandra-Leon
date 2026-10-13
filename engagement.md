@@ -5,7 +5,7 @@ permalink: /engagement/
 description: "Sandra León's public engagement: advisory roles, policy advice, media commentary in the Financial Times, The Economist, The New York Times and The Guardian, op-eds, blogs, radio and TV."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Radio, TV and podcasts](#radio-tv-and-podcasts) · [Blogs](#blogs)
+[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Radio, TV and podcasts](#radio-tv-and-podcasts) · [Talks](#talks) · [Blogs](#blogs)
 </nav>
 
 ## Policy advice
@@ -123,6 +123,32 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
 <dl class="timeline">
   <dt>2022</dt>
   <dd><span class="tl-role">Guest, with Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 September</span></dd>
+</dl>
+
+## Talks (2022–2026)
+{: #talks}
+
+<dl class="timeline">
+  <dt>2025</dt>
+  <dd><span class="tl-role">“Diálogo sobre la reforma de la financiación autonómica”</span><span class="tl-org">Agrupación Europeísta Cuidar el Futuro, Ateneo de Madrid and Economistas frente a la Crisis. Ateneo de Madrid · 13 January 2025</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Elecciones europeas: Agenda y retos de futuro para la UE”</span><span class="tl-org">CIDOB, Sofia Corradi Summer Course on the European Union, Barcelona · 8 July 2024</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">“Economic inequality and political inequality”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 February 2024</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">Presentation of the policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 25 January 2024</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">“La política en España: Dinámicas y perspectiva comparada”</span><span class="tl-org">Stanford University, Madrid Center · 25 November 2023</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Conference “La ruptura del contrato social”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 31 May 2023</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Presentation of Mariano Torcal’s book <em>De votantes a hooligans</em></span><span class="tl-org">Blanquerna bookshop, Madrid · 2 March 2023</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Conference “La millora de l’autogovern de Catalunya”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 16 September 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Seminar “Nuevos y viejos desafíos del Estado autonómico tras la pandemia”</span><span class="tl-org">UIMP, Santander · 12 July 2022</span></dd>
+  <dt>2022</dt>
+  <dd><span class="tl-role">Presentation of the <em>Informe sobre la Democracia en España: El país frente al espejo</em></span><span class="tl-org">Fundación Alternativas. Congreso de los Diputados, Sala Campoamor · 28 June 2022</span></dd>
 </dl>
 
 ## Blogs
