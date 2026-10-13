@@ -16,17 +16,42 @@ Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analí
   <dd><span class="tl-role">Universidad de York, Reino Unido (Senior Lecturer)</span><span class="tl-org">Grado</span><ul class="tags course-tags"><li>Political Enquiry</li><li>Citizens, Elections and Parties</li><li>Introduction to Democratic Politics</li></ul><span class="tl-org">Posgrado</span><ul class="tags course-tags"><li>Understanding Governance</li><li>Public Management and Delivery</li><li>Comparative Institutions and Public Policy</li><li>Quantitative Methods and Data Analysis</li></ul></dd>
   <dt>2011–2012</dt>
   <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Teoría y Práctica de las Democracias I</li><li>Teoría y Práctica de las Democracias II</li></ul></dd>
+  <dt>2009–2011</dt>
+  <dd><span class="tl-role">George Washington University, Madrid Center</span><ul class="tags course-tags"><li>Comparative Politics in Western Europe</li></ul></dd>
   <dt>2008–2009</dt>
   <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Sistemas Políticos Comparados</li></ul></dd>
 </dl>
 
-## Docencia como profesora invitada
+## Cursos de máster y doctorado como profesora invitada
 
 <dl class="timeline">
-  <dt>Bolivia</dt>
-  <dd><span class="tl-role">Universidad Mayor de San Andrés</span><span class="tl-org">Doctorado y máster</span></dd>
-  <dt>Alemania</dt>
-  <dd><span class="tl-role">Universidad de Colonia</span><span class="tl-org">Doctorado y máster</span></dd>
+  <dt>2018</dt>
+  <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz (Bolivia)</span><span class="tl-org">Máster en Ciencias Sociales</span><ul class="tags course-tags"><li>Decentralization and Federalism</li></ul></dd>
+  <dt>2017</dt>
+  <dd><span class="tl-role">Universidad de Colonia (Alemania)</span><span class="tl-org">Módulo de máster y doctorado</span><ul class="tags course-tags"><li>Auditing federalism: The virtues and perils of decentralized governance</li></ul></dd>
+  <dt>2012</dt>
+  <dd><span class="tl-role">FIIAPP, Madrid</span><span class="tl-org">Máster en Estudios Políticos Aplicados</span><ul class="tags course-tags"><li>Territorial distribution and multilevel government</li></ul></dd>
+  <dt>2012</dt>
+  <dd><span class="tl-role">Centro de Estudios Políticos y Constitucionales, Madrid</span><span class="tl-org">Máster en Derecho Constitucional</span><ul class="tags course-tags"><li>Federalismo fiscal</li></ul></dd>
+  <dt>2011</dt>
+  <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz (Bolivia)</span><span class="tl-org">Máster en Ciencias Sociales</span><ul class="tags course-tags"><li>Decentralization and Federalism</li></ul></dd>
+  <dt>2008</dt>
+  <dd><span class="tl-role">Escuela de verano de políticas públicas de la FIIAPP, Madrid</span><ul class="tags course-tags"><li>The challenges of intergovernmental relations</li></ul></dd>
+</dl>
+
+## Dirección de tesis doctorales
+
+<dl class="timeline">
+  <dt>En curso</dt>
+  <dd><span class="tl-role">Almen Jair Alva Mendoza</span><span class="tl-org">“Territorial preferences in times of crisis” (título provisional). Universidad Carlos III de Madrid, codirectora</span></dd>
+  <dt>En curso</dt>
+  <dd><span class="tl-role">Álvaro San Román</span><span class="tl-org">“Essays on the geography of public goods and public bads and their electoral consequences” (título provisional). Universidad Carlos III de Madrid, codirectora</span></dd>
+  <dt>En curso</dt>
+  <dd><span class="tl-role">Álvaro Fernández</span><span class="tl-org">“Worried but not committed: Explanatory factors of support for climate change policies” (título provisional). Universidad Carlos III de Madrid, codirectora</span></dd>
+  <dt>2023</dt>
+  <dd><span class="tl-role">Fawzia Slimani</span><span class="tl-org">“Social capital and political participation: The case of youth engagement in Britain.” Universidad de York, directora (con Jim Buller)</span></dd>
+  <dt>2020</dt>
+  <dd><span class="tl-role">Benjamin Whisker</span><span class="tl-org">“Explaining departures from New-Right ideology in Conservative Party policy-making under Thatcher’s leadership, 1975–1990.” Universidad de York, directora (con Jim Buller)</span></dd>
 </dl>
 
 ## Cargos de gestión académica

@@ -10,11 +10,20 @@ books:
   title: 'Aragón es nuestro Ohio: Así votan los españoles'
   role: Piedras de Papel, eds.
   venue: Malpaso
+- year: 2009
+  title: A cooperación intergubernamental no Estado autonómico
+  with: with M. Ferrín
+  venue: Escola Galega de Administración Pública, Santiago de Compostela
 - year: 2007
   title: The Political Economy of Fiscal Decentralization. Bringing Politics to the Study of Intergovernmental Transfers
   venue: Institut d'Estudis Autonòmics, Barcelona
   note: 'Review: Santiago Lago (2007), *Administración y Ciudadanía*, 2(1), 151–154 (in Spanish).'
 chapters:
+- year: 2026
+  title: El impacto de la Unión Europea en el Estado Autonómico
+  with: with J. Alva Mendoza
+  venue: In *España multinivel. 50 años de integración y descentralización*, eds. Javier Arregui, Manuel Hidalgo, Juan Antonio Mayoral and Mayte Salvador
+  note: Forthcoming
 - year: 2025
   title: 'Cataluña y la financiación singular: del acuerdo político al (todavía incierto) encaje institucional'
   venue: '*Informe sobre la Democracia en España 2024*. Fundación Alternativas'
@@ -41,6 +50,10 @@ chapters:
   title: Multi-level governance in Spain
   with: with I. Jurado
   venue: In *The Oxford Handbook of Spanish Politics*, eds. Diego Muro and Ignacio Lago. Oxford University Press
+- year: 2020
+  title: Combatir la pobreza infantil en España y en Europa
+  with: with A. González Ferrer and F. J. Moreno Fuentes
+  venue: Col·lecció Informes 12, 31–42. Fundació Rafael Campalans
 - year: 2019
   title: 'Descentralización y control electoral: la atribución de responsabilidades en el Estado autonómico'
   with: with I. Jurado
@@ -49,6 +62,10 @@ chapters:
   title: ¿Por qué culpamos a Europa?
   with: with Ll. Orriols
   venue: 'In *Opinión pública y cambio electoral en España: Claves ante el reto europeo y la crisis política y económica*, ed. Mariano Torcal, 93–106. CIS'
+- year: 2018
+  title: 'The organization of Spain: Ideology, territory and representation in the State of Autonomies'
+  with: with F. Mota and M. Salvador
+  venue: In *Political Power in Spain*, 245–264. Palgrave Macmillan
 - year: 2016
   title: ¿España vertebrada? Ideología, representación y territorio en el Estado Autonómico
   with: with F. Mota and M. Salvador
@@ -57,6 +74,12 @@ chapters:
   title: Federalism
   with: with P. Beramendi
   venue: In *Routledge Handbook of Comparative Political Institutions*, eds. Jennifer Gandhi and Rubén Ruiz-Rufino. Routledge
+- year: 2015
+  title: 'Introducción: Teoría y práctica de un debate inacabable'
+  venue: 'In *La financiación autonómica: Claves para comprender un (interminable) debate*, ed. Sandra León. Alianza Editorial'
+- year: 2015
+  title: La financiación autonómica en cinco preguntas
+  venue: 'In *La financiación autonómica: Claves para comprender un (interminable) debate*, ed. Sandra León. Alianza Editorial'
 - year: 2013
   title: Economic crisis and the State of Autonomies
   venue: In *Report on Fiscal Federalism 2012*. Barcelona Economic Institute
@@ -129,6 +152,31 @@ policy:
   title: ¿Nos cambia la crisis?
   with: with L. Orriols
   venue: Zoom Político 2011(1), Fundación Alternativas
+other:
+- year: 2009
+  title: A political theory of decentralization dynamics
+  with: with F. Amat and I. Jurado
+  venue: Working Paper 248, Juan March Institute (CEACS)
+- year: 2008
+  title: 'La inmigración hacia dentro: Argumentos sobre la necesidad de la coordinación de las políticas de inmigración en un Estado multinivel'
+  with: with A. Izquierdo Escribano
+  venue: '*Política y Sociedad*, 45(1), 11–39'
+- year: 2007
+  title: La atribución de responsabilidades sobre las políticas públicas en un sistema de gobierno multinivel
+  with: with M. Ferrín
+  venue: '*Administración & Cidadanía*, 2(1), 49–75'
+- year: 2007
+  title: A quen responsabilizan os cidadáns? A atribución de responsabilidades sobre as políticas públicas nun sistema de goberno multinivel
+  with: with M. Ferrín
+  venue: Working Paper 03, Escola Galega de Administración Pública
+- year: 2005
+  title: 'Health care devolution in Europe: Trends and prospects'
+  with: with A. Rico
+  venue: Working Paper 2005:1, Health Organization Research Norway
+- year: 2002
+  title: "Spotlight on ‘Living HiTs’. Spain: Two decades of reform"
+  with: with A. Rico
+  venue: '*EuroObserver*, 4(2)'
 wip:
 - title: Preferences for territorial reforms in Spain and Catalonia. Evidence of a conjoint analysis
   with: with I. Jurado

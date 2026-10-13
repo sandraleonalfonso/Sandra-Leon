@@ -6,7 +6,7 @@ permalink: /es/publicaciones/
 description: "Publicaciones de Sandra León: artículos en revistas, libros, capítulos de libro e informes sobre descentralización, federalismo, polarización y relaciones intergubernamentales."
 ---
 <nav class="toc" aria-label="En esta página" markdown="1">
-[Artículos](#articulos) · [Libros](#libros) · [Capítulos de libro](#capitulos) · [Informes y policy papers](#informes) · [Trabajos en curso](#en-curso)
+[Artículos](#articulos) · [Libros](#libros) · [Capítulos de libro](#capitulos) · [Informes y policy papers](#informes) · [Otros artículos](#otros) · [Trabajos en curso](#en-curso)
 </nav>
 
 ## Artículos en revistas (selección)
@@ -39,6 +39,11 @@ description: "Publicaciones de Sandra León: artículos en revistas, libros, cap
 {: #informes}
 
 {% include other-pubs.html items=site.data.other_publications.policy %}
+
+## Otros artículos y documentos de trabajo
+{: #otros}
+
+{% include other-pubs.html items=site.data.other_publications.other %}
 
 ## Trabajos en curso
 {: #en-curso}
