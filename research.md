@@ -24,9 +24,9 @@ I study the impact of artificial intelligence on multilevel governance and democ
 <div class="substrand" markdown="1">
 ### Territorial affective polarization
 
-With Amuitz Garmendia, we explore territorial affective polarization from a comparative perspective in six countries: Germany, Italy, Belgium, Spain, the United States and the United Kingdom.
+With Amuitz Garmendia-Madariaga, we explore territorial affective polarization from a comparative perspective in six countries: Germany, Italy, Belgium, Spain, the United States and the United Kingdom.
 
-*Territorial Affective Polarization: Concept, Prevalence, and Impact* (with A. Garmendia), in progress
+*Territorial Affective Polarization: Concept, Prevalence, and Impact* (with A. Garmendia-Madariaga), in progress
 {: .strand-paper}
 </div>
 
@@ -54,17 +54,17 @@ I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studi
 
 ## The political impact of crises
 
-With Amuitz Garmendia, we study how crises and disasters shape citizens' trust, their views on who should hold power, and territorial divides.
+With Amuitz Garmendia-Madariaga, we study how crises and disasters shape citizens' trust, their views on who should hold power, and territorial divides.
 
-<p class="strand-funding">Part of this research was funded by FEDCRISIS, <em>Federalism Under Challenge: Crisis, Polarization and Populism</em> (Spanish National Research Agency, PID2021-128287NB-I00), with Amuitz Garmendia (UC3M). It was also funded by the Fundación Ramón Areces through a Visiting Fellowship at the European Studies Centre, St Antony’s College, University of Oxford (academic year 2025–2026).</p>
+<p class="strand-funding">Part of this research was funded by FEDCRISIS, <em>Federalism Under Challenge: Crisis, Polarization and Populism</em> (Spanish National Research Agency, PID2021-128287NB-I00), with Amuitz Garmendia-Madariaga (UC3M). It was also funded by the Fundación Ramón Areces through a Visiting Fellowship at the European Studies Centre, St Antony’s College, University of Oxford (academic year 2025–2026).</p>
 
 <div class="strand-papers" markdown="1">
 <h3>Papers</h3>
 
-*Disaster in a Distrustful Democracy: Public Reactions to the DANA Crisis in Spain* (with A. Garmendia), in progress
+*Disaster in a Distrustful Democracy: Public Reactions to the DANA Crisis in Spain* (with A. Garmendia-Madariaga), in progress
 {: .strand-paper}
 
-*How Disaster Divides and Unites along Territorial Lines* (with A. Garmendia), in progress
+*How Disaster Divides and Unites along Territorial Lines* (with A. Garmendia-Madariaga), in progress
 {: .strand-paper}
 </div>
 </section>

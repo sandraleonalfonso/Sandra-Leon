@@ -25,6 +25,8 @@ description: "Divulgación y asesoramiento de Sandra León: comparecencias parla
   <dd><span class="tl-role">Asesora académica</span><span class="tl-org">LGiU (Local Government Information Unit)</span></dd>
   <dt>2015</dt>
   <dd><span class="tl-role">Asesora académica</span><span class="tl-org">Comisión de Devolución (Nuevas Competencias), Parlamento de Escocia (Holyrood), 27 de agosto</span></dd>
+  <dt>2015</dt>
+  <dd><span class="tl-role">Informe sobre las relaciones intergubernamentales en España, antes de la visita de la Comisión al Parlamento de Andalucía</span><span class="tl-org">Comisión de Devolución (Nuevas Competencias), Parlamento de Escocia, diciembre</span></dd>
   <dt>2003–2004</dt>
   <dd><span class="tl-role">Grupo de expertos</span><span class="tl-org">Observatorio del Sistema Nacional de Salud, Ministerio de Sanidad</span></dd>
   <dt>2001–2002</dt>
@@ -45,10 +47,10 @@ description: "Divulgación y asesoramiento de Sandra León: comparecencias parla
   <dd><span class="tl-role">Miembro del Consejo Asesor</span><span class="tl-org">EsadeEcPol</span></dd>
   <dt>2018–2019</dt>
   <dd><span class="tl-role">Directora General, Oficina del Alto Comisionado para la Lucha contra la Pobreza Infantil</span><span class="tl-org">Ministerio de la Presidencia, Gobierno de España (oct. 2018–jun. 2019)</span></dd>
-  <dt>2017</dt>
-  <dd><span class="tl-role">Miembro del Panel de Expertos Externos</span><span class="tl-org">Parlamento de Escocia (Holyrood)</span></dd>
-  <dt>2010–actualidad</dt>
-  <dd><span class="tl-role">Miembro del Comité Externo de Evaluación</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
+  <dt>2017–2018</dt>
+  <dd><span class="tl-role">Miembro del Panel de Expertos Externos</span><span class="tl-org">Parlamento de Escocia (Holyrood), junio de 2017–julio de 2018</span></dd>
+  <dt>2008–actualidad</dt>
+  <dd><span class="tl-role">Miembro del Consejo Asesor</span><span class="tl-org"><em>Informe sobre la Democracia en España</em>, Fundación Alternativas</span></dd>
 </dl>
 
 ## En los medios
@@ -136,21 +138,21 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
 
 <dl class="timeline">
   <dt>2026</dt>
-  <dd><span class="tl-role">Mesa redonda en la presentación de la revista <em>Alerta Democrática</em>, con socios del periódico</span><span class="tl-org">elDiario.es, Gran Vía, Madrid · 17 de septiembre de 2026</span></dd>
+  <dd><span class="tl-role">Mesa redonda en la presentación de la revista <em>Alerta Democrática</em>, con socios del periódico</span><span class="tl-org">Sede de elDiario.es, Gran Vía, Madrid · 17 de septiembre de 2026</span></dd>
   <dt>2025</dt>
   <dd><span class="tl-role">“Diálogo sobre la reforma de la financiación autonómica”</span><span class="tl-org">Agrupación Europeísta Cuidar el Futuro, Ateneo de Madrid y Economistas frente a la Crisis. Ateneo de Madrid · 13 de enero de 2025</span></dd>
   <dt>2024</dt>
   <dd><span class="tl-role">“Elecciones europeas: Agenda y retos de futuro para la UE”</span><span class="tl-org">CIDOB, curso de verano Sofia Corradi sobre la Unión Europea, Barcelona · 8 de julio de 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Economic inequality and political inequality”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 de febrero de 2024</span></dd>
+  <dd><span class="tl-role">“Desigualdad económica y desigualdad política”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 de febrero de 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">Presentación del policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 25 de enero de 2024</span></dd>
+  <dd><span class="tl-role">Presentación del policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Col·legi de Periodistes de Catalunya, Barcelona · 25 de enero de 2024</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">“La política en España: Dinámicas y perspectiva comparada”</span><span class="tl-org">Stanford University, Madrid Center · 25 de noviembre de 2023</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">Conferencia “La ruptura del contrato social”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 31 de mayo de 2023</span></dd>
   <dt>2023</dt>
-  <dd><span class="tl-role">Presentación del libro de Mariano Torcal <em>De votantes a hooligans</em></span><span class="tl-org">Librería Blanquerna, Madrid · 2 de marzo de 2023</span></dd>
+  <dd><span class="tl-role">Introducción a la presentación del libro de Mariano Torcal <em>De votantes a hooligans</em></span><span class="tl-org">Librería Blanquerna, Madrid · 2 de marzo de 2023</span></dd>
   <dt>2022</dt>
   <dd><span class="tl-role">Conferencia “La millora de l’autogovern de Catalunya”</span><span class="tl-org">Fundació Rafael Campalans, Barcelona · 16 de septiembre de 2022</span></dd>
   <dt>2022</dt>
