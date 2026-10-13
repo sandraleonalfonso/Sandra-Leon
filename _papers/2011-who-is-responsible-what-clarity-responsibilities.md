@@ -7,6 +7,7 @@ authors:
 - Sandra León
 journal: European Journal of Political Research
 volume: 50
+issue: 1
 first_page: 80
 last_page: 109
 doi: 10.1111/j.1475-6765.2010.01921.x

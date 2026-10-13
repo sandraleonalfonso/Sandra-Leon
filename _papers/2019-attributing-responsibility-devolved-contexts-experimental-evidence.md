@@ -7,6 +7,7 @@ authors:
 - Sandra León
 - Lluís Orriols
 journal: Electoral Studies
+volume: 59
 first_page: 39
 last_page: 48
 doi: 10.1016/j.electstud.2019.01.001
