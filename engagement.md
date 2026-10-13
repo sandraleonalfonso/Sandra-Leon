@@ -129,6 +129,8 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
 {: #talks}
 
 <dl class="timeline">
+  <dt>2026</dt>
+  <dd><span class="tl-role">Roundtable at the presentation of the magazine <em>Alerta Democrática</em>, with the newspaper’s members</span><span class="tl-org">elDiario.es, Gran Vía, Madrid · 17 September 2026</span></dd>
   <dt>2025</dt>
   <dd><span class="tl-role">“Diálogo sobre la reforma de la financiación autonómica”</span><span class="tl-org">Agrupación Europeísta Cuidar el Futuro, Ateneo de Madrid and Economistas frente a la Crisis. Ateneo de Madrid · 13 January 2025</span></dd>
   <dt>2024</dt>
