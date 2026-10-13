@@ -135,6 +135,8 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
 {: #talks}
 
 <dl class="timeline">
+  <dt>2026</dt>
+  <dd><span class="tl-role">Mesa redonda en la presentación de la revista <em>Alerta Democrática</em>, con socios del periódico</span><span class="tl-org">elDiario.es, Gran Vía, Madrid · 17 de septiembre de 2026</span></dd>
   <dt>2025</dt>
   <dd><span class="tl-role">“Diálogo sobre la reforma de la financiación autonómica”</span><span class="tl-org">Agrupación Europeísta Cuidar el Futuro, Ateneo de Madrid y Economistas frente a la Crisis. Ateneo de Madrid · 13 de enero de 2025</span></dd>
   <dt>2024</dt>
