@@ -69,3 +69,19 @@ Con Amuitz Garmendia, estudiamos cómo las crisis y los desastres influyen en la
 {: .strand-paper}
 </div>
 </section>
+
+## Proyectos de investigación (como investigadora principal)
+{: #grants}
+
+<dl class="timeline">
+  <dt>2026–2029</dt>
+  <dd><span class="tl-role">AI-GOV: Inteligencia artificial, rendición de cuentas y gobernanza multinivel</span><span class="tl-org">Agencia Estatal de Investigación (PID2025-174631NB-I00)</span></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">REACCT: Research and Analysis on Climate Change Public Opinion Trends</span><span class="tl-org">European Climate Foundation · Co-IP con Lluís Orriols</span></dd>
+  <dt>2022–2025</dt>
+  <dd><span class="tl-role">FEDCRISIS: El federalismo ante sus desafíos: crisis, polarización y populismo</span><span class="tl-org">Agencia Estatal de Investigación (PID2021-128287NB-I00) · Co-IP con Amuitz Garmendia</span></dd>
+  <dt>2022–2023</dt>
+  <dd><span class="tl-role">REACCT: Research and Analysis on Climate Change Public Opinion Trends</span><span class="tl-org">European Climate Foundation · Co-IP con Lluís Orriols</span></dd>
+  <dt>2019–2023</dt>
+  <dd><span class="tl-role">El federalismo en tiempos de polarización</span><span class="tl-org">Contrato de Atracción de Talento Investigador (modalidad 1), Comunidad de Madrid (2018-T1/SOC-10661), Universidad Carlos III de Madrid</span></dd>
+</dl>
