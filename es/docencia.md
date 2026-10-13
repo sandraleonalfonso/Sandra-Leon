@@ -25,6 +25,8 @@ Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analí
 ## Cursos de máster y doctorado como profesora invitada
 
 <dl class="timeline">
+  <dt>2027</dt>
+  <dd><span class="tl-role">Universidad de Waseda, Tokio (Japón)</span><span class="tl-org">Junio de 2027 · Próximamente</span><ul class="tags course-tags"><li>Auditing federalism: The promises and perils of decentralized governance</li></ul></dd>
   <dt>2018</dt>
   <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz (Bolivia)</span><span class="tl-org">Programa de doctorado</span><ul class="tags course-tags"><li>Las virtudes y los peligros de la gobernanza descentralizada</li></ul></dd>
   <dt>2017</dt>

@@ -24,6 +24,8 @@ My aim is to give students the knowledge and analytical tools to critically exam
 ## Invited MA and PhD courses
 
 <dl class="timeline">
+  <dt>2027</dt>
+  <dd><span class="tl-role">Waseda University, Tokyo, Japan</span><span class="tl-org">June 2027 · Forthcoming</span><ul class="tags course-tags"><li>Auditing federalism: The promises and perils of decentralized governance</li></ul></dd>
   <dt>2018</dt>
   <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz, Bolivia</span><span class="tl-org">PhD programme</span><ul class="tags course-tags"><li>Las virtudes y los peligros de la gobernanza descentralizada</li></ul></dd>
   <dt>2017</dt>
