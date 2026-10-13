@@ -30,6 +30,10 @@ description: "Publicaciones de Sandra León: artículos en revistas, libros, cap
 
 {% include other-pubs.html items=site.data.other_publications.books %}
 
+<h3 class="pub-subhead">Libros editados</h3>
+
+{% include other-pubs.html items=site.data.other_publications.edited_books %}
+
 ## Capítulos de libro
 {: #capitulos}
 

@@ -28,6 +28,10 @@ description: "Publications by Sandra León: journal articles, books, book chapte
 
 {% include other-pubs.html items=site.data.other_publications.books %}
 
+<h3 class="pub-subhead">Edited books</h3>
+
+{% include other-pubs.html items=site.data.other_publications.edited_books %}
+
 ## Book chapters
 
 {% include other-pubs.html items=site.data.other_publications.chapters %}

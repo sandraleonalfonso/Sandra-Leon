@@ -1,15 +1,6 @@
 # Books, chapters, policy papers and work in progress (journal articles live in _papers/).
 # `venue` accepts Markdown, e.g. *Book title* in italics.
 books:
-- year: 2015
-  title: 'La financiación autonómica: Claves para comprender un (interminable) debate'
-  role: Edited book
-  venue: Alianza Editorial, Madrid
-- year: 2015
-  title: 'Aragón es nuestro Ohio: Así votan los españoles'
-  role: Edited book
-  with: José Fernández-Albertos, Amparo González-Ferrer, Ignacio Jurado, Víctor Lapuente, Sebastián Lavezzolo, Sandra León, Ferran Martínez i Coma, Lluís Orriols, Alberto Penadés, Marta Romero and Ignacio Urquizu (Piedras de Papel)
-  venue: El Hombre del Tres, Madrid. ISBN 978-84-941749-2-6
 - year: 2009
   title: A cooperación intergubernamental no Estado autonómico
   with: with Mónica Ferrín
@@ -21,6 +12,15 @@ books:
   venue: Col·lecció Con(Textos)A 6. Institut d'Estudis Autonòmics, Barcelona. ISBN 978-84-393-7467-1
   note: 'Catalan edition: *L’economia política de la descentralització fiscal: Introducció de la política en l’estudi de les transferències intergovernamentals*. Institut d’Estudis Autonòmics, Barcelona, 2008. ISBN 978-84-393-7915-7'
   note_es: 'Edición en catalán: *L’economia política de la descentralització fiscal: Introducció de la política en l’estudi de les transferències intergovernamentals*. Institut d’Estudis Autonòmics, Barcelona, 2008. ISBN 978-84-393-7915-7'
+edited_books:
+- year: 2015
+  title: 'La financiación autonómica: Claves para comprender un (interminable) debate'
+  role: ed.
+  venue: Alianza Editorial, Madrid
+- year: 2015
+  title: 'Aragón es nuestro Ohio: Así votan los españoles'
+  with: José Fernández-Albertos, Amparo González-Ferrer, Ignacio Jurado, Víctor Lapuente, Sebastián Lavezzolo, Sandra León, Ferran Martínez i Coma, Lluís Orriols, Alberto Penadés, Marta Romero and Ignacio Urquizu (Piedras de Papel)
+  venue: El Hombre del Tres, Madrid. ISBN 978-84-941749-2-6
 chapters:
 - year: 2026
   title: El impacto de la Unión Europea en el Estado Autonómico
