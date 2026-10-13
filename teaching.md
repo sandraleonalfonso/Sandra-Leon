@@ -37,35 +37,3 @@ My aim is to give students the knowledge and analytical tools to critically exam
   <dt>2008</dt>
   <dd><span class="tl-role">FIIAPP Summer School on Public Policy, Madrid</span><ul class="tags course-tags"><li>The challenges of intergovernmental relations</li></ul></dd>
 </dl>
-
-## PhD supervision
-
-<dl class="timeline">
-  <dt>Ongoing</dt>
-  <dd><span class="tl-role">Almen Jair Alva Mendoza</span><span class="tl-org">“Territorial preferences in times of crisis” (provisional title). Universidad Carlos III de Madrid, co-supervisor</span></dd>
-  <dt>Ongoing</dt>
-  <dd><span class="tl-role">Álvaro San Román</span><span class="tl-org">“Essays on the geography of public goods and public bads and their electoral consequences” (provisional title). Universidad Carlos III de Madrid, co-supervisor</span></dd>
-  <dt>Ongoing</dt>
-  <dd><span class="tl-role">Álvaro Fernández</span><span class="tl-org">“Worried but not committed: Explanatory factors of support for climate change policies” (provisional title). Universidad Carlos III de Madrid, co-supervisor</span></dd>
-  <dt>2023</dt>
-  <dd><span class="tl-role">Fawzia Slimani</span><span class="tl-org">“Social capital and political participation: The case of youth engagement in Britain.” University of York, main supervisor (with Jim Buller)</span></dd>
-  <dt>2020</dt>
-  <dd><span class="tl-role">Benjamin Whisker</span><span class="tl-org">“Explaining departures from New-Right ideology in Conservative Party policy-making under Thatcher’s leadership, 1975–1990.” University of York, main supervisor (with Jim Buller)</span></dd>
-</dl>
-
-## Administrative roles
-
-<dl class="timeline">
-  <dt>2021–2024</dt>
-  <dd><span class="tl-role">Director, Carlos III-Juan March Institute</span><span class="tl-org">Universidad Carlos III de Madrid, September 2021–October 2024</span></dd>
-  <dt>2021–2024</dt>
-  <dd><span class="tl-role">Director, MA in Social Sciences</span><span class="tl-org">Carlos III-Juan March Institute, September 2021–October 2024</span></dd>
-  <dt>2021–2024</dt>
-  <dd><span class="tl-role">Deputy Director of Research</span><span class="tl-org">Department of Social Sciences, Universidad Carlos III de Madrid, September 2021–October 2024</span></dd>
-  <dt>2016–2018</dt>
-  <dd><span class="tl-role">Director of the Postgraduate Office</span><span class="tl-org">Department of Politics, University of York</span></dd>
-  <dt>2015–2016</dt>
-  <dd><span class="tl-role">Chair of the Board of Examiners</span><span class="tl-org">Department of Politics, University of York</span></dd>
-  <dt>2013–2014</dt>
-  <dd><span class="tl-role">Dean of Students</span><span class="tl-org">Department of Politics, University of York</span></dd>
-</dl>
