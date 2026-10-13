@@ -81,6 +81,7 @@ ol.pub-list .pub-year { position: static; }
 .pub-title { display: block; font-weight: 600; }
 span.pub-title { color: var(--text); }
 .pub-meta { display: block; color: var(--muted); font-size: 0.95rem; }
+.pub-subhead { font-size: 1.05rem; font-variant: small-caps; letter-spacing: 0.05em; color: var(--muted); font-style: normal; margin: 2rem 0 0; }
 .by-year h3 { font-size: 1.15rem; margin: 1.6rem 0 0.5rem; border-bottom: 1px solid var(--line); padding-bottom: 0.2rem; }
 .toc { font-size: 0.95rem; color: var(--muted); background: var(--soft); padding: 0.6rem 0.9rem; }
 .toc p { margin: 0; }
