@@ -97,19 +97,3 @@ Con Amuitz Garmendia, estudiamos cómo las crisis y los desastres influyen en la
   <dt>2022</dt>
   <dd><span class="tl-role">Curso de verano “Los retos de la política en una España en cambio permanente”</span><span class="tl-org">UNED, Dénia · 8 de julio de 2022</span></dd>
 </dl>
-
-## Proyectos de investigación como investigadora principal (últimos 5 años)
-{: #grants}
-
-<dl class="timeline">
-  <dt>2026–2029</dt>
-  <dd><span class="tl-role">AI-GOV: Inteligencia artificial, rendición de cuentas y gobernanza multinivel</span><span class="tl-org">Agencia Estatal de Investigación (PID2025-174631NB-I00) · 237.000 €</span></dd>
-  <dt>2024</dt>
-  <dd><span class="tl-role">REACCT: Research and Analysis on Climate Change Public Opinion Trends</span><span class="tl-org">European Climate Foundation · Co-IP con Lluís Orriols · 70.000 €</span></dd>
-  <dt>2022–2025</dt>
-  <dd><span class="tl-role">FEDCRISIS: El federalismo ante sus desafíos: crisis, polarización y populismo</span><span class="tl-org">Agencia Estatal de Investigación (PID2021-128287NB-I00) · Co-IP con Amuitz Garmendia · 102.850 €</span></dd>
-  <dt>2022–2023</dt>
-  <dd><span class="tl-role">REACCT: Research and Analysis on Climate Change Public Opinion Trends</span><span class="tl-org">European Climate Foundation · Co-IP con Lluís Orriols · 99.934 €</span></dd>
-  <dt>2019–2023</dt>
-  <dd><span class="tl-role">El federalismo en tiempos de polarización</span><span class="tl-org">Contrato de Atracción de Talento Investigador (modalidad 1), Comunidad de Madrid (2018-T1/SOC-10661), Universidad Carlos III de Madrid · 198.825 €</span></dd>
-</dl>
