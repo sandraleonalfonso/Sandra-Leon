@@ -96,19 +96,3 @@ With Amuitz Garmendia, we study how crises and disasters shape citizens' trust, 
   <dt>2022</dt>
   <dd><span class="tl-role">Summer course “Los retos de la política en una España en cambio permanente”</span><span class="tl-org">UNED, Dénia · 8 July 2022</span></dd>
 </dl>
-
-## Research grants as principal investigator (last 5 years)
-{: #grants}
-
-<dl class="timeline">
-  <dt>2026–2029</dt>
-  <dd><span class="tl-role">AI-GOV: Artificial intelligence, accountability and multilevel governance</span><span class="tl-org">Spanish National Research Agency (PID2025-174631NB-I00) · €237,000</span></dd>
-  <dt>2024</dt>
-  <dd><span class="tl-role">REACCT: Research and Analysis on Climate Change Public Opinion Trends</span><span class="tl-org">European Climate Foundation · Co-PI with Lluís Orriols · €70,000</span></dd>
-  <dt>2022–2025</dt>
-  <dd><span class="tl-role">FEDCRISIS: Federalism under challenge: Crisis, polarization and populism</span><span class="tl-org">Spanish National Research Agency (PID2021-128287NB-I00) · Co-PI with Amuitz Garmendia · €102,850</span></dd>
-  <dt>2022–2023</dt>
-  <dd><span class="tl-role">REACCT: Research and Analysis on Climate Change Public Opinion Trends</span><span class="tl-org">European Climate Foundation · Co-PI with Lluís Orriols · €99,934</span></dd>
-  <dt>2019–2023</dt>
-  <dd><span class="tl-role">Federalism in polarized times</span><span class="tl-org">Talento Senior Research Contract, Comunidad de Madrid (2018-T1/SOC-10661), Universidad Carlos III de Madrid · €198,825</span></dd>
-</dl>
