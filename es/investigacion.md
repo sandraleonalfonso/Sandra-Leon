@@ -89,8 +89,6 @@ Con Amuitz Garmendia-Madariaga, estudiamos cómo las crisis y los desastres infl
   <dt>2024</dt>
   <dd><span class="tl-role">“Global challenges, IOs’ governance, and public attitudes towards (dis)integration: Evidence from climate change mitigation agreements” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Departamento de Ciencia Política (IPZ), Universidad de Zúrich · 18 de noviembre de 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">Comentarista</span><span class="tl-org">Taller de investigación avanzada UC3M–Universitat de Barcelona (segunda edición), Máster en Instituciones y Economía Política, Universitat de Barcelona · 28–29 de julio de 2024</span></dd>
-  <dt>2024</dt>
   <dd><span class="tl-role">“Polarization and cooperation” (con Ignacio Jurado y Albert Falcó)</span><span class="tl-org">CSIC, Madrid · 13 de marzo de 2024</span></dd>
   <dt>2024</dt>
   <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Taller “Territoriality and dynamics of regional and local voting”, Universidad de Bergen · 18 de enero de 2024</span></dd>
