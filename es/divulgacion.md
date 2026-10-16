@@ -74,7 +74,7 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
 
 <dl class="timeline">
   <dt>2026</dt>
-  <dd><span class="tl-role">Análisis de los titulares del día: <a href="https://prisa-es.mc.tritondigital.com/HOY_POR_HOY_SEC_EL_PRIMER_ANALISIS_VISIBLE_SER_PODCAST_4423_P/media/playser/audio/202610/14/5155893.mp3">“El antisanchismo, eje central del PP, no es suficiente para una campaña electoral”</a></span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, “El primer análisis”, 14 de octubre</span></dd>
+  <dd><span class="tl-role">Análisis de los titulares del día (<a href="https://prisa-es.mc.tritondigital.com/HOY_POR_HOY_SEC_EL_PRIMER_ANALISIS_VISIBLE_SER_PODCAST_4423_P/media/playser/audio/202610/14/5155893.mp3">escuchar</a>)</span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, “El primer análisis”, 14 de octubre</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">Entrevista sobre los votantes indecisos</span><span class="tl-org">Cadena SER, <em>El Faro</em>, 23 de enero</span></dd>
   <dt>2022</dt>
