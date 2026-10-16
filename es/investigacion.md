@@ -70,38 +70,38 @@ Con Amuitz Garmendia-Madariaga, estudiamos cómo las crisis y los desastres infl
 </div>
 </section>
 
-## Seminarios académicos invitados (2022–2026)
+## Charlas académicas invitadas (2022–2026)
 {: #invited-talks}
 
 <dl class="timeline">
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Seminario de Investigación García-Pelayo, Centro de Estudios Políticos y Constitucionales, Madrid · 16 de abril de 2026</span></dd>
+  <dd><span class="tl-role">Centro de Estudios Políticos y Constitucionales, Madrid</span><span class="tl-org">Seminario de Investigación García-Pelayo · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga) · 16 de abril de 2026</span></dd>
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Department of Politics and International Relations, Universidad de Sheffield · 25 de marzo de 2026</span></dd>
+  <dd><span class="tl-role">Universidad de Sheffield</span><span class="tl-org">Department of Politics and International Relations · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga) · 25 de marzo de 2026</span></dd>
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Seminario del departamento, School of Public Policy, London School of Economics · 9 de febrero de 2026</span></dd>
+  <dd><span class="tl-role">London School of Economics</span><span class="tl-org">Seminario del departamento, School of Public Policy · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga) · 9 de febrero de 2026</span></dd>
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Seminario del departamento, Department of Political Economy, King’s College London · 28 de enero de 2026</span></dd>
+  <dd><span class="tl-role">King’s College London</span><span class="tl-org">Seminario del departamento, Department of Political Economy · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (con Amuitz Garmendia-Madariaga) · 28 de enero de 2026</span></dd>
   <dt>2025</dt>
-  <dd><span class="tl-role">“From two-party rule to polarization: Ten years of Spanish politics”</span><span class="tl-org">European Studies Centre, St Antony’s College, Universidad de Oxford · 11 de noviembre de 2025</span></dd>
+  <dd><span class="tl-role">Universidad de Oxford</span><span class="tl-org">European Studies Centre, St Antony’s College · “From two-party rule to polarization: Ten years of Spanish politics” · 11 de noviembre de 2025</span></dd>
   <dt>2025</dt>
-  <dd><span class="tl-role">“Polarization and cooperation” (con Ignacio Jurado y Albert Falcó)</span><span class="tl-org">Department of Politics and International Relations, Universidad de Oxford · 30 de mayo de 2025</span></dd>
+  <dd><span class="tl-role">Universidad de Oxford</span><span class="tl-org">Department of Politics and International Relations · “Polarization and cooperation” (con Ignacio Jurado y Albert Falcó) · 30 de mayo de 2025</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Global challenges, IOs’ governance, and public attitudes towards (dis)integration: Evidence from climate change mitigation agreements” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Departamento de Ciencia Política (IPZ), Universidad de Zúrich · 18 de noviembre de 2024</span></dd>
+  <dd><span class="tl-role">Universidad de Zúrich</span><span class="tl-org">Departamento de Ciencia Política (IPZ) · “Global challenges, IOs’ governance, and public attitudes towards (dis)integration: Evidence from climate change mitigation agreements” (con Amuitz Garmendia-Madariaga) · 18 de noviembre de 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Polarization and cooperation” (con Ignacio Jurado y Albert Falcó)</span><span class="tl-org">CSIC, Madrid · 13 de marzo de 2024</span></dd>
+  <dd><span class="tl-role">CSIC, Madrid</span><span class="tl-org">“Polarization and cooperation” (con Ignacio Jurado y Albert Falcó) · 13 de marzo de 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Taller “Territoriality and dynamics of regional and local voting”, Universidad de Bergen · 18 de enero de 2024</span></dd>
+  <dd><span class="tl-role">Universidad de Bergen</span><span class="tl-org">Taller “Territoriality and dynamics of regional and local voting” · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga) · 18 de enero de 2024</span></dd>
   <dt>2023</dt>
-  <dd><span class="tl-role">“La articulación de la gobernanza autonómica: Financiación y relaciones intergubernamentales”</span><span class="tl-org">Seminario “Una nueva gobernanza para el siglo XXI”, sesión “Gobernanza multinivel”, Centro de Estudios Políticos y Constitucionales, Madrid · 28–29 de marzo de 2023</span></dd>
+  <dd><span class="tl-role">Centro de Estudios Políticos y Constitucionales, Madrid</span><span class="tl-org">Seminario “Una nueva gobernanza para el siglo XXI”, sesión “Gobernanza multinivel” · “La articulación de la gobernanza autonómica: Financiación y relaciones intergubernamentales” · 28–29 de marzo de 2023</span></dd>
   <dt>2023</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Instituto Universitario Europeo, Florencia · 16 de febrero de 2023</span></dd>
+  <dd><span class="tl-role">Instituto Universitario Europeo, Florencia</span><span class="tl-org">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga) · 16 de febrero de 2023</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Brownbag Seminar, IE University · 2 de diciembre de 2022</span></dd>
+  <dd><span class="tl-role">IE University</span><span class="tl-org">Brownbag Seminar · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga) · 2 de diciembre de 2022</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Seminario de investigación, Universidad de Bergen · 14 de septiembre de 2022</span></dd>
+  <dd><span class="tl-role">Universidad de Bergen</span><span class="tl-org">Seminario de investigación · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga) · 14 de septiembre de 2022</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga)</span><span class="tl-org">Seminario de investigación, Universidad de Oslo · 13 de septiembre de 2022</span></dd>
+  <dd><span class="tl-role">Universidad de Oslo</span><span class="tl-org">Seminario de investigación · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (con Amuitz Garmendia-Madariaga) · 13 de septiembre de 2022</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Desafíos políticos al modelo territorial tras la pandemia”</span><span class="tl-org">Curso de verano “Los retos de la política en una España en cambio permanente”, UNED, Dénia · 8 de julio de 2022</span></dd>
+  <dd><span class="tl-role">UNED, Dénia</span><span class="tl-org">Curso de verano “Los retos de la política en una España en cambio permanente” · “Desafíos políticos al modelo territorial tras la pandemia” · 8 de julio de 2022</span></dd>
 </dl>

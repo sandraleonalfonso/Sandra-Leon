@@ -5,7 +5,7 @@ permalink: /engagement/
 description: "Sandra León's public engagement: advisory roles, policy advice, media commentary in the Financial Times, The Economist, The New York Times and The Guardian, op-eds, blogs, radio and TV."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Radio, TV and podcasts](#radio-tv-and-podcasts) · [Talks](#talks) · [Blogs](#blogs)
+[Policy advice](#policy-advice) · [Appointments](#external-appointments) · [Media](#media-commentary) · [Op-eds](#op-eds) · [Radio, TV and podcasts](#radio-tv-and-podcasts) · [Talks to wider audiences](#talks) · [Blogs](#blogs)
 </nav>
 
 ## Policy advice
@@ -67,6 +67,8 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
 ### Radio
 
 <dl class="timeline">
+  <dt>2026</dt>
+  <dd><span class="tl-role">Analysis of the day’s headlines: <a href="https://prisa-es.mc.tritondigital.com/HOY_POR_HOY_SEC_EL_PRIMER_ANALISIS_VISIBLE_SER_PODCAST_4423_P/media/playser/audio/202610/14/5155893.mp3">“El antisanchismo, eje central del PP, no es suficiente para una campaña electoral”</a></span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, “El primer análisis”, 14 October</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">Interview on undecided voters</span><span class="tl-org">Cadena SER, <em>El Faro</em>, 23 January</span></dd>
   <dt>2022</dt>
@@ -127,7 +129,7 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
   <dd><span class="tl-role">Guest, with Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 September</span></dd>
 </dl>
 
-## Talks (2022–2026)
+## Talks to wider audiences (2022–2026)
 {: #talks}
 
 <dl class="timeline">

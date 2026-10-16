@@ -6,7 +6,7 @@ permalink: /es/divulgacion/
 description: "Divulgación y asesoramiento de Sandra León: comparecencias parlamentarias, cargos de asesoramiento, citas en el Financial Times, The Economist, The New York Times, The Guardian y El País, artículos de opinión, blogs, radio, televisión y pódcast."
 ---
 <nav class="toc" aria-label="En esta página" markdown="1">
-[Asesoramiento](#asesoramiento) · [Cargos](#cargos) · [Medios](#medios) · [Opinión](#opinion) · [Radio, televisión y pódcast](#radio-tv) · [Charlas](#talks) · [Blogs](#blogs)
+[Asesoramiento](#asesoramiento) · [Cargos](#cargos) · [Medios](#medios) · [Opinión](#opinion) · [Radio, televisión y pódcast](#radio-tv) · [Charlas divulgativas](#talks) · [Blogs](#blogs)
 </nav>
 
 ## Asesoramiento en políticas públicas
@@ -73,6 +73,8 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
 ### Radio
 
 <dl class="timeline">
+  <dt>2026</dt>
+  <dd><span class="tl-role">Análisis de los titulares del día: <a href="https://prisa-es.mc.tritondigital.com/HOY_POR_HOY_SEC_EL_PRIMER_ANALISIS_VISIBLE_SER_PODCAST_4423_P/media/playser/audio/202610/14/5155893.mp3">“El antisanchismo, eje central del PP, no es suficiente para una campaña electoral”</a></span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, “El primer análisis”, 14 de octubre</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">Entrevista sobre los votantes indecisos</span><span class="tl-org">Cadena SER, <em>El Faro</em>, 23 de enero</span></dd>
   <dt>2022</dt>
@@ -133,7 +135,7 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
   <dd><span class="tl-role">Invitada, con Marta García Aller: <a href="https://open.spotify.com/episode/2KrrdV32rD5KIEH2ZD6XZh">¿Y si no estamos tan polarizados como creemos?</a></span><span class="tl-org">El Confidencial, <em>Pausa</em>, 7 de septiembre</span></dd>
 </dl>
 
-## Charlas y conferencias (2022–2026)
+## Charlas divulgativas (2022–2026)
 {: #talks}
 
 <dl class="timeline">
