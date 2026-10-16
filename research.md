@@ -24,7 +24,7 @@ I study the impact of artificial intelligence on multilevel governance and democ
 <section class="strand" markdown="1">
 <p class="strand-num">Research line 2</p>
 
-## Affective polarization, motivated reasoning and democracy
+## Polarization, partisan attitudes and democracy
 {: #polarization}
 
 <div class="substrand" markdown="1">
