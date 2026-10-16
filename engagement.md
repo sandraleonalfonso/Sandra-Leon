@@ -140,8 +140,6 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
   <dt>2024</dt>
   <dd><span class="tl-role">“Elecciones europeas: Agenda y retos de futuro para la UE”</span><span class="tl-org">CIDOB, Sofia Corradi Summer Course on the European Union, Barcelona · 8 July 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Desigualdad económica y desigualdad política”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 February 2024</span></dd>
-  <dt>2024</dt>
   <dd><span class="tl-role">Presentation of the book <em>Un país posible: Manual de reformas políticamente viables</em>, with Toni Roldán, Lucas Gortazar and Pedro Linares, moderated by Pilar Kaltzada (Save the Children)</span><span class="tl-org">Co-organised with Silván &amp; Miracle. Biblioteca de Bidebarrieta, Bilbao · 6 February 2024</span></dd>
   <dt>2024</dt>
   <dd><span class="tl-role">Presentation of the policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Col·legi de Periodistes de Catalunya, Barcelona · 25 January 2024</span></dd>
