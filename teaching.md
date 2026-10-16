@@ -5,7 +5,7 @@ permalink: /teaching/
 description: "Teaching by Sandra León at Universidad Autónoma de Madrid, Universidad Carlos III de Madrid and the University of York: elections, political behavior, research methods and federalism."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[University teaching](#university-teaching) · [Invited courses](#invited-courses)
+[University teaching](#university-teaching) · [Invited teaching](#invited-courses)
 </nav>
 
 My aim is to give students the knowledge and analytical tools to critically examine political events, and to show that social science research is a continuous process that embraces complexity and uncertainty.
@@ -25,7 +25,7 @@ My aim is to give students the knowledge and analytical tools to critically exam
   <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Sistemas Políticos Comparados</li></ul></dd>
 </dl>
 
-## Invited courses
+## Invited teaching
 {: #invited-courses}
 
 <dl class="timeline">
