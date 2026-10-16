@@ -19,7 +19,7 @@ I study the impact of artificial intelligence on multilevel governance and democ
 <section class="strand" markdown="1">
 <p class="strand-num">Research line 2</p>
 
-## Affective polarization and democracy
+## Affective polarization, multilevel governance and democracy
 
 <div class="substrand" markdown="1">
 ### Territorial affective polarization
@@ -27,6 +27,15 @@ I study the impact of artificial intelligence on multilevel governance and democ
 With Amuitz Garmendia-Madariaga, we explore territorial affective polarization from a comparative perspective in six countries: Germany, Italy, Belgium, Spain, the United States and the United Kingdom.
 
 *Territorial Affective Polarization: Concept, Prevalence, and Impact* (with A. Garmendia-Madariaga), in progress
+{: .strand-paper}
+</div>
+
+<div class="substrand" markdown="1">
+### Shared power and distorted blame
+
+With Lluís Orriols, we study how partisan and territorial biases distort the way citizens attribute responsibility when power is shared across levels of government.
+
+*Shared Power, Distorted Blame: Partisan and Territorial Bias in Responsibility Attribution* (with Ll. Orriols), in progress
 {: .strand-paper}
 </div>
 

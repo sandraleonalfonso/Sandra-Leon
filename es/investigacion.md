@@ -20,7 +20,7 @@ Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y l
 <section class="strand" markdown="1">
 <p class="strand-num">Línea de investigación 2</p>
 
-## Polarización afectiva y democracia
+## Polarización afectiva, gobernanza multinivel y democracia
 
 <div class="substrand" markdown="1">
 ### Polarización afectiva territorial
@@ -28,6 +28,15 @@ Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y l
 Con Amuitz Garmendia-Madariaga, estudiamos la polarización afectiva territorial desde una perspectiva comparada en seis países: Alemania, Italia, Bélgica, España, Estados Unidos y Reino Unido.
 
 *Territorial Affective Polarization: Concept, Prevalence, and Impact* (con A. Garmendia-Madariaga), en curso
+{: .strand-paper}
+</div>
+
+<div class="substrand" markdown="1">
+### Poder compartido y atribución de culpas
+
+Con Lluís Orriols, estudiamos cómo los sesgos partidistas y territoriales distorsionan la forma en que la ciudadanía atribuye responsabilidades cuando el poder se reparte entre distintos niveles de gobierno.
+
+*Shared Power, Distorted Blame: Partisan and Territorial Bias in Responsibility Attribution* (con Ll. Orriols), en curso
 {: .strand-paper}
 </div>
 
