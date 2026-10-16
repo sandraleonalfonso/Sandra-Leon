@@ -38,20 +38,20 @@ Con Amuitz Garmendia-Madariaga, estudiamos la polarización afectiva territorial
 </div>
 
 <div class="substrand" markdown="1">
-### Poder compartido y atribución de culpas
-
-Con Lluís Orriols, estudiamos cómo los sesgos partidistas y territoriales distorsionan la forma en que la ciudadanía atribuye responsabilidades cuando el poder se reparte entre distintos niveles de gobierno.
-
-*Shared Power, Distorted Blame: Partisan and Territorial Bias in Responsibility Attribution* (con Ll. Orriols), en curso
-{: .strand-paper}
-</div>
-
-<div class="substrand" markdown="1">
 ### Polarización y cooperación
 
 Con Ignacio Jurado y Albert Falcó, realizamos experimentos de comportamiento a gran escala en España, Brasil y Estados Unidos para comprobar si la polarización afectiva debilita la cooperación cotidiana. Las personas ayudan menos, y con menor calidad, cuando quien recibe la ayuda apoya al partido que más les desagrada. La animadversión hacia el otro grupo pesa más que la afinidad con el propio, las recompensas personales aumentan la cooperación más que los incentivos de bien público, y las tareas de contenido político la reducen. La polarización se extiende incluso a formas mínimas e impersonales de cooperación.
 
 *Partisan animosity and cooperation: A Behavioral Experiment* (con I. Jurado y A. Falcó), en curso
+{: .strand-paper}
+</div>
+
+<div class="substrand" markdown="1">
+### Poder compartido y atribución de culpas
+
+Con Lluís Orriols, estudiamos cómo los sesgos partidistas y territoriales distorsionan la forma en que la ciudadanía atribuye responsabilidades cuando el poder se reparte entre distintos niveles de gobierno.
+
+*Shared Power, Distorted Blame: Partisan and Territorial Bias in Responsibility Attribution* (con Ll. Orriols), en curso
 {: .strand-paper}
 </div>
 
