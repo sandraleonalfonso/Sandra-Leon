@@ -25,7 +25,7 @@ Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y l
 <section class="strand" markdown="1">
 <p class="strand-num">Línea de investigación 2</p>
 
-## Polarización afectiva, razonamiento motivado y democracia
+## Polarización, actitudes partidistas y democracia
 {: #polarization}
 
 <div class="substrand" markdown="1">
