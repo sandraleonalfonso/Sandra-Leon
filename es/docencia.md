@@ -26,12 +26,14 @@ Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analí
   <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Sistemas Políticos Comparados</li></ul></dd>
 </dl>
 
-## Cursos de máster y doctorado como profesora invitada
+## Cursos como profesora invitada
 {: #invited-courses}
 
 <dl class="timeline">
   <dt>2027</dt>
   <dd><span class="tl-role">Universidad de Waseda, Tokio (Japón)</span><span class="tl-org">Junio de 2027 · Próximamente</span><ul class="tags course-tags"><li>Auditing federalism: The promises and perils of decentralized governance</li></ul></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">Escuela del Trabajo, Comisiones Obreras (CCOO), Madrid</span><span class="tl-org">Curso de formación · 13 de febrero de 2024</span><ul class="tags course-tags"><li>Desigualdad económica y desigualdad política</li></ul></dd>
   <dt>2018</dt>
   <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz (Bolivia)</span><span class="tl-org">Programa de doctorado</span><ul class="tags course-tags"><li>Las virtudes y los peligros de la gobernanza descentralizada</li></ul></dd>
   <dt>2017</dt>
@@ -43,7 +45,5 @@ Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analí
   <dt>2011</dt>
   <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz (Bolivia)</span><span class="tl-org">Programa de doctorado</span><ul class="tags course-tags"><li>Descentralización y federalismo</li></ul></dd>
   <dt>2011</dt>
-  <dd><span class="tl-role">FIIAPP, Madrid</span><span class="tl-org">Máster en Estudios Políticos Aplicados</span><ul class="tags course-tags"><li>El gobierno multinivel: Promesas y retos en perspectiva comparada</li></ul></dd>
-  <dt>2008</dt>
-  <dd><span class="tl-role">Escuela de verano de Gobierno y Políticas Públicas de la FIIAPP, Madrid</span><ul class="tags course-tags"><li>Los desafíos de las relaciones intergubernamentales</li></ul></dd>
+  <dd><span class="tl-role">Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas (FIIAPP), Madrid</span><span class="tl-org">Máster en Estudios Políticos Aplicados</span><ul class="tags course-tags"><li>El gobierno multinivel: Promesas y retos en perspectiva comparada</li></ul></dd>
 </dl>

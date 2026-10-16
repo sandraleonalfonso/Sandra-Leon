@@ -5,7 +5,7 @@ permalink: /teaching/
 description: "Teaching by Sandra León at Universidad Autónoma de Madrid, Universidad Carlos III de Madrid and the University of York: elections, political behavior, research methods and federalism."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[University teaching](#university-teaching) · [Invited MA and PhD courses](#invited-courses)
+[University teaching](#university-teaching) · [Invited courses](#invited-courses)
 </nav>
 
 My aim is to give students the knowledge and analytical tools to critically examine political events, and to show that social science research is a continuous process that embraces complexity and uncertainty.
@@ -25,12 +25,14 @@ My aim is to give students the knowledge and analytical tools to critically exam
   <dd><span class="tl-role">Universidad Complutense de Madrid</span><ul class="tags course-tags"><li>Sistemas Políticos Comparados</li></ul></dd>
 </dl>
 
-## Invited MA and PhD courses
+## Invited courses
 {: #invited-courses}
 
 <dl class="timeline">
   <dt>2027</dt>
   <dd><span class="tl-role">Waseda University, Tokyo, Japan</span><span class="tl-org">June 2027 · Forthcoming</span><ul class="tags course-tags"><li>Auditing federalism: The promises and perils of decentralized governance</li></ul></dd>
+  <dt>2024</dt>
+  <dd><span class="tl-role">Escuela del Trabajo, Comisiones Obreras (CCOO), Madrid</span><span class="tl-org">Training course · 13 February 2024</span><ul class="tags course-tags"><li>Desigualdad económica y desigualdad política</li></ul></dd>
   <dt>2018</dt>
   <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz, Bolivia</span><span class="tl-org">PhD programme</span><ul class="tags course-tags"><li>Las virtudes y los peligros de la gobernanza descentralizada</li></ul></dd>
   <dt>2017</dt>
@@ -42,7 +44,5 @@ My aim is to give students the knowledge and analytical tools to critically exam
   <dt>2011</dt>
   <dd><span class="tl-role">Universidad Mayor de San Andrés, La Paz, Bolivia</span><span class="tl-org">PhD programme</span><ul class="tags course-tags"><li>Descentralización y federalismo</li></ul></dd>
   <dt>2011</dt>
-  <dd><span class="tl-role">FIIAPP, Madrid</span><span class="tl-org">MA in Applied Political Studies</span><ul class="tags course-tags"><li>El gobierno multinivel: Promesas y retos en perspectiva comparada</li></ul></dd>
-  <dt>2008</dt>
-  <dd><span class="tl-role">FIIAPP Summer School on Government and Public Policy, Madrid</span><ul class="tags course-tags"><li>Los desafíos de las relaciones intergubernamentales</li></ul></dd>
+  <dd><span class="tl-role">Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas (FIIAPP), Madrid</span><span class="tl-org">MA in Applied Political Studies</span><ul class="tags course-tags"><li>El gobierno multinivel: Promesas y retos en perspectiva comparada</li></ul></dd>
 </dl>

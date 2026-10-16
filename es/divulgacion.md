@@ -146,8 +146,6 @@ Mis artículos en *El País* están en mi [página de autora](http://elpais.com/
   <dt>2024</dt>
   <dd><span class="tl-role">“Elecciones europeas: Agenda y retos de futuro para la UE”</span><span class="tl-org">CIDOB, curso de verano Sofia Corradi sobre la Unión Europea, Barcelona · 8 de julio de 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Desigualdad económica y desigualdad política”</span><span class="tl-org">Escuela del Trabajo, CCOO, Madrid · 13 de febrero de 2024</span></dd>
-  <dt>2024</dt>
   <dd><span class="tl-role">Presentación del libro <em>Un país posible: Manual de reformas políticamente viables</em>, con Toni Roldán, Lucas Gortazar y Pedro Linares, con la moderación de Pilar Kaltzada (Save the Children)</span><span class="tl-org">Coorganizada con Silván &amp; Miracle. Biblioteca de Bidebarrieta, Bilbao · 6 de febrero de 2024</span></dd>
   <dt>2024</dt>
   <dd><span class="tl-role">Presentación del policy paper “Claves sobre la estructura y la negociación de la financiación autonómica”</span><span class="tl-org">Fundació Rafael Campalans, Col·legi de Periodistes de Catalunya, Barcelona · 25 de enero de 2024</span></dd>
