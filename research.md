@@ -37,20 +37,20 @@ With Amuitz Garmendia-Madariaga, we explore territorial affective polarization f
 </div>
 
 <div class="substrand" markdown="1">
-### Shared power and distorted blame
-
-With Lluís Orriols, we study how partisan and territorial biases distort the way citizens attribute responsibility when power is shared across levels of government.
-
-*Shared Power, Distorted Blame: Partisan and Territorial Bias in Responsibility Attribution* (with Ll. Orriols), in progress
-{: .strand-paper}
-</div>
-
-<div class="substrand" markdown="1">
 ### Polarization and cooperation
 
 With Ignacio Jurado and Albert Falcó, we run large-scale behavioral experiments in Spain, Brazil and the United States to test whether affective polarization weakens everyday cooperation. People help less, and with lower quality, when the beneficiary backs their most disliked party. Out-group animosity matters more than in-group affection, personal rewards raise cooperation more than public-good incentives, and political tasks reduce cooperation. Polarization spills over even into minimal, impersonal cooperation.
 
 *Partisan animosity and cooperation: A Behavioral Experiment* (with I. Jurado and A. Falcó), in progress
+{: .strand-paper}
+</div>
+
+<div class="substrand" markdown="1">
+### Shared power and distorted blame
+
+With Lluís Orriols, we study how partisan and territorial biases distort the way citizens attribute responsibility when power is shared across levels of government.
+
+*Shared Power, Distorted Blame: Partisan and Territorial Bias in Responsibility Attribution* (with Ll. Orriols), in progress
 {: .strand-paper}
 </div>
 
