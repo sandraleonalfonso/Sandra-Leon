@@ -5,12 +5,17 @@ lang: es
 permalink: /es/investigacion/
 description: "Líneas de investigación de Sandra León: AI-GOV sobre inteligencia artificial, gobernanza multinivel y rendición de cuentas; polarización afectiva y democracia, incluido el proyecto ERC CONSENT; y el impacto político de las crisis, como la DANA."
 ---
+<nav class="toc" aria-label="En esta página" markdown="1">
+[AI-GOV](#ai-gov) · [Polarización afectiva](#polarization) · [Crisis](#crises) · [Charlas académicas invitadas](#invited-talks)
+</nav>
+
 Mi investigación se centra en la descentralización y el federalismo, la polarización afectiva y las relaciones intergubernamentales. Adopto una perspectiva comparada y utilizo métodos cuantitativos para estudiar la interacción entre las instituciones políticas y el comportamiento electoral. Mi trabajo actual sigue tres líneas de investigación.
 
 <section class="strand" markdown="1">
 <p class="strand-num">Línea de investigación 1</p>
 
 ## AI-GOV: Inteligencia artificial, rendición de cuentas y gobernanza multinivel
+{: #ai-gov}
 
 Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y la rendición de cuentas democrática.
 
@@ -21,6 +26,7 @@ Estudio el impacto de la inteligencia artificial en la gobernanza multinivel y l
 <p class="strand-num">Línea de investigación 2</p>
 
 ## Polarización afectiva, gobernanza multinivel y democracia
+{: #polarization}
 
 <div class="substrand" markdown="1">
 ### Polarización afectiva territorial
@@ -63,6 +69,7 @@ Colaboro en [CONSENT](https://ignaciojurado.com/consent), que estudia por qué q
 <p class="strand-num">Línea de investigación 3</p>
 
 ## El impacto político de las crisis
+{: #crises}
 
 Con Amuitz Garmendia-Madariaga, estudiamos cómo las crisis y los desastres influyen en la confianza de la ciudadanía, en sus preferencias sobre quién debe ejercer el poder y en las divisiones territoriales.
 

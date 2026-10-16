@@ -4,9 +4,13 @@ ref: teaching
 permalink: /teaching/
 description: "Teaching by Sandra León at Universidad Autónoma de Madrid, Universidad Carlos III de Madrid and the University of York: elections, political behavior, research methods and federalism."
 ---
+<nav class="toc" aria-label="On this page" markdown="1">
+[University teaching](#university-teaching) · [Invited MA and PhD courses](#invited-courses)
+</nav>
+
 My aim is to give students the knowledge and analytical tools to critically examine political events, and to show that social science research is a continuous process that embraces complexity and uncertainty.
 
-<dl class="timeline">
+<dl class="timeline" id="university-teaching">
   <dt>2024–2026</dt>
   <dd><span class="tl-role">Universidad Autónoma de Madrid</span><span class="tl-org">MA</span><ul class="tags course-tags"><li>Voting in Modern Democracies</li></ul><span class="tl-org">Undergraduate</span><ul class="tags course-tags"><li>Introducción a la Ciencia Política</li><li>Herramientas de Trabajo Universitario</li><li>Técnicas de Investigación en Ciencia Política</li><li>Elecciones y Comportamiento Electoral</li><li>Relaciones Intergubernamentales y Federalismo</li></ul></dd>
   <dt>2019–2024</dt>
@@ -22,6 +26,7 @@ My aim is to give students the knowledge and analytical tools to critically exam
 </dl>
 
 ## Invited MA and PhD courses
+{: #invited-courses}
 
 <dl class="timeline">
   <dt>2027</dt>
