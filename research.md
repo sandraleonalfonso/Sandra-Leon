@@ -5,7 +5,7 @@ permalink: /research/
 description: "Sandra León's current research: AI-GOV on artificial intelligence, multilevel governance and accountability; affective polarization and democracy, including the ERC CONSENT project; and the political impact of crises such as the DANA floods."
 ---
 <nav class="toc" aria-label="On this page" markdown="1">
-[AI-GOV](#ai-gov) · [Affective polarization](#polarization) · [Crises](#crises) · [Invited academic talks](#invited-talks)
+[Research lines](#ai-gov) · [Invited academic talks](#invited-talks)
 </nav>
 
 My research examines decentralization and federalism, affective polarization, and intergovernmental relations. I adopt a comparative perspective and employ quantitative methods to study the interaction between political institutions and electoral behavior. My current work follows three research lines.

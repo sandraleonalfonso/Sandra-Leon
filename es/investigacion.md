@@ -6,7 +6,7 @@ permalink: /es/investigacion/
 description: "Líneas de investigación de Sandra León: AI-GOV sobre inteligencia artificial, gobernanza multinivel y rendición de cuentas; polarización afectiva y democracia, incluido el proyecto ERC CONSENT; y el impacto político de las crisis, como la DANA."
 ---
 <nav class="toc" aria-label="En esta página" markdown="1">
-[AI-GOV](#ai-gov) · [Polarización afectiva](#polarization) · [Crisis](#crises) · [Charlas académicas invitadas](#invited-talks)
+[Líneas de investigación](#ai-gov) · [Charlas académicas invitadas](#invited-talks)
 </nav>
 
 Mi investigación se centra en la descentralización y el federalismo, la polarización afectiva y las relaciones intergubernamentales. Adopto una perspectiva comparada y utilizo métodos cuantitativos para estudiar la interacción entre las instituciones políticas y el comportamiento electoral. Mi trabajo actual sigue tres líneas de investigación.
