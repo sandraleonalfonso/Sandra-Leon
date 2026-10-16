@@ -74,33 +74,33 @@ With Amuitz Garmendia-Madariaga, we study how crises and disasters shape citizen
 
 <dl class="timeline">
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">García-Pelayo Research Seminar, Centro de Estudios Políticos y Constitucionales, Madrid · 16 April 2026</span></dd>
+  <dd><span class="tl-role">Centro de Estudios Políticos y Constitucionales, Madrid</span><span class="tl-org">García-Pelayo Research Seminar · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga) · 16 April 2026</span></dd>
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Department of Politics and International Relations, University of Sheffield · 25 March 2026</span></dd>
+  <dd><span class="tl-role">University of Sheffield</span><span class="tl-org">Department of Politics and International Relations · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga) · 25 March 2026</span></dd>
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Department seminar, School of Public Policy, London School of Economics · 9 February 2026</span></dd>
+  <dd><span class="tl-role">London School of Economics</span><span class="tl-org">Department seminar, School of Public Policy · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga) · 9 February 2026</span></dd>
   <dt>2026</dt>
-  <dd><span class="tl-role">“Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Department seminar, Department of Political Economy, King’s College London · 28 January 2026</span></dd>
+  <dd><span class="tl-role">King’s College London</span><span class="tl-org">Department seminar, Department of Political Economy · “Disaster in a distrustful democracy: Public reactions to the DANA crisis in Spain” (with Amuitz Garmendia-Madariaga) · 28 January 2026</span></dd>
   <dt>2025</dt>
-  <dd><span class="tl-role">“From two-party rule to polarization: Ten years of Spanish politics”</span><span class="tl-org">European Studies Centre, St Antony’s College, University of Oxford · 11 November 2025</span></dd>
+  <dd><span class="tl-role">University of Oxford</span><span class="tl-org">European Studies Centre, St Antony’s College · “From two-party rule to polarization: Ten years of Spanish politics” · 11 November 2025</span></dd>
   <dt>2025</dt>
-  <dd><span class="tl-role">“Polarization and cooperation” (with Ignacio Jurado and Albert Falcó)</span><span class="tl-org">Department of Politics and International Relations, University of Oxford · 30 May 2025</span></dd>
+  <dd><span class="tl-role">University of Oxford</span><span class="tl-org">Department of Politics and International Relations · “Polarization and cooperation” (with Ignacio Jurado and Albert Falcó) · 30 May 2025</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Global challenges, IOs’ governance, and public attitudes towards (dis)integration: Evidence from climate change mitigation agreements” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Department of Political Science (IPZ), University of Zurich · 18 November 2024</span></dd>
+  <dd><span class="tl-role">University of Zurich</span><span class="tl-org">Department of Political Science (IPZ) · “Global challenges, IOs’ governance, and public attitudes towards (dis)integration: Evidence from climate change mitigation agreements” (with Amuitz Garmendia-Madariaga) · 18 November 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Polarization and cooperation” (with Ignacio Jurado and Albert Falcó)</span><span class="tl-org">CSIC, Madrid · 13 March 2024</span></dd>
+  <dd><span class="tl-role">CSIC, Madrid</span><span class="tl-org">“Polarization and cooperation” (with Ignacio Jurado and Albert Falcó) · 13 March 2024</span></dd>
   <dt>2024</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Workshop “Territoriality and dynamics of regional and local voting”, University of Bergen · 18 January 2024</span></dd>
+  <dd><span class="tl-role">University of Bergen</span><span class="tl-org">Workshop “Territoriality and dynamics of regional and local voting” · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga) · 18 January 2024</span></dd>
   <dt>2023</dt>
-  <dd><span class="tl-role">“La articulación de la gobernanza autonómica: Financiación y relaciones intergubernamentales”</span><span class="tl-org">Seminar “Una nueva gobernanza para el siglo XXI”, session “Gobernanza multinivel”, Centro de Estudios Políticos y Constitucionales, Madrid · 28–29 March 2023</span></dd>
+  <dd><span class="tl-role">Centro de Estudios Políticos y Constitucionales, Madrid</span><span class="tl-org">Seminar “Una nueva gobernanza para el siglo XXI”, session “Gobernanza multinivel” · “La articulación de la gobernanza autonómica: Financiación y relaciones intergubernamentales” · 28–29 March 2023</span></dd>
   <dt>2023</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">European University Institute, Florence · 16 February 2023</span></dd>
+  <dd><span class="tl-role">European University Institute, Florence</span><span class="tl-org">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga) · 16 February 2023</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Brownbag Seminar, IE University · 2 December 2022</span></dd>
+  <dd><span class="tl-role">IE University</span><span class="tl-org">Brownbag Seminar · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga) · 2 December 2022</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Research seminar, University of Bergen · 14 September 2022</span></dd>
+  <dd><span class="tl-role">University of Bergen</span><span class="tl-org">Research seminar · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga) · 14 September 2022</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga)</span><span class="tl-org">Research seminar, University of Oslo · 13 September 2022</span></dd>
+  <dd><span class="tl-role">University of Oslo</span><span class="tl-org">Research seminar · “Crisis management and territorial preferences: Experimental evidence during the pandemic” (with Amuitz Garmendia-Madariaga) · 13 September 2022</span></dd>
   <dt>2022</dt>
-  <dd><span class="tl-role">“Desafíos políticos al modelo territorial tras la pandemia”</span><span class="tl-org">Summer course “Los retos de la política en una España en cambio permanente”, UNED, Dénia · 8 July 2022</span></dd>
+  <dd><span class="tl-role">UNED, Dénia</span><span class="tl-org">Summer course “Los retos de la política en una España en cambio permanente” · “Desafíos políticos al modelo territorial tras la pandemia” · 8 July 2022</span></dd>
 </dl>
