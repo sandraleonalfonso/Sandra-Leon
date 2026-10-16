@@ -4,12 +4,17 @@ ref: research
 permalink: /research/
 description: "Sandra León's current research: AI-GOV on artificial intelligence, multilevel governance and accountability; affective polarization and democracy, including the ERC CONSENT project; and the political impact of crises such as the DANA floods."
 ---
+<nav class="toc" aria-label="On this page" markdown="1">
+[AI-GOV](#ai-gov) · [Affective polarization](#polarization) · [Crises](#crises) · [Invited academic talks](#invited-talks)
+</nav>
+
 My research examines decentralization and federalism, affective polarization, and intergovernmental relations. I adopt a comparative perspective and employ quantitative methods to study the interaction between political institutions and electoral behavior. My current work follows three research lines.
 
 <section class="strand" markdown="1">
 <p class="strand-num">Research line 1</p>
 
 ## AI-GOV: Artificial intelligence, accountability and multilevel governance
+{: #ai-gov}
 
 I study the impact of artificial intelligence on multilevel governance and democratic accountability.
 
@@ -20,6 +25,7 @@ I study the impact of artificial intelligence on multilevel governance and democ
 <p class="strand-num">Research line 2</p>
 
 ## Affective polarization, multilevel governance and democracy
+{: #polarization}
 
 <div class="substrand" markdown="1">
 ### Territorial affective polarization
@@ -62,6 +68,7 @@ I am a collaborator in [CONSENT](https://ignaciojurado.com/consent), which studi
 <p class="strand-num">Research line 3</p>
 
 ## The political impact of crises
+{: #crises}
 
 With Amuitz Garmendia-Madariaga, we study how crises and disasters shape citizens' trust, their views on who should hold power, and territorial divides.
 

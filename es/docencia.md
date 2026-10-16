@@ -5,9 +5,13 @@ lang: es
 permalink: /es/docencia/
 description: "Docencia de Sandra León en la Universidad Autónoma de Madrid, la Universidad Carlos III de Madrid y la Universidad de York: elecciones, comportamiento político, métodos de investigación y federalismo."
 ---
+<nav class="toc" aria-label="En esta página" markdown="1">
+[Docencia universitaria](#university-teaching) · [Cursos como profesora invitada](#invited-courses)
+</nav>
+
 Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analíticas para examinar críticamente los acontecimientos políticos, y mostrar que la investigación en ciencias sociales es un proceso continuo que asume la complejidad y la incertidumbre.
 
-<dl class="timeline">
+<dl class="timeline" id="university-teaching">
   <dt>2024–2026</dt>
   <dd><span class="tl-role">Universidad Autónoma de Madrid</span><span class="tl-org">Máster</span><ul class="tags course-tags"><li>Voting in Modern Democracies</li></ul><span class="tl-org">Grado</span><ul class="tags course-tags"><li>Introducción a la Ciencia Política</li><li>Herramientas de Trabajo Universitario</li><li>Técnicas de Investigación en Ciencia Política</li><li>Elecciones y Comportamiento Electoral</li><li>Relaciones Intergubernamentales y Federalismo</li></ul></dd>
   <dt>2019–2024</dt>
@@ -23,6 +27,7 @@ Mi objetivo es dar a los estudiantes los conocimientos y las herramientas analí
 </dl>
 
 ## Cursos de máster y doctorado como profesora invitada
+{: #invited-courses}
 
 <dl class="timeline">
   <dt>2027</dt>
