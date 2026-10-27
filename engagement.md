@@ -68,6 +68,8 @@ My op-eds in *El País* are collected on my [author page](http://elpais.com/auto
 
 <dl class="timeline">
   <dt>2026</dt>
+  <dd><span class="tl-role">Interview on polarization</span><span class="tl-org">Onda Cero, <em>La Brújula</em>, with Marta García Aller, 20 October</span></dd>
+  <dt>2026</dt>
   <dd><span class="tl-role">Analysis of the day’s headlines (<a href="https://prisa-es.mc.tritondigital.com/HOY_POR_HOY_SEC_EL_PRIMER_ANALISIS_VISIBLE_SER_PODCAST_4423_P/media/playser/audio/202610/14/5155893.mp3">listen</a>)</span><span class="tl-org">Cadena SER, <em>Hoy por Hoy</em>, “El primer análisis”, 14 October</span></dd>
   <dt>2023</dt>
   <dd><span class="tl-role">Interview on undecided voters</span><span class="tl-org">Cadena SER, <em>El Faro</em>, 23 January</span></dd>
