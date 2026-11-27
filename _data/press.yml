@@ -1,6 +1,18 @@
 # Press items for the Public engagement page (both languages).
 # note: optional text shown after the title, e.g. co-author. Use note_es for the Spanish page.
 media:
+- outlet: Dagens Nyheter
+  date: 23/11/2026
+  title: '”Hela Europas vänsterledare” pressad – försöker skapa ny sorts patriotism'
+  url: https://www.dn.se/varlden/hela-europas-vansterledare-pressad-forsoker-skapa-ny-sorts-patriotism/
+  note: Sweden
+  note_es: Suecia
+- outlet: elDiario.es
+  date: 11/2026
+  title: 'Encuestas flash, ''trackings'', el Ohio español o las apuestas: ¿por qué nos gusta predecir un resultado electoral?'
+  url: https://www.eldiario.es/politica/encuestas-flash-trackings-ohio-espanol-apuestas-gusta-predecir-resultado-electoral_1_13679244.html
+  note: by Raquel Ejerique
+  note_es: de Raquel Ejerique
 - outlet: elDiario.es
   date: 06/10/2026
   title: Por qué Ayuso y Abascal tiran del manual de la ultraderecha para cuestionar las elecciones
